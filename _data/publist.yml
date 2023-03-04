@@ -2,8 +2,8 @@
   title: "SViTT: Temporal Learning of Sparse Video-Text Transformer"
   author: Yi Li, Kyle Min, Subarna Tripathi, Nuno Vasconcelos  
   link:
-    display: VRL
-    url: http://vrl.intel.com/ViewDocument/Index/96462
+    display: arXiv
+    url: 
   ref: Yi2023
   venue: 'Computer Vision and Pattern Recognition (CVPR), '
   year: '2023'
@@ -13,8 +13,8 @@
   title: "Unbiased video scene graph generation"
   author: Sayak Nag, Kyle Min, Subarna Tripathi, Amit Roy Choudhury  
   link:
-    display: VRL
-    url: http://vrl.intel.com/ViewDocument/Index/96463
+    display: arXiv
+    url: 
   ref: Nag2023
   venue: 'Computer Vision and Pattern Recognition (CVPR), '
   year: '2023'
