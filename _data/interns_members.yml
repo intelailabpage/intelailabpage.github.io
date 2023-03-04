@@ -1,0 +1,15 @@
+- name: Xinyu Yuan
+  photo: xinyu.jpg
+  website: https://github.com/KatarinaYuan
+  info: Graph learning
+  email: ailabpage@gmail.com
+
+
+- name: "This could be you"
+  photo: rock.jpg
+  info: Grad student
+  email: email@email.com
+  number_educ: 0
+  education1:
+
+

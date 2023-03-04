@@ -1,0 +1,243 @@
+- name: Anthony Sarah
+  photo: anthony.jpg
+  info: 
+  email: anthony.sarah@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: Carmelo Gonzalez
+  photo: carmelo.jpg
+  info: 
+  email: carmelo.gonzalez@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+- name: Hassam Sheikh
+  photo: hassam.jpg
+  info: 
+  email: hassam.seikh@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:  
+
+- name: Hector Valdez
+  photo: hector.jpg
+  info: 
+  email: hector.valdez@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+- name: Hesham Mostafa
+  photo: hesham.jpg
+  info: 
+  email: hesham.mostafa@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+- name: John Martin
+  photo: john.jpg
+  info: 
+  email: john.martin@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:  
+
+- name: Kyle Min
+  photo: kyle.jpg
+  info: 
+  email: kyle.min@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+- name: Lauren Wong
+  photo: lauren.jpg
+  info: 
+  email: lauren.wong@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+- name:  Maciej Szankin
+  photo: maciej.jpg
+  info: 
+  email: lauren.wong@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+ 
+- name: Marcel Nassar
+  photo: marcel.jpg
+  info: 
+  email: marcel.nassar@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+- name: Mariano Phielipp
+  photo: mariano.jpg
+  info: 
+  email: mariano.phielipp@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+
+- name:  Mikhail Galkin
+  photo: mikhail.jpg
+  info: 
+  email: mikhail.galkin@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+
+- name: Sainan Liu
+  photo: sainan.jpg
+  info: 
+  email: sainan.liu@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+- name: Sairam Sundaresan
+  photo: sairam.jpg
+  info: 
+  email: sairam.sundaresan@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+- name: Santiago Miret
+  photo: santiago.jpg
+  info: 
+  email: santiago.miret@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+- name: Sean McPherson
+  photo: sean.jpg
+  info: 
+  email: sean.mcpherson@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+
+- name: Sharath Nittur Sridhar
+  photo: sharath.jpg
+  info: 
+  email: sharath.sridhar@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+- name: Somdeb Majumdar
+  photo: som.jpg
+  info: 
+  email: somdeb.majumdar@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+
+- name: Souvik Kundu
+  photo: souvik.jpg
+  info: 
+  email: souvik.kundu@intel.com
+  number_educ: 2
+  education1:  
+  education2: 
+  education3: 
+  education4: 
+  education5:
+
+- name: Subarna Tripathi
+  photo: subarna.png
+  info: Research Scientist AI/ML. Computer vision, multimodal learning, video understanding. <a href="https://subarnatripathi.github.io/">Website</a>
+  email: subarna.tripathi@intel.com
+  number_educ: 3
+  education1: PhD from UC San Diego 
+  education2: MS Research from Indian Institite of Technology Delhi
+  education3: BS from West Bengal University of Technology
+  education4: 
+  education5: 
+
+- name: Uday Mallappa
+  photo: uday.jpg
+  info: Research Scientist
+  email: uday.malappa@gmail.com
+  number_educ: 2
+  education1:
+  education2:
+  education3:
+  education4:
+ 
+- name: "This could be you !"
+  photo: bio-photo.jpg
+  info: See <a href="http://www.ailabpage.github.io/vacancies">openings</a> for more info
+  email: ailabpage@gmail.com
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:

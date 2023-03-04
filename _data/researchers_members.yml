@@ -1,0 +1,149 @@
+- name: Anthony Sarah
+  photo: anthony.jpg
+  email: anthony.sarah@intel.com
+  info: Algo-HW co-design
+  website: 
+
+
+- name: Carmelo Gonzalez
+  photo: carmelo.jpg
+  info: 
+  email: carmelo.gonzalez@intel.com
+  website: 
+
+- name: Hassam Sheikh
+  photo: hassam.jpg
+  info: Reinforcement learning
+  email: hassam.seikh@intel.com
+  website: 
+ 
+
+- name: Hector Valdez
+  photo: hector.jpg
+  info: 
+  email: hector.valdez@intel.com
+  website: 
+
+
+- name: Hesham Mostafa
+  photo: hesham.jpg
+  info: Graph learning
+  email: hesham.mostafa@intel.com
+  website: 
+
+
+- name: John Martin
+  photo: john.jpg
+  info: Reinforcement learning
+  email: john.martin@intel.com
+  website: https://jdmartin86.github.io/
+ 
+
+- name: Kyle Min
+  photo: kyle.jpg
+  info: Computer vision, multimodal learning
+  email: kyle.min@intel.com
+  website: https://sites.google.com/view/kylemin 
+
+
+- name: Lauren Wong
+  photo: lauren.jpg
+  info: 
+  email: lauren.wong@intel.com
+  website: 
+
+
+- name:  Maciej Szankin
+  photo: maciej.jpg
+  info: Algo-HW co-design 
+  email: maciej.szankin@intel.com
+
+ 
+- name: Marcel Nassar
+  photo: marcel.jpg
+  info: Graph learning
+  email: marcel.nassar@intel.com
+  website: 
+
+
+- name: Mariano Phielipp
+  photo: mariano.jpg
+  info: AI chip design and manufacturing
+  email: mariano.phielipp@intel.com
+  website: 
+
+
+- name:  Mikhail Galkin
+  photo: mikhail.jpg
+  info: Graph learning
+  email: mikhail.galkin@intel.com
+  website: https://migalkin.github.io/
+
+
+- name: Sainan Liu
+  photo: sainan.jpg
+  info: 3D vision, neural rendering
+  email: sainan.liu@intel.com
+  website: 
+
+- name: Sairam Sundaresan
+  photo: sairam.jpg
+  info: Algo-HW co-design
+  email: sairam.sundaresan@intel.com
+  website: 
+
+
+- name: Santiago Miret
+  photo: santiago.jpg
+  info: AI for science
+  email: santiago.miret@intel.com
+  website: 
+
+- name: Sean McPherson
+  photo: sean.jpg
+  info: 
+  email: sean.mcpherson@intel.com
+  website: 
+
+- name: Sharath Nittur Sridhar
+  photo: sharath.jpg
+  info: Algo-HW co-design
+  email: sharath.sridhar@intel.com
+  website: 
+
+- name: Somdeb Majumdar
+  photo: som.jpg
+  info: Lab Director
+  email: somdeb.majumdar@intel.com
+  website: 
+
+- name: Souvik Kundu
+  photo: souvik.jpg
+  info: Energy efficiency, robustness, privacy in ML 
+  email: souvikk.kundu@intel.com
+  website: https://ksouvik52.github.io/
+
+- name: Subarna Tripathi
+  photo: subarna.png
+  info: Computer vision, multimodal learning
+  email: subarna.tripathi@intel.com
+  website: https://subarnatripathi.github.io 
+
+- name: Uday Mallappa
+  photo: uday.jpg
+  info: Physical design and ML 
+  email: uday.malappa@intel.com
+  website: 
+
+# - name: Xinyu Yuan
+#   photo: xinyu.jpg
+#   info: Graph Learning Intern
+#   email: ailabpage@gmail.com
+#   website: 
+
+ 
+# - name: "This could be you !"
+#   photo: bio-photo.jpg
+#   info: See <a href="http://www.ailabpage.github.io/vacancies">openings</a> for more info
+#   email: ailabpage@gmail.com
+

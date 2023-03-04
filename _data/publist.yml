@@ -1,0 +1,76 @@
+- address: Vancouver
+  title: "SViTT: Temporal Learning of Sparse Video-Text Transformer"
+  author: Yi Li, Kyle Min, Subarna Tripathi, Nuno Vasconcelos  
+  link:
+    display: VRL
+    url: http://vrl.intel.com/ViewDocument/Index/96462
+  ref: Yi2023
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: '2023'
+  pub_type: conference
+
+- address: Vancouver
+  title: "Unbiased video scene graph generation"
+  author: Sayak Nag, Kyle Min, Subarna Tripathi, Amit Roy Choudhury  
+  link:
+    display: VRL
+    url: http://vrl.intel.com/ViewDocument/Index/96463
+  ref: Nag2023
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: '2023'
+  pub_type: conference
+
+- address: Vancouver
+  title: "Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs"
+  author: Shengyu Feng, Hesham Mostafa, Marcel Nassar, Somdeb Majumdar, Subarna Tripathi  
+  link:
+    display: CVF
+    url: https://openaccess.thecvf.com/content/WACV2023/papers/Feng_Exploiting_Long-Term_Dependencies_for_Generating_Dynamic_Scene_Graphs_WACV_2023_paper.pdf
+  ref: Nag2023
+  venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
+  year: '2023'
+  pub_type: conference  
+
+- address: New Orleans
+  title: "Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos"
+  author: Shaowei Liu, Subarna Tripathi, Somdeb Majumdar, Xiaolong Wang  
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2204.01696
+  ref: Liu2022
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: '2022'
+  pub_type: conference
+
+- address: New Orleans
+  title: "Text Spotting Transformers"
+  author: Xiang Zhang, Yongwen Su, Subarna Tripathi, Zhuowen Tu  
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2204.01918
+  ref: Zhang2022
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: '2022'
+  pub_type: conference  
+
+- address: Telaviv
+  title: "Learning long-term spatial-temporal graphs for active speaker detection"
+  author: Kyle Min*, Sourya Roy*, Subarna Tripathi, Tanaya Guha, Somdeb Majumdar  
+  link:
+    display: arXiv
+    url: https://arxiv.org/pdf/2207.07783.pdf
+  ref: Min2022
+  venue: 'European Conference on Computer Vision (ECCV), '
+  year: '2022'
+  pub_type: conference
+
+- address: Telaviv
+  title: "Single-Stage Visual Relationship Learning using Conditional Queries"
+  author: Alakh Desai, Tz-Ying Wu, Subarna Tripathi, Nuno Vasconcelos  
+  link:
+    display: openReview
+    url: https://openreview.net/forum?id=hPVXHzzK0z
+  ref: Desai2022
+  venue: 'Neural Information Processing Systems (NeurIPS), '
+  year: '2022'
+  pub_type: conference
