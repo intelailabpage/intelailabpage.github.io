@@ -1,9 +1,9 @@
 ---
-title: "Intel AI Lab - AOA"
+title: "Intel AI Lab - blogs"
 layout: textlay
-excerpt: "AOA"
+excerpt: "blogs"
 sitemap: false
-permalink: /aoa.html
+permalink: /blogs.html
 ---
 
 # Calendar
