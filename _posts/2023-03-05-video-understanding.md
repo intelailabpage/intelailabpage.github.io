@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "video-understanding"
 date: 2023-03-05
 ---
