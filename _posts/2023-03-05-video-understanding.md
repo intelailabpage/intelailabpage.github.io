@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video Understanding
+title: "Video Understanding"
 author: <a href="https://subarnatripathi.github.io/"> Subarna Tripathi </a>
 permalink: /2023/03/05/video-understanding.html
 categories: VIDEO-UNDERSTANDING COMPUTER-VISION STRUCTURED--REPRESENTATION-LEARNING
