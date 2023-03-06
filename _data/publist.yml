@@ -1,3 +1,14 @@
+- address: Kigali
+  title: "Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference"
+  author: Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Liu, Peter A. Beerel
+  link:
+    display: Openreview
+    url: https://openreview.net/forum?id=BGF9IeDfmlH
+  ref: LinKun2023
+  venue: 'International Conference on Learning Representation (ICLR), '
+  year: '2023'
+  pub_type: conference
+  
 - address: Vancouver
   title: "SViTT: Temporal Learning of Sparse Video-Text Transformer"
   author: Yi Li, Kyle Min, Subarna Tripathi, Nuno Vasconcelos  
