@@ -5,7 +5,6 @@
 {% for post in site.posts limit:5 %}
 <p>{{ post.date }} <br>
     <a href="{{ site.url }}{{ site.baseurl }}{{post.permalink}}"> <h5>{{ post.title | markdownify}}</h5></a> </p>
-Debug - check site address: {{ site.url }}{{ site.baseurl }}{{post.permalink}}
 <!-- {{ post.excerpt}} -->
 {{ post.content | truncatewords: 30 }}
 {% endfor %}
