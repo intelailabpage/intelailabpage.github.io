@@ -8,6 +8,12 @@
   venue: 'International Conference on Learning Representation (ICLR), '
   year: '2023'
   pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
   
 - address: Vancouver
   title: "SViTT: Temporal Learning of Sparse Video-Text Transformer"
@@ -19,6 +25,12 @@
   venue: 'Computer Vision and Pattern Recognition (CVPR), '
   year: '2023'
   pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
 
 - address: Vancouver
   title: "Unbiased video scene graph generation"
@@ -30,6 +42,12 @@
   venue: 'Computer Vision and Pattern Recognition (CVPR), '
   year: '2023'
   pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
   
 - address: San Fransisco
   title: "C2PI: An Efficient Crypto-Clear Two-Party Neural Network Private Inference"
@@ -41,6 +59,12 @@
   venue: 'Design Automation Conference (DAC), '
   year: '2023'
   pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
 
 - address: Vancouver
   title: "Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs"
@@ -51,7 +75,13 @@
   ref: Nag2023
   venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
   year: '2023'
-  pub_type: conference  
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
   
 - address: Hawaii
   title: "FLOAT: Fast Learnable Once-for-All Adversarial Training for Tunable Trade-off between Accuracy and Robustness"
@@ -62,7 +92,13 @@
   ref: floatkun2023
   venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
   year: '2023'
-  pub_type: conference  
+  pub_type: conference 
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
   
 - address: Hawaii
   title: "Self-Attentive Pooling for Efficient Deep Learning"
@@ -74,6 +110,12 @@
   venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
   year: '2023'
   pub_type: conference  
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
 
 - address: New Orleans
   title: "Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos"
@@ -85,6 +127,12 @@
   venue: 'Computer Vision and Pattern Recognition (CVPR), '
   year: '2022'
   pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
 
 - address: New Orleans
   title: "Text Spotting Transformers"
@@ -95,7 +143,13 @@
   ref: Zhang2022
   venue: 'Computer Vision and Pattern Recognition (CVPR), '
   year: '2022'
-  pub_type: conference  
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
 
 - address: Telaviv
   title: "Learning long-term spatial-temporal graphs for active speaker detection"
@@ -107,6 +161,12 @@
   venue: 'European Conference on Computer Vision (ECCV), '
   year: '2022'
   pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
 
 - address: Telaviv
   title: "Single-Stage Visual Relationship Learning using Conditional Queries"
@@ -118,3 +178,9 @@
   venue: 'Neural Information Processing Systems (NeurIPS), '
   year: '2022'
   pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
