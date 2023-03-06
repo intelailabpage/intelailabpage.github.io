@@ -4,7 +4,7 @@
   link:
     display: Openreview
     url: https://openreview.net/forum?id=BGF9IeDfmlH
-  ref: LinKun2023
+  ref: linKun2023
   venue: 'International Conference on Learning Representation (ICLR), '
   year: '2023'
   pub_type: conference
@@ -30,6 +30,17 @@
   venue: 'Computer Vision and Pattern Recognition (CVPR), '
   year: '2023'
   pub_type: conference
+  
+  - address: San Fransisco
+  title: "C2PI: An Efficient Crypto-Clear Two-Party Neural Network Private Inference"
+  author: Yuke Zhang, Dake Chen, Souvik Kundu, Haomei Liu, Ruiheng Peng, Peter A. Beerell
+  link:
+    display: arxiv
+    url: 
+  ref: zhangc2pi2023
+  venue: 'Design Automation Conference (DAC), '
+  year: '2023'
+  pub_type: conference
 
 - address: Vancouver
   title: "Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs"
@@ -38,6 +49,28 @@
     display: CVF
     url: https://openaccess.thecvf.com/content/WACV2023/papers/Feng_Exploiting_Long-Term_Dependencies_for_Generating_Dynamic_Scene_Graphs_WACV_2023_paper.pdf
   ref: Nag2023
+  venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
+  year: '2023'
+  pub_type: conference  
+  
+  - address: Hawaii
+  title: "FLOAT: Fast Learnable Once-for-All Adversarial Training for Tunable Trade-off between Accuracy and Robustness"
+  author: Souvik Kundu, Sairam Sundaresan, Massoud Pedram, Peter A. Beerel  
+  link:
+    display: CVF
+    url: https://openaccess.thecvf.com/content/WACV2023/papers/Kundu_FLOAT_Fast_Learnable_Once-for-All_Adversarial_Training_for_Tunable_Trade-Off_Between_WACV_2023_paper.pdf
+  ref: floatkun2023
+  venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
+  year: '2023'
+  pub_type: conference  
+  
+    - address: Hawaii
+  title: "Self-Attentive Pooling for Efficient Deep Learning"
+  author: Fang Chen, Gourav Datta, Souvik Kundu, Peter A. Beerel  
+  link:
+    display: CVF
+    url: https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Self-Attentive_Pooling_for_Efficient_Deep_Learning_WACV_2023_paper.pdf
+  ref: selffang2023
   venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
   year: '2023'
   pub_type: conference  
