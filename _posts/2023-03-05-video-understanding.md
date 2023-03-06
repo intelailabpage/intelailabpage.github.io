@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Video Understanding"
-author: <a href="https://subarnatripathi.github.io/"> Subarna Tripathi </a>
+title: "Spatio-temporal graph based video representation learning"
 date: 2023-03-05
 permalink: /2023/03/05/video-understanding.html
+author: <a href="https://subarnatripathi.github.io/"> Subarna Tripathi </a>
+excerpt: "Current video understanding systems accurately recognize patterns in short video clips, but fails to process a video content over a few seconds due to computation and memory bottleneck. We propose a video representation method based on a spatio-temporal graph learning (SPELL) to equip it with long-term reasoning ability... "  
 ---
 
 
