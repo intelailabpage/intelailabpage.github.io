@@ -31,7 +31,7 @@
   year: '2023'
   pub_type: conference
   
-  - address: San Fransisco
+- address: San Fransisco
   title: "C2PI: An Efficient Crypto-Clear Two-Party Neural Network Private Inference"
   author: Yuke Zhang, Dake Chen, Souvik Kundu, Haomei Liu, Ruiheng Peng, Peter A. Beerell
   link:
@@ -53,7 +53,7 @@
   year: '2023'
   pub_type: conference  
   
-  - address: Hawaii
+- address: Hawaii
   title: "FLOAT: Fast Learnable Once-for-All Adversarial Training for Tunable Trade-off between Accuracy and Robustness"
   author: Souvik Kundu, Sairam Sundaresan, Massoud Pedram, Peter A. Beerel  
   link:
@@ -64,7 +64,7 @@
   year: '2023'
   pub_type: conference  
   
-    - address: Hawaii
+- address: Hawaii
   title: "Self-Attentive Pooling for Efficient Deep Learning"
   author: Fang Chen, Gourav Datta, Souvik Kundu, Peter A. Beerel  
   link:
