@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Video Understanding"
+permalink: /2023/03/05/video-understanding.html
 author: <a href="https://subarnatripathi.github.io/"> Subarna Tripathi </a>
 categories: VIDEO-UNDERSTANDING COMPUTER-VISION STRUCTURED--REPRESENTATION-LEARNING
 date: 2023-03-05
@@ -15,4 +16,4 @@ So, how do we enable accurate and efficient long-term visual understanding? An i
 runs on long videos. To that end, we propose a novel video representation method based on Spatio-Temporal Graphs Learning (SPELL) to equip 
 it with long-term reasoning capability. 
 <!-- Figure 1 shows the time support capability for SPELL vs other methods.  -->
-<!-- permalink: /2023/03/05/video-understanding.html -->
+
