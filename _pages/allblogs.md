@@ -12,9 +12,7 @@ permalink: /allblogs.html
 
 <h3> <a href="{{site.url }}{{ site.baseurl }}{{blog.permalink}}"> {{blog.title}}  </a> </h3>
 <h5><mark>Click the title for the details.</mark></h5> 
-<!-- <h5>{{site.url }}</h5>
-<h5>{{site.baseurl }}</h5>
-<h5>{{blog.permalink}}</h5> -->
+Debug: check site url: {{ site.url }}{{ site.baseurl }}{{post.permalink}}
 {{ blog.excerpt}} 
 
 </div>
