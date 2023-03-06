@@ -8,9 +8,6 @@
 # - date: 1. February 2023
 #   headline: We are starting a new effort on AI for Science focused on developing groundbreaking AI innovations with strategic partners including MILA (led by Yoshua Bengio) and the Matter Lab at U. of Toronto (led by Alán Aspuru-Guzik). 
 
-- date: 26. October 2022
-  headline: Checkout our blog on <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Spatio-Temporal-Graphs-for-Long-Term-Video-Understanding/post/1425258#.Y1oG7jhUOBs.linkedin"> graph-based long term video understanding </a>
-
 - date: 15. June 2022
   headline: We released <a href="https://github.com/IntelLabs/DyNAS-T"> Dynas-T </a>, a super-network neural architecture search NAS optimization package designed for efficiently discovering optimal deep neural network (DNN) architectures for a variety of performance objectives such as accuracy, latency, multiply-and-accumulates, and model size.
 
