@@ -3,7 +3,11 @@
 <h4>Blogs</h4>
 
 {% for post in site.posts limit:5 %}
-<p>{{ post.date }}<br>{{ post.title | markdownify}}</p>
+<p>{{ post.date }} <br>
+    <a href="{{ site.url }}{{ site.baseurl }}/{{post.permalink}}"> <h5>{{ post.title | markdownify}}</h5></a> </p>
+
+<!-- {{ post.excerpt}} -->
+{{ post.content | truncatewords: 30 }}
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allblogs.html">... see all Blogs</a></h4>
