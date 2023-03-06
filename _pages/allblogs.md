@@ -8,13 +8,12 @@ permalink: /allblogs.html
 
 
 {% for blog in site.posts %}
-<!-- <p>{{ article.date }} <br>
-<em>{{ article.headline | markdownify}}</em></p> -->
 <div> 
-<h3>{{blog.title}} - {{blog.date}} </h3>
-<h4>{{blog.author}} </h4>
-{{ blog.content | markdownify}} 
- <ul style="overflow: hidden"></ul>
+<h3> <a href="{{ site.url }}{{ site.baseurl }}/{{blog.permalink}}"> {{blog.title}}  </a> </h3>
+<!-- <h4>{{blog.author}} </h4> -->
+<h5><mark>Click the title for the details.</mark></h5>
+{{ blog.excerpt}} 
+
 </div>
 
 {% endfor %}
