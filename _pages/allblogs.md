@@ -9,6 +9,9 @@ permalink: /allblogs.html
 
 {% for blog in site.posts %}
 <div> 
+{{site.url }}
+{{site.baseurl }} 
+{{blog.permalink}} 
 <h3> <a href="{{ site.baseurl }}{{blog.permalink}}"> {{blog.title}}  </a> </h3>
 <h5><mark>Click the title for the details.</mark></h5>
 {{ blog.excerpt}} 
