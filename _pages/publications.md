@@ -85,7 +85,8 @@ permalink: /publications/
   {{ publi.author }} <br />
   <b> {{ publi.title }} </b> <br />
   {{ publi.venue }} {{ publi.year }}. <br />
-  <a href="{{ publi.link.url }}">[{{ publi.link.display }}]</a>
+  <a href="{{ publi.link.url }}">[{{ publi.link.display }}]</a> <a href="{{ publi.project.url }}">[{{ publi.project.display }}]</a> 
+  <a href="{{ publi.code.url }}">[{{ publi.code.display }}]</a>  
 
 {% else %}
 
