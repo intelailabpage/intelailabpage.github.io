@@ -9,10 +9,11 @@ permalink: /pictures/
 <!-- Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews) -->
 
 
-## Test
+## Events
 
-#### Test test [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
+<!-- #### Test test [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN): -->
+### AI Journey talk by Somdeb Majumdar
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jFdsJiejZyw??start=76&end=120" frameborder="0" allowfullscreen></iframe>
 
 ### Gallery
 (Right-click *'view image'* to see a larger image.)
