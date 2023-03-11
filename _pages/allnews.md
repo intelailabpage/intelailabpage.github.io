@@ -6,9 +6,11 @@ sitemap: false
 permalink: /allnews.html
 ---
 
-# News
 
+# 🔥 News
 {% for article in site.data.news %}
-<p>{{ article.date }} <br>
-<em>{{ article.headline | markdownify}}</em></p>
+<div>
+<!-- {{ article.date }} : {{ article.headline | markdownify}} -->
+{{ article.date }} : {{ article.headline}}  
+</div>
 {% endfor %}
