@@ -66,7 +66,7 @@
     display: code
     url: 
 
-- address: Vancouver
+- address: Hawaii
   title: "Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs"
   author: Shengyu Feng, Hesham Mostafa, Marcel Nassar, Somdeb Majumdar, Subarna Tripathi  
   link:
@@ -81,7 +81,7 @@
     url:  
   code: 
     display: code
-    url: 
+    url: https://github.com/Shengyu-Feng/DSG-DETR 
   
 - address: Hawaii
   title: "FLOAT: Fast Learnable Once-for-All Adversarial Training for Tunable Trade-off between Accuracy and Robustness"
@@ -129,10 +129,10 @@
   pub_type: conference
   project: 
     display: project
-    url:  
+    url: https://stevenlsw.github.io/hoi-forecast/  
   code: 
     display: code
-    url: 
+    url: https://github.com/stevenlsw/hoi-forecast
 
 - address: New Orleans
   title: "Text Spotting Transformers"
@@ -149,7 +149,7 @@
     url:  
   code: 
     display: code
-    url: 
+    url: https://github.com/mlpc-ucsd/TESTR
 
 - address: Telaviv
   title: "Learning long-term spatial-temporal graphs for active speaker detection"
@@ -166,7 +166,7 @@
     url:  
   code: 
     display: code
-    url: 
+    url: https://github.com/SRA2/SPELL 
 
 - address: Telaviv
   title: "Single-Stage Visual Relationship Learning using Conditional Queries"
