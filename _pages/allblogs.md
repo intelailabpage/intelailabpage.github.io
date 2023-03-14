@@ -4,8 +4,6 @@ layout: post
 excerpt: "Intel AI Lab."
 sitemap: false
 permalink: /allblogs.html
-tipue_search_active: true
-exclude_from_search: true
 ---
 
 # 🚧 ⛏️ 🛠️ 👷
