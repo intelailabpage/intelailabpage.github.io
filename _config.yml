@@ -27,12 +27,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-# Tipue search settings
-tipue_search:
-  include:
-    pages: true
-  exclude:
-    files: [allblogs.html]
 
 # Markdown Processing
 kramdown:
