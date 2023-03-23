@@ -18,7 +18,7 @@ This work has been accepted for publication in upcoming CVPR 2023.
 
 <br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/svitt2.png){: style="width: 400px; float: left; margin: 0px 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/svitt2.png){: style="width: 400px; float: left; margin: 0px 10px"} 
 
 Upon a closer investigation, we identify a few key challenges to incorporating multi-frame reasoning in video-language models. 
 First, limited model size implies a trade-off between spatial and temporal learning (a classic example being 2D/3D convolutions in video CNNs. 
@@ -42,7 +42,7 @@ To address the diminishing returns for longer input clips, we propose to train S
 
 <br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/svitt_qual.png){: style="width: 800px; float: left; margin: 0px 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/svitt_qual.png){: style="width: 800px; float: left; margin: 0px 10px"} 
 
 SViTT is evaluated on diverse video-text benchmarks from video retrieval to question answering, comparing to prior art and our own dense modeling baselines. First, we perform a series of ablation studies to understand the benefit of sparse modeling in transformers. Interestingly, we find that both nodes (tokens) and edges (attention) can be pruned drastically at inference, with a small impact on test performance. In fact, token selection using cross-modal attention improves retrieval results by 1% without re-training. Figure 2 shows that SViTT isolates informative regions from background patches to facilitate efficient temporal reasoning. 
 
