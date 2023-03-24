@@ -2,9 +2,9 @@
 layout: post
 title: "Temporal Learning of Sparse Video-Text Transformers"
 date: 2023-03-23
-permalink: /2023/03/23/sparse-video-transformers.html
 author: <a href="https://subarnatripathi.github.io/"> Subarna Tripathi </a>
-excerpt: "we propose SViTT, a sparse video-text architecture that performs multi-frame reasoning with significantly lower cost than naive transformers with dense attention. Analogous to graph-based networks, SViTT employs two forms of sparsity: edge sparsity that limits the query-key communications between tokens in self-attention, and node sparsity that discards uninformative visual tokens. Trained with a curriculum which increases model sparsity with the clip length, SViTT outperforms dense transformer baselines on multiple video-text retrieval and question answering benchmarks, with a fraction of computational cost.... "  
+excerpt: "We propose SViTT, a sparse video-text architecture that performs multi-frame reasoning with significantly lower cost than naive transformers with dense attention. Analogous to graph-based networks, SViTT employs two forms of sparsity: edge sparsity that limits the query-key communications between tokens in self-attention, and node sparsity that discards uninformative visual tokens. Trained with a curriculum which increases model sparsity with the clip length, SViTT outperforms dense transformer baselines on multiple video-text retrieval and question answering benchmarks, with a fraction of computational cost."  
+permalink: /2023/03/23/sparse-video-transformers.html
 ---
 
 <mark>Full paper and the source code are coming soon.</mark> 
