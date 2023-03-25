@@ -1,7 +1,11 @@
 
 - date: March 2023
   headline: <a href="https://github.com/IntelLabs/DyNAS-T"> DyNAS-T 1.1.0 </a>released. Distributed search and sentiment analysis based on BERT-SST2 are supported now!
-    
+  
+- date: March 2022
+  headline: Checkout our blog on <a href="https://intelailabpage.github.io/2023/03/23/sparse-video-transformers.html"> Sparse video-text transformers </a> !
+
+  
 - date: February 2023
   headline: Two Papers on Video Understanding accepted in CVPR 2023!
 
