@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Graph-LTVU: software library for long-term video understanding based on spatio-temporal graphs"
+title: "Graph-LTVU: A software library for long-term video understanding based on spatio-temporal graphs"
 date: 2023-03-29
 author: <a href="https://subarnatripathi.github.io/"> Subarna Tripathi </a>
 excerpt: "Graph-LTVU is an open-sourced toolbox for long-term video understanding based on spatio-temporal graph-based representations."  
@@ -17,7 +17,7 @@ In the near future, we will release more advanced graph-based approaches for oth
 
 <br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/pubpic/graphltvu_teaser.jpg){: style="width: 400px; float: left; margin: 0px 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/graphltvu_teaser.jpg){: style="width: 700px; float: left; margin: 0px 10px"} 
 
 
 
