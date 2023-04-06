@@ -7,12 +7,11 @@ excerpt: "Graph-LTVU is an open-sourced toolbox for long-term video understandin
 permalink: /2023/03/29/graph-ltvu.html
 ---
 
-Code is available at <a href="https://github.com/IntelLabs/Graph-LTVU"> on GiHub </a>.
 
 <p style='text-align: justify;'>
-Graph-LTVU is an open-sourced toolbox for long-term video understanding based on spatio-temporal graph-based representations.This library is based on PyTorch and PyTorchGeometric. It is designed to serve as a spatial-temporal graph learning framework for multiple video understanding tasks. In the current version, it supports training and evaluating one of the state-of-the-art models, SPELL, for the tasks of active speaker detection and action localization.
+Intel Labs has recently released <a href="https://github.com/IntelLabs/Graph-LTVU"> Graph-LTVU </a>. Graph-LTVU is an open-sourced toolbox for long-term video understanding based on spatio-temporal graph-based representations. This library is based on PyTorch and PyTorchGeometric. It is designed to serve as a spatial-temporal graph learning framework for multiple video understanding tasks. In the current version, it supports training and evaluating one of the state-of-the-art models, SPELL, for the tasks of active speaker detection (ASD) and action detection (AD) on Ava Active Speaker and AVA action datasets respectively. 
 
-In the near future, we will release more advanced graph-based approaches for other tasks, including action segmentation and the Ego4D challenge. 
+In the near future, we will release more advanced graph-based approaches for other tasks such as heterogenous graph-based approach for the Ego4D audio-visual diarization challenge, action segementation. Stay tuned for incoming features such as Online SPELL. Till then, go to our <a href="https://github.com/IntelLabs/Graph-LTVU"> Graph-LTVU github </a> and run inference only or train your own models for ASD or AD. 
 
 
 <br>
