@@ -19,8 +19,8 @@
   title: "SViTT: Temporal Learning of Sparse Video-Text Transformer"
   author: Yi Li, Kyle Min, Subarna Tripathi, Nuno Vasconcelos  
   link:
-    display: arXiv
-    url: 
+    display: Paper
+    url: http://svcl.ucsd.edu/people/yili/publications/svitt/main.pdf
   ref: Yi2023
   venue: 'Computer Vision and Pattern Recognition (CVPR), '
   year: '2023'
@@ -37,7 +37,7 @@
   author: Sayak Nag, Kyle Min, Subarna Tripathi, Amit Roy Choudhury  
   link:
     display: arXiv
-    url: 
+    url: https://arxiv.org/abs/2304.00733
   ref: Nag2023
   venue: 'Computer Vision and Pattern Recognition (CVPR), '
   year: '2023'
