@@ -1,4 +1,7 @@
 
+- date: April 2023
+  headline: <a href="https://github.com/IntelLabs/Graph-LTVU"> Graph-LTVU 0.0 </a>released. A graph-based long-term video understanding library built using PyTorch and PyG supports Action localization and Active Speaker Detection now! !
+
 - date: March 2023
   headline: <a href="https://github.com/IntelLabs/DyNAS-T"> DyNAS-T 1.1.0 </a>released. Distributed search and sentiment analysis based on BERT-SST2 are supported now!
   
