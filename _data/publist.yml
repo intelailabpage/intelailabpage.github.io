@@ -19,15 +19,15 @@
   title: "SViTT: Temporal Learning of Sparse Video-Text Transformer"
   author: Yi Li, Kyle Min, Subarna Tripathi, Nuno Vasconcelos  
   link:
-    display: Paper
-    url: http://svcl.ucsd.edu/people/yili/publications/svitt/main.pdf
+    display: arXiv
+    url: https://arxiv.org/abs/2304.08809
   ref: Yi2023
   venue: 'Computer Vision and Pattern Recognition (CVPR), '
   year: '2023'
   pub_type: conference
   project: 
     display: project
-    url:  
+    url: http://svcl.ucsd.edu/projects/svitt/ 
   code: 
     display: code
     url: 
@@ -47,7 +47,7 @@
     url:  
   code: 
     display: code
-    url: 
+    url: https://github.com/sayaknag/unbiasedSGG.git
   
 - address: San Fransisco
   title: "C2PI: An Efficient Crypto-Clear Two-Party Neural Network Private Inference"
