@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Graph-LTVU: A software library for long-term video understanding based on spatio-temporal graphs"
+title: "GraVi-T: A software library for long-term video understanding based on spatio-temporal graphs"
 date: 2023-03-29
 author: <a href="https://subarnatripathi.github.io/"> Subarna Tripathi </a>
-excerpt: "Graph-LTVU is an open-sourced toolbox for long-term video understanding based on spatio-temporal graph-based representations."  
+excerpt: "GraVi-T is an open-sourced toolbox for long-term video understanding based on spatio-temporal graph-based representations."  
 permalink: /2023/03/29/gravi-t.html
 ---
 
