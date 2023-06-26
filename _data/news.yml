@@ -1,5 +1,8 @@
 - date: June 2023
-  headline: Check out for our Graphics AI paper!
+  headline: CVPR week. We have 2 conference papers, 2 workshop papers including a challenge winner and a spotlight talk. 
+  
+- date: June 2023
+  headline: Check out for our latest <a href="https://arxiv.org/abs/2306.04166"> Graphics AI paper! </a>
   
 - date: April 2023
   headline: <a href="https://github.com/IntelLabs/GraVi-T"> GraVi-T 0.0 </a>released. A graph-based long-term video understanding library built using PyTorch and PyG supports Action localization and Active Speaker Detection now! !
