@@ -19,6 +19,7 @@ We are a dynamic research group within [Intel Labs](https://www.intel.com/conten
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
@@ -40,6 +41,9 @@ We are a dynamic research group within [Intel Labs](https://www.intel.com/conten
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/6.png" alt="Slide 6" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/7.png" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
