@@ -19,7 +19,6 @@ We are a dynamic research group within [Intel Labs](https://www.intel.com/conten
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
-        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
