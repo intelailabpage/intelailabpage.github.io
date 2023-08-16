@@ -34,7 +34,7 @@ We are a dynamic research group within [Intel Labs](https://www.intel.com/conten
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/4.jpg" alt="Slide 4" />
         </div>      
-         <div class="item">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/6.png" alt="Slide 5" />
         </div>
         <div class="item">
