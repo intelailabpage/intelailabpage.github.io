@@ -59,11 +59,11 @@
   email: maciej.szankin@intel.com
 
  
-- name: Marcel Nassar
-  photo: marcel.jpg
-  info: Graph learning
-  email: marcel.nassar@intel.com
-  website: 
+# - name: Marcel Nassar
+#   photo: marcel.jpg
+#   info: Graph learning
+#   email: marcel.nassar@intel.com
+#   website: 
 
 
 - name: Mariano Phielipp
