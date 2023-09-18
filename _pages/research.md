@@ -8,7 +8,8 @@ permalink: /research/
 
 # Research #
 
-We are a group of machine learning researchers in the fields of reinforcement learning, robotics, computer vision, deep learning workload optimization and emerging applications.
+We are a group of machine learning researchers working on “Foundational AI Research at Scale”. We build one of the fastest billion-scale graph learning platforms, and one of the first foundation models for knowledge graph reasoning. We are working on “long-form” video understanding research using sparse transformers and graphs and producing state-of-the-art on many academic benchmarks. We do forefront research on efficient multimodal generative AI including fastest NeRF in the wild. We do advanced research on AI for chip design and deep learning workload optimization. Finally, we are accelerating and democratizing AI for science - focusing on new benchmarks and tools for Material Science and Protein Synthesis.
+
 
 
 Here are some themes and techniques that we currently work on:
