@@ -1,3 +1,6 @@
+- date: September 2023
+  headline: A talk and posters presented at <a href="https://www.intel.com/content/www/us/en/newsroom/resources/intel-innovation-2023.html#gs.62m1fy"> Intel Innovation </a>
+
 - date: August 2023
   headline: <a href="https://github.com/IntelLabs/baa-ngp"> BAA-NGP </a>released. Source code for Bundle-Adjusting Accelerated Neural Graphics Primitives that offers BARF-like flexibility at the speed of Instant-NERF! !
 
