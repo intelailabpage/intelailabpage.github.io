@@ -28,9 +28,15 @@ Refer to the <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artif
 
 
 
+### Graph Foundation Models. ###
+
+
 
 ### AI for Science. ###
 
 
 
+### AI for Chip Design. ###
 
+
+### Hardware-Software Co-Design. ###
