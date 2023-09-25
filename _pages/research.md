@@ -29,8 +29,8 @@ Refer to the <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artif
 
 
 
-### Hardware-algorithm co-design. ###
+### AI for Science. ###
 
 
 
-### XYZ. ###
+
