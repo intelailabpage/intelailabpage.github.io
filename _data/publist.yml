@@ -1,3 +1,57 @@
+- address: Vancouver
+  title: "STHG: Spatial-Temporal Heterogeneous Graph Learning for Advanced Audio-Visual Diarization"
+  author: Kyle Min
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2306.10608
+  ref: min2023_2
+  venue: 'Ego4D challenge at CVPR 2023'
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: 
+
+
+- address: arxiv
+  title: "BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives"
+  author: Sainan Liu, Shan Lin, Jingpei Lu, Shreya Saha, Alexey Supikov, Michael Yip
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2306.04166
+  ref: liu2023
+  venue: 'ArXiv Preprint'
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: https://github.com/IntelLabs/baa-ngp
+
+
+- address: arxiv
+  title: "WOUAF: Weight Modulation for User Attribution and Fingerprinting in Text-to-Image Diffusion Models"
+  author: Changhoon Kim, Kyle Min, Maitreya Patel, Sheng Cheng, Yezhou Yang
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2306.04744
+  ref: kim2023
+  venue: 'ArXiv Preprint'
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: https://wouaf.vercel.app/ 
+  code: 
+    display: code
+    url: https://huggingface.co/spaces/wouaf/WOUAF-Text-to-Image
+    
+
 - address: Kigali
   title: "Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference"
   author: Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Liu, Peter A. Beerel
