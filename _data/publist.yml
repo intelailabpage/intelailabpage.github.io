@@ -22,7 +22,7 @@
     display: ArXiv
     url: https://arxiv.org/abs/2306.10608
   ref: min2023_2
-  venue: 'Ego4D challenge at CVPR 2023'
+  venue: 'Ego4D challenge at CVPR'
   year: '2023'
   pub_type: conference
   project: 
