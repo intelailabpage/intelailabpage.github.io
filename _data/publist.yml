@@ -1,3 +1,20 @@
+- address: Kigali
+  title: "NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations"
+  author: Yonggan Fu, Ye Yuan, Souvik Kundu, Shang Wu, Shunyao Zhang, Celine Lin
+  link:
+    display: PMLR
+    url: https://proceedings.mlr.press/v202/fu23g/fu23g.pdf
+  ref: funerfool2023
+  venue: 'International Conference on Machine Learning (ICML), '
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: https://github.com/GATECH-EIC/NeRFool
+
 - address: Vancouver
   title: "STHG: Spatial-Temporal Heterogeneous Graph Learning for Advanced Audio-Visual Diarization"
   author: Kyle Min
