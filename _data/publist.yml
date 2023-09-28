@@ -1,3 +1,37 @@
+- address: Paris
+  title: "Vision HGNN: An Image is More than a Graph of Nodes"
+  author: Yan Han, Peihao Wang, Souvik Kundu, Ding Ying, Zhangyang (Atlas) Wang
+  link:
+    display: CVF
+    url: https://openaccess.thecvf.com/content/ICCV2023/papers/Han_Vision_HGNN_An_Image_is_More_than_a_Graph_of_ICCV_2023_paper.pdf
+  ref: zhangsalvit2023
+  venue: 'International Conference on Computer Vision (ICCV) ORAL, '
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: https://github.com/VITA-Group/ViHGNN
+
+- address: Paris
+  title: "SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation"
+  author: Souvik Kundu*, Yuke Zhang*, Dake Chen*, Chenghao Li, Peter A. Beerel
+  link:
+    display: CVF
+    url: https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_SAL-ViT_Towards_Latency_Efficient_Private_Inference_on_ViT_using_Selective_ICCV_2023_paper.pdf
+  ref: zhangsalvit2023
+  venue: 'International Conference on Computer Vision (ICCV), '
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
 - address: Hawaii
   title: "NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations"
   author: Yonggan Fu, Ye Yuan, Souvik Kundu, Shang Wu, Shunyao Zhang, Celine Lin
