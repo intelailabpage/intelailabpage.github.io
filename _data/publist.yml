@@ -1,3 +1,21 @@
+- address: arXiv
+  title: "BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields"
+  author: Shreya Saha, Sainan Liu, Shan Lin, Jingpei Lu, Michael Yip
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2309.15329
+  ref: saha2023
+  venue: arXiv
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: https://sites.google.com/ucsd.edu/based-arclab-2023/
+  code: 
+    display: code
+    url: 
+
+    
 - address: Paris
   title: "Vision HGNN: An Image is More than a Graph of Nodes"
   author: Yan Han, Peihao Wang, Souvik Kundu, Ding Ying, Zhangyang (Atlas) Wang
