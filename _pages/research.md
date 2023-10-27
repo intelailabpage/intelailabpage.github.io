@@ -35,8 +35,8 @@ Refer to the <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artif
 ### AI for Science. ###
 
 
-
 ### AI for Chip Design. ###
 
+Learning mechanisms for Electronic Design Automation (EDA) are increasingly becoming a focal point in research. These mechanisms hold the promise of delivering performance gains and quality improvements by orders of magnitude. Currently, our work is centered on the floor planning problem. We have developed solutions that outperform classical search solutions in both speed and quality.
 
 ### Hardware-Software Co-Design. ###
