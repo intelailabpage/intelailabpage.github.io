@@ -50,6 +50,23 @@
     display: code
     url: 
 
+- address: Paris
+  title: "InstaTune: Instantaneous Neural Architecture Search During Fine-Tuning"
+  author: Sharath Nittur Sridhar, Souvik Kundu, Sairam Sundaresan, Maciej Szankin, Anthony Sarah
+  link:
+    display: CVF
+    url: https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Sridhar_InstaTune_Instantaneous_Neural_Architecture_Search_During_Fine-Tuning_ICCVW_2023_paper.pdf
+  ref: sridhar2023instatune
+  venue: 'International Conference on Computer Vision (ICCV) Workshops, '
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
 - address: Hawaii
   title: "NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations"
   author: Yonggan Fu, Ye Yuan, Souvik Kundu, Shang Wu, Shunyao Zhang, Celine Lin
