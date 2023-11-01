@@ -15,6 +15,40 @@
     display: code
     url: 
 
+- address: NeurIPS
+  title: "Improving Systematic Generalization using Simplicial Embeddings and Iterated Learning"
+  author: Yi Ren, Samuel Lavoie, Mikhail Galkin, Danica J. Sutherland, Aaron Courville
+  link:
+    display: ArXiv
+    url: 
+  ref: Ren2023
+  venue: NeurIPS
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: 
+
+
+- address: NeurIPS
+  title: "A* Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs"
+  author: Zhaocheng Zhu, Xinyu Yuan, Mikhail Galkin, Sophie Xhonneux, Ming Zhang, Maxime Gazeau, Jian Tang
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2206.04798v4
+  ref: zhu2023
+  venue: NeurIPS
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: 
     
 - address: Paris
   title: "Vision HGNN: An Image is More than a Graph of Nodes"
