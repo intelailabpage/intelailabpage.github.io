@@ -1,4 +1,21 @@
 - address: arXiv
+  title: "Action Scene Graphs for Long-Form Understanding of Egocentric Videos"
+  author: Ivan Rodin, Antonino Furnari, Kyle Min, Subarna Tripathi, Giovanni Maria Farinella
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2312.03391
+  ref: Rodin2023
+  venue: arXiv
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: https://github.com/fpv-iplab/EASG
+
+- address: arXiv
   title: "BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields"
   author: Shreya Saha, Sainan Liu, Shan Lin, Jingpei Lu, Michael Yip
   link:
