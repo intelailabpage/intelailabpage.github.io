@@ -1,4 +1,21 @@
 - address: Seattle
+  title: "Image Sculpting: Precise Object Editing with 3D Geometry Control"
+  author: Jiraphon Yenphraphai, Xichen Pan, Sainan Liu, Daniele Panozzo, Saining Xie
+  link:
+    display: CVPR
+    url: https://arxiv.org/abs/2401.01702
+  ref: Yenphraphai2023
+  venue: CVPR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: https://image-sculpting.github.io/
+  code: 
+    display: code
+    url: https://github.com/vision-x-nyu/image-sculpting
+
+- address: Seattle
   title: "Action Scene Graphs for Long-Form Understanding of Egocentric Videos"
   author: Ivan Rodin, Antonino Furnari, Kyle Min, Subarna Tripathi, Giovanni Maria Farinella
   link:
@@ -170,15 +187,15 @@
     url: https://github.com/IntelLabs/baa-ngp
 
 
-- address: arxiv
+- address: Seattle
   title: "WOUAF: Weight Modulation for User Attribution and Fingerprinting in Text-to-Image Diffusion Models"
   author: Changhoon Kim, Kyle Min, Maitreya Patel, Sheng Cheng, Yezhou Yang
   link:
-    display: ArXiv
+    display: CVPR
     url: https://arxiv.org/abs/2306.04744
   ref: kim2023
-  venue: 'ArXiv Preprint'
-  year: '2023'
+  venue: 'CVPR'
+  year: '2024'
   pub_type: conference
   project: 
     display: project
