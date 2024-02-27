@@ -5,7 +5,7 @@
     display: arXiv
     url: 'https://arxiv.org/abs/2302.03523'
   ref: KunduICASSP2022
-  venue: International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+  venue: ICASSP
   year: '2022'
   pub_type: conference
   project: 
@@ -22,7 +22,7 @@
     display: arXiv
     url: 'https://arxiv.org/abs/2307.11764'
   ref: KunduICASSP2024
-  venue: International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+  venue: ICASSP
   year: '2024'
   pub_type: conference
   project: 
@@ -39,7 +39,7 @@
     display: arXiv
     url: 'https://arxiv.org/abs/2312.13301'
   ref: SridharAAAI2024
-  venue: Association for the Advancement of Artificial Intelligence (AAAI)
+  venue: AAAI
   year: '2024'
   pub_type: conference
   project: 
@@ -73,7 +73,7 @@
     display: arXiv
     url: 'https://arxiv.org/abs/2202.12411'
   ref: SridharICML2022
-  venue: International Conference on Machine Learning (ICML)
+  venue: ICML
   year: '2022'
   pub_type: conference
   project: 
@@ -90,7 +90,7 @@
     display: OpenReview
     url: 'https://openreview.net/forum?id=HK-zmbTB8gq'
   ref: MunozAutoML2022
-  venue: Automated Machine Learning (AutoML)
+  venue: AutoML
   year: '2022'
   pub_type: conference
   project: 
@@ -107,7 +107,7 @@
     display: arXiv
     url: 'https://arxiv.org/abs/2205.10358'
   ref: CummingsAutoML2022
-  venue: Automated Machine Learning (AutoML)
+  venue: AutoML
   year: '2022'
   pub_type: conference
   project: 
@@ -124,7 +124,7 @@
     display: arXiv
     url: 'https://arxiv.org/abs/2202.12934'
   ref: CummingsGECCO2022
-  venue: Genetic and Evolutionary Computation Conference (GECCO)
+  venue: GECCO
   year: '2022'
   pub_type: conference
   project: 
@@ -168,8 +168,7 @@
     display: code
     url: 
 
-
-- address: Town
+- address: CVPR
   title: "Improving Accuracy of Respiratory Rate Estimation by Restoring High Resolution Features With Transformers and Recursive Convolutional Models"
   author: Alicja Kwasniewska, Maciej Szankin, Jacek Ruminski, Anthony Sarah, David Gamba
   link:
