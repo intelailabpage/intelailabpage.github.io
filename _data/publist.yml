@@ -1,21 +1,4 @@
 - address: arXiv
-  title: "Towards Joint Optimization for DNN Architecture and Configuration for Compute-In-Memory Hardware"
-  author: Souvik Kundu, Anthony Sarah, Vinay Joshi, Om J Omer, Sreenivas Subramoney
-  link:
-    display: arXiv
-    url: 'https://arxiv.org/abs/2402.11780'
-  ref: KunduTinyML2024
-  venue: TinyML
-  year: '2024'
-  pub_type: conference
-  project:
-    display: project
-    url:  
-  code:
-    display: code
-    url:
-
-- address: arXiv
   title: "SimQ-NAS: Simultaneous Quantization Policy and Neural Architecture Search"
   author: Sharath Nittur Sridhar, Maciej Szankin, Fang Chen, Sairam Sundaresan, Anthony Sarah
   link:
@@ -639,40 +622,6 @@
   ref: KunduICASSP2022
   venue: 'International Conference on Acoustics, Speech, and Signal Processing (ICASSP), '
   year: '2022'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
-
-- address: arXiv
-  title: "Sensi-BERT: Towards Sensitivity Driven Fine-Tuning for Parameter Efficient BERT"
-  author: Souvik Kundu, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan
-  link:
-    display: arXiv
-    url: https://arxiv.org/abs/2307.11764
-  ref: KunduICASSP2024
-  venue: 'International Conference on Acoustics, Speech, and Signal Processing (ICASSP), '
-  year: '2024'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
-
-- address: arXiv
-  title: "SimQ-NAS: Simultaneous Quantization Policy and Neural Architecture Search"
-  author: Sharath Nittur Sridhar, Maciej Szankin, Fang Chen, Sairam Sundaresan, Anthony Sarah
-  link:
-    display: arXiv
-    url: https://arxiv.org/abs/2312.13301
-  ref: SridharAAAI2024
-  venue: 'Association for the Advancement of Artificial Intelligence (AAAI), '
-  year: '2024'
   pub_type: conference
   project: 
     display: project
