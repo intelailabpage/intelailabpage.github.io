@@ -1,3 +1,24 @@
+- address: Paris
+  title: Familiarity-Based Open-Set Recognition Under Adversarial Attacks
+  author: Philip Enevoldsen, Christian Gundersen, Nico Lang, Serge Belongie, Christian Igel
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2311.05006
+  ref: Enevoldsen2023
+  venue: 'ICCV Workshop on Out-of-Distribution Generalization in Computer Vision (OOD-CV), '
+  year: '2023'
+  pub_type: conference
+- author: "Peter Ebert Christensen, V\xE9steinn Sn\xE6bjarnarson, Andrea Dittadi, Serge Belongie, Sagie Benaim"
+  date: '2024-01-04'
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2211.09782
+  pub_type: conference
+  ref: Christensen2024a
+  title: 'Assessing Neural Network Robustness via Adversarial Pivotal Tuning'
+  venue: 'Winter Conference on Applications of Computer Vision (WACV), '
+  address: 'Waikoloa, Hawaii'
+  year: '2024'
 - address: Seattle
   title: "Action Scene Graphs for Long-Form Understanding of Egocentric Videos"
   author: Ivan Rodin, Antonino Furnari, Kyle Min, Subarna Tripathi, Giovanni Maria Farinella
