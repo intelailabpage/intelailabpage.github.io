@@ -646,3 +646,20 @@
   code: 
     display: code
     url: 
+
+- address: arXiv
+  title: "TrimBERT: Tailoring BERT for Trade-offs"
+  author: Sharath Nittur Sridhar, Anthony Sarah, Sairam Sundaresan
+  link:
+    display: arXiv
+    url: 'https://arxiv.org/abs/2202.12411'
+  ref: SridharICML2022
+  venue: ICML
+  year: '2022'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url:
