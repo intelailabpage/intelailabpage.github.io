@@ -1,3 +1,20 @@
+- address: Town
+  title: "Improving Accuracy of Respiratory Rate Estimation by Restoring High Resolution Features With Transformers and Recursive Convolutional Models"
+  author: Alicja Kwasniewska, Maciej Szankin, Jacek Ruminski, Anthony Sarah, David Gamba
+  link:
+    display: CVPR
+    url: 
+  ref: KwasniewskaCVPR2021
+  venue: CVPR
+  year: '2021'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url: 
+    
 - address: Seattle
   title: "Image Sculpting: Precise Object Editing with 3D Geometry Control"
   author: Jiraphon Yenphraphai, Xichen Pan, Sainan Liu, Daniele Panozzo, Saining Xie
