@@ -1,10 +1,10 @@
 
 - address: arXiv
-  title: "Sensi-BERT: Towards Sensitivity Driven Fine-Tuning for Parameter Efficient BERT"
-  author: Souvik Kundu, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan
+  title: "SimQ-NAS: Simultaneous Quantization Policy and Neural Architecture Search"
+  author: Sharath Nittur Sridhar, Maciej Szankin, Fang Chen, Sairam Sundaresan, Anthony Sarah
   link:
     display: arXiv
-    url: 'https://arxiv.org/abs/2307.11764'
+    url: 'https://arxiv.org/abs/2312.13301'
   ref: SridharAAAI2024
   venue: AAAI
   year: '2024'
