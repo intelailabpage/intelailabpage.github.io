@@ -5,7 +5,7 @@
     display: CVF
     url: https://openaccess.thecvf.com/content/CVPR2021W/CVPM/html/Kwasniewska_Improving_Accuracy_of_Respiratory_Rate_Estimation_by_Restoring_High_Resolution_CVPRW_2021_paper.html
   ref: KwasniewskaCVPR2021
-  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  venue: Computer Vision and Pattern Recognition (CVPR)
   year: '2021'
   pub_type: conference
   project: 
