@@ -31,8 +31,9 @@ Refer to the <a href="http://svcl.ucsd.edu/projects/svitt/"> website </a> to lea
 We developed ULTRA, a foundation model for knowledge graph (KG) reasoning. A single pre-trained ULTRA model performs link prediction tasks on any multi-relational graph with any entity / relation vocabulary. Performance-wise averaged on 50+ KGs, a single pre-trained ULTRA model is better in the 0-shot inference mode than many SOTA models trained specifically on each graph. Following the pretrain-finetune paradigm of foundation models, you can run a pre-trained ULTRA checkpoint immediately in the zero-shot manner on any graph as well as use more fine-tuning.
 
 ULTRA provides unified, learnable, transferable representations for any KG. Under the hood, ULTRA employs graph neural networks and modified versions of NBFNet. ULTRA does not learn any entity and relation embeddings specific to a downstream graph but instead obtains relative relation representations based on interactions between relations.
-
 Refer to the <a href="https://github.com/DeepGraphLearning/ULTRA"> website </a> to learn more on our graph foundation model. 
+
+Democratizing machine learning on billion-scale graphs is a core focus of Intel AI Lab. Our goal has been to shift this important AI training workload from expensive GPUs to inexpensive CPUs. Our <a href="https://github.com/IntelLabs/SAR"> SAR framework </a> already allows a seamless transition from training on a single machine to fully distributed training with linear peak-memory scaling guarantees - this set the fastest reported training times on CPUs for billion scale graph learning. 
 
 ### AI for Science. ###
 We have been leading a variety of research efforts on AI for Science at Intel Labs along with external collaboration spanning various research institutions, including: 
