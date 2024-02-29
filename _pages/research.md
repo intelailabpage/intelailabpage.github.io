@@ -38,9 +38,9 @@ Democratizing machine learning on billion-scale graphs is a core focus of Intel 
 ### AI for Science. ###
 We have been leading a variety of research efforts on AI for Science at Intel Labs along with external collaboration spanning various research institutions, including: 
 - Matter Lab led by Alán Aspuru-Guzik at the University of Toronto <a href="https://www.intel.com/content/www/us/en/artificial-intelligence/podcast-episodes/intel-on-ai-season-3-episode-8.html"> Overview. </a>
-- MILA, including multiple academic PIs <a href="https://medium.com/intel-tech/intel-and-mila-strengthen-their-open-innovation-commitment-to-responsible-ai-24412c576614" Overview. </a>
+- MILA, including multiple academic PIs <a href="https://medium.com/intel-tech/intel-and-mila-strengthen-their-open-innovation-commitment-to-responsible-ai-24412c576614"> Overview. </a>
 - Intel + Merck Group Research Center on AI for Sustainable Semiconductor Manufacturing. <a href="https://www.emdgroup.com/en/news/semiconductor-manufacturing-09-03-2023.html"> Overview. </a>
-Organizer of the 1st AI for Accelerated Materials Design (AI4Mat) Workshop at NeurIPS 2022. <a href="https://sites.google.com/view/ai4mat"> Overview. </a>
+- We organized the 1st AI for Accelerated Materials Design (AI4Mat) Workshop at NeurIPS 2022. <a href="https://sites.google.com/view/ai4mat"> Overview. </a>
 
 ### AI for Chip Design. ###
 
