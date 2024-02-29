@@ -46,4 +46,4 @@ We have been leading a variety of research efforts on AI for Science at Intel La
 
 Learning mechanisms for Electronic Design Automation (EDA) are increasingly becoming a focal point in research. These mechanisms hold the promise of delivering performance gains and quality improvements by orders of magnitude. Currently, our work is centered on the floor planning problem. We have developed solutions that outperform classical search solutions in both speed and quality.
 
-### Deep learning workload optimization. ###
+### Foundation model optimization. ###
