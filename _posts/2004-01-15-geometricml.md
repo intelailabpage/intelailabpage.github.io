@@ -8,4 +8,10 @@ excerpt: "We interviewed a cohort of distinguished and prolific academic and ind
 ---
 
 
-Enjoy the datascience blogs. Part 1 on Theory and new architectures - <a href=""> blog 1 </a> and Part 2 on <a href="https://towardsdatascience.com/graph-geometric-ml-in-2024-where-we-are-and-whats-next-part-ii-applications-1ed786f7bf63"> applications </a>. 
+Enjoy the datascience blogs. Part 1 on <a href=""> Theory and new architectures -  </a> and Part 2 on <a href="https://towardsdatascience.com/graph-geometric-ml-in-2024-where-we-are-and-whats-next-part-ii-applications-1ed786f7bf63"> applications </a>. 
+
+
+
+
+
+
