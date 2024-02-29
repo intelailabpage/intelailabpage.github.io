@@ -24,21 +24,25 @@ Our method achieves state-of-the-art results at a fraction of the memory and com
 
 Refer to the <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Spatio-Temporal-Graphs-for-Long-Term-Video-Understanding/post/1425258#.Y1oG7jhUOBs.linkedin"> blog </a> we wrote for our research on structured representation learning for long-term video understanding. We opensourced the <a href="https://github.com/IntelLabs/GraVi-T"> toolbox </a> for graph-based video representation learning.  
 
-Refer to the <a href="[https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Spatio-Temporal-Graphs-for-Long-Term-Video-Understanding/post/1425258#.Y1oG7jhUOBs.linkedin](http://svcl.ucsd.edu/projects/svitt/)"> website </a> to learn more on sparse video-text transformers. 
-
-
-
+Refer to the <a href="http://svcl.ucsd.edu/projects/svitt/"> website </a> to learn more on sparse video-text transformers. 
 
 
 ### Graph Foundation Models. ###
+We developed ULTRA, a foundation model for knowledge graph (KG) reasoning. A single pre-trained ULTRA model performs link prediction tasks on any multi-relational graph with any entity / relation vocabulary. Performance-wise averaged on 50+ KGs, a single pre-trained ULTRA model is better in the 0-shot inference mode than many SOTA models trained specifically on each graph. Following the pretrain-finetune paradigm of foundation models, you can run a pre-trained ULTRA checkpoint immediately in the zero-shot manner on any graph as well as use more fine-tuning.
 
+ULTRA provides unified, learnable, transferable representations for any KG. Under the hood, ULTRA employs graph neural networks and modified versions of NBFNet. ULTRA does not learn any entity and relation embeddings specific to a downstream graph but instead obtains relative relation representations based on interactions between relations.
 
+Refer to the <a href="https://github.com/DeepGraphLearning/ULTRA"> website </a> to learn more on our graph foundation model. 
 
 ### AI for Science. ###
-
+We have been leading a variety of research efforts on AI for Science at Intel Labs along with external collaboration spanning various research institutions, including: 
+- Matter Lab led by Alán Aspuru-Guzik at the University of Toronto (https://www.intel.com/content/www/us/en/artificial-intelligence/podcast-episodes/intel-on-ai-season-3-episode-8.html)
+- MILA, including multiple academic PIs (https://medium.com/intel-tech/intel-and-mila-strengthen-their-open-innovation-commitment-to-responsible-ai-24412c576614)
+- Intel + Merck Group Research Center on AI for Sustainable Semiconductor Manufacturing (https://www.emdgroup.com/en/news/semiconductor-manufacturing-09-03-2023.html)
+Organizer of the 1st AI for Accelerated Materials Design (AI4Mat) Workshop at NeurIPS 2022 (https://sites.google.com/view/ai4mat)
 
 ### AI for Chip Design. ###
 
 Learning mechanisms for Electronic Design Automation (EDA) are increasingly becoming a focal point in research. These mechanisms hold the promise of delivering performance gains and quality improvements by orders of magnitude. Currently, our work is centered on the floor planning problem. We have developed solutions that outperform classical search solutions in both speed and quality.
 
-### Hardware-Software Co-Design. ###
+### Deep learning workload optimization. ###
