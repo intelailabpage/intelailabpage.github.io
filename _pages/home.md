@@ -9,6 +9,25 @@ permalink: /
 We are a dynamic research group within [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html). We do "Foundational AI Research at Scale". We build one of the fastest billion-scale graph learning platforms, and one of the first foundation models for knowledge graph reasoning. We are working on "long-form" video understanding research using sparse transformers and graphs and producing state-of-the-art on many academic benchmarks. We do forefront research on efficient multimodal generative AI including fastest NeRF in the wild. We do advanced research on AI for chip design and deep learning workload optimization. Finally, we are accelerating and democratizing AI for science - focusing on new benchmarks and tools for Material Science and Protein Synthesis.  
 
 
+To this end, we develop ...... (see [Research](research)).
+
+
+ <!-- **We are  looking for passionate interns to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!** -->
+
+We do joint-research with academia. 
+
+<figure class="fourth">
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IL.png" style="width: 80px"> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ucsd.png" style="width: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/glasgow.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/asu.png" style="width: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mila.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/berkeley.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/catania.png" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/utaustin.png" style="width: 60px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/stanford.png" style="width: 40px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/darpa.png" style="width: 70px">
+</figure>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -60,25 +79,7 @@ We are a dynamic research group within [Intel Labs](https://www.intel.com/conten
 
 
 
-To this end, we develop ...... (see [Research](research)).
 
-
- <!-- **We are  looking for passionate interns to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!** -->
-
-We do joint-research with academia. 
-
-<figure class="fourth">
-  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IL.png" style="width: 80px"> -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ucsd.png" style="width: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/glasgow.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/asu.png" style="width: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mila.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/berkeley.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/catania.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/utaustin.png" style="width: 60px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/stanford.png" style="width: 40px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/darpa.png" style="width: 70px">
-</figure>
 
 
 
