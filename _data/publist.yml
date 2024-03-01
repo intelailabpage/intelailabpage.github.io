@@ -1,21 +1,4 @@
 - address: arXiv
-  title: "Towards Joint Optimization for DNN Architecture and Configuration for Compute-In-Memory Hardware"
-  author: Souvik Kundu, Anthony Sarah,Vinay Joshi, Om J Omer,Sreenivas Subramoney
-  link:
-    display: arXiv
-    url: 'https://arxiv.org/pdf/2402.11780.pdf'
-  ref: KunduInMem2024
-  venue: arXiv
-  year: '2024'
-  pub_type: conference
-  project:
-    display: project
-    url:  
-  code:
-    display: code
-    url:
-
-- address: arXiv
   title: "SimQ-NAS: Simultaneous Quantization Policy and Neural Architecture Search"
   author: Sharath Nittur Sridhar, Maciej Szankin, Fang Chen, Sairam Sundaresan, Anthony Sarah
   link:
