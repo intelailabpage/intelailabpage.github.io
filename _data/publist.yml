@@ -17,6 +17,23 @@
     url: https://github.com/vision-x-nyu/image-sculpting
 
 - address: Seattle
+  title: "WOUAF: Weight Modulation for User Attribution and Fingerprinting in Text-to-Image Diffusion Models"
+  author: Changhoon Kim, Kyle Min, Maitreya Patel, Sheng Cheng, Yezhou Yang
+  link:
+    display: CVPR
+    url: https://arxiv.org/abs/2306.04744
+  ref: kim2023
+  venue: 'CVPR'
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: https://wouaf.vercel.app/ 
+  code: 
+    display: code
+    url: https://huggingface.co/spaces/wouaf/WOUAF-Text-to-Image
+
+- address: Seattle
   title: "Action Scene Graphs for Long-Form Understanding of Egocentric Videos"
   author: Ivan Rodin, Antonino Furnari, Kyle Min, Subarna Tripathi, Giovanni Maria Farinella
   link:
@@ -220,25 +237,6 @@
   code: 
     display: code
     url: https://github.com/IntelLabs/baa-ngp
-
-
-- address: Seattle
-  title: "WOUAF: Weight Modulation for User Attribution and Fingerprinting in Text-to-Image Diffusion Models"
-  author: Changhoon Kim, Kyle Min, Maitreya Patel, Sheng Cheng, Yezhou Yang
-  link:
-    display: CVPR
-    url: https://arxiv.org/abs/2306.04744
-  ref: kim2023
-  venue: 'CVPR'
-  year: '2024'
-  pub_type: conference
-  project: 
-    display: project
-    url: https://wouaf.vercel.app/ 
-  code: 
-    display: code
-    url: https://huggingface.co/spaces/wouaf/WOUAF-Text-to-Image
-    
 
 - address: Kigali
   title: "Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference"
