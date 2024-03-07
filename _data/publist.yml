@@ -57,7 +57,7 @@
     display: arXiv
     url: 'https://arxiv.org/abs/2312.13301'
   ref: SridharAAAI2024
-  venue: AAAI
+  venue: Association for the Advancement of Artificial Intelligence (AAAI)
   year: '2024'
   pub_type: conference
   project:
@@ -176,7 +176,7 @@
     display: CVF
     url: https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Sridhar_InstaTune_Instantaneous_Neural_Architecture_Search_During_Fine-Tuning_ICCVW_2023_paper.pdf
   ref: sridhar2023instatune
-  venue: 'International Conference on Computer Vision (ICCV) Workshops, '
+  venue: International Conference on Computer Vision (ICCV) Workshops
   year: '2023'
   pub_type: conference
   project: 
@@ -324,23 +324,6 @@
     url: https://github.com/Shengyu-Feng/DSG-DETR 
   
 - address: Hawaii
-  title: "FLOAT: Fast Learnable Once-for-All Adversarial Training for Tunable Trade-off between Accuracy and Robustness"
-  author: Souvik Kundu, Sairam Sundaresan, Massoud Pedram, Peter A. Beerel  
-  link:
-    display: CVF
-    url: https://openaccess.thecvf.com/content/WACV2023/papers/Kundu_FLOAT_Fast_Learnable_Once-for-All_Adversarial_Training_for_Tunable_Trade-Off_Between_WACV_2023_paper.pdf
-  ref: floatkun2023
-  venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
-  year: '2023'
-  pub_type: conference 
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
-  
-- address: Hawaii
   title: "Self-Attentive Pooling for Efficient Deep Learning"
   author: Fang Chen, Gourav Datta, Souvik Kundu, Peter A. Beerel  
   link:
@@ -449,7 +432,7 @@
     display: CVF
     url: https://openaccess.thecvf.com/content/CVPR2021W/CVPM/html/Kwasniewska_Improving_Accuracy_of_Respiratory_Rate_Estimation_by_Restoring_High_Resolution_CVPRW_2021_paper.html
   ref: KwasniewskaCVPR2021
-  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  venue: Computer Vision and Pattern Recognition (CVPR)
   year: '2021'
   pub_type: conference
   project: 
@@ -466,7 +449,7 @@
     display: NeurIPS
     url: https://neurips2021-nlp.github.io/papers/33/CameraReady/Undivided_Attention_Neurips_Workshop_2021_CameraReady.pdf
   ref: SridharNeurIPS2021
-  venue: 'Neural Information Processing Systems (NeurIPS), '
+  venue: Neural Information Processing Systems (NeurIPS)
   year: '2021'
   pub_type: conference
   project: 
@@ -483,7 +466,7 @@
     display: NeurIPS
     url: https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_138.pdf
   ref: LamdouarNeurIPS2021
-  venue: 'Neural Information Processing Systems (NeurIPS), '
+  venue: Neural Information Processing Systems (NeurIPS)
   year: '2021'
   pub_type: conference
   project: 
@@ -500,7 +483,7 @@
     display: arXiv
     url: https://arxiv.org/abs/2202.12934
   ref: CummingsGECCO2022
-  venue: 'Genetic and Evolutionary Computation Conference (GECCO), '
+  venue: Genetic and Evolutionary Computation Conference (GECCO)
   year: '2022'
   pub_type: conference
   project: 
@@ -517,7 +500,7 @@
     display: arXiv
     url: https://arxiv.org/abs/2205.10358
   ref: CummingsAutoML2022
-  venue: 'Automated Machine Learning (AutoML), '
+  venue: Automated Machine Learning (AutoML)
   year: '2022'
   pub_type: conference
   project: 
@@ -534,7 +517,7 @@
     display: OpenReview
     url: https://openreview.net/forum?id=HK-zmbTB8gq
   ref: MunozAutoML2022
-  venue: 'Automated Machine Learning (AutoML), '
+  venue: Automated Machine Learning (AutoML)
   year: '2022'
   pub_type: conference
   project: 
@@ -551,7 +534,7 @@
     display: arXiv
     url: https://arxiv.org/abs/2202.12411
   ref: SridharICML2022
-  venue: 'International Conference on Machine Learning (ICML), '
+  venue: International Conference on Machine Learning (ICML)
   year: '2022'
   pub_type: conference
   project: 
@@ -568,7 +551,7 @@
     display: OpenReview
     url: https://openreview.net/forum?id=MXrIVw-F_a4
   ref: KunduWACV2022
-  venue: 'Winter Conference on Applications of Computer Vision (WACV), '
+  venue: Winter Conference on Applications of Computer Vision (WACV)
   year: '2022'
   pub_type: conference
   project: 
@@ -585,7 +568,7 @@
     display: arXiv
     url: https://arxiv.org/abs/2302.03523
   ref: KunduICASSP2022
-  venue: 'International Conference on Acoustics, Speech, and Signal Processing (ICASSP), '
+  venue: International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
   year: '2022'
   pub_type: conference
   project: 
@@ -602,152 +585,12 @@
     display: arXiv
     url: https://arxiv.org/abs/2402.11780
   ref: KunduTinyML2024
-  venue: 'TinyML, '
+  venue: TinyML
   year: '2024'
   pub_type: conference
   project: 
     display: project
     url:  
   code: 
-    display: code
-    url: 
-
-- address: arXiv
-  title: "TrimBERT: Tailoring BERT for Trade-offs"
-  author: Sharath Nittur Sridhar, Anthony Sarah, Sairam Sundaresan
-  link:
-    display: arXiv
-    url: 'https://arxiv.org/abs/2202.12411'
-  ref: SridharICML2022
-  venue: ICML
-  year: '2022'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
-
-
-- address: OpenReview
-  title: "Automated Super-Network Generation for Scalable Neural Architecture Search"
-  author: J. Pablo Munoz, Nikolay Lyalyushkin, Chaunté W. Lacewell, Anastasia Senina, Daniel Cummings, Anthony Sarah, Alexander Kozlov, Nilesh Jain
-  link:
-    display: OpenReview
-    url: 'https://openreview.net/forum?id=HK-zmbTB8gq'
-  ref: MunozAutoML2022
-  venue: AutoML
-  year: '2022'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
-
-- address: arXiv
-  title: "A Hardware-Aware Framework for Accelerating Neural Architecture Search Across Modalities"
-  author: Daniel Cummings, Anthony Sarah, Sharath Nittur Sridhar, Maciej Szankin, Pablo Munoz, Sairam Sundaresan
-  link:
-    display: arXiv
-    url: 'https://arxiv.org/abs/2205.10358'
-  ref: CummingsAutoML2022
-  venue: AutoML
-  year: '2022'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
-
-
-- address: arXiv
-  title: "Accelerating Neural Architecture Exploration Across Modalities Using Genetic Algorithms"
-  author: Daniel Cummings, Sharath Nittur Sridhar, Anthony Sarah, Maciej Szankin
-  link:
-    display: arXiv
-    url: 'https://arxiv.org/abs/2202.12934'
-  ref: CummingsGECCO2022
-  venue: GECCO
-  year: '2022'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
-
-
-- address: NeurIPS
-  title: "Deep-SWIM: A few-shot learning approach to classify Solar WInd Magnetic field structures"
-  author: Hala Lamdouar, Sairam Sundaresan, Anna Jungbluth, Sudeshna Boro Saikia, Amanda Joy Camarata, Nathan Miles, Marcella Scoczynski, Mavis Stone, Anthony Sarah, Andres Munoz-Jaramillo, Ayris Narock, Adam Szabo
-  link:
-    display: NeurIPS
-    url: 'https://arxiv.org/abs/2202.12934'
-  ref: LamdouarNeurIPS2021
-  venue: GECCO
-  year: '2022'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
-
-
-- address: NeurIPS
-  title: "Undivided Attention: Are Intermediate Layers Necessary for BERT?"
-  author: Sharath Nittur Sridhar, Anthony Sarah
-  link:
-    display: NeurIPS
-    url: 'https://neurips2021-nlp.github.io/papers/33/CameraReady/Undivided_Attention_Neurips_Workshop_2021_CameraReady.pdf'
-  ref: SridharNeurIPS2021
-  venue: NeurIPS
-  year: '2022'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
-    
-- address: arXiv
-  title: "Sparse Mixture Once-for-all Adversarial Training for Efficient in-situ Trade-off between  Accuracy and Robustness of DNNs"
-  author: Souvik Kundu, Sairam Sundaresan, Sharath Nittur Sridhar, S Lu, H Tang, P. A. Beerel
-  link:
-    display: arXiv
-    url: 'https://arxiv.org/abs/2302.03523'
-  ref: KunduICASSP2022
-  venue: ICASSP
-  year: '2022'
-  pub_type: conference
-  project:
-    display: project
-    url:  
-  code:
-    display: code
-    url:
-    
-- address: CVPR
-  title: "Improving Accuracy of Respiratory Rate Estimation by Restoring High Resolution Features With Transformers and Recursive Convolutional Models"
-  author: Alicja Kwasniewska, Maciej Szankin, Jacek Ruminski, Anthony Sarah, David Gamba
-  link:
-    display: CVPR
-    url: 'https://openaccess.thecvf.com/content/CVPR2021W/CVPM/html/Kwasniewska_Improving_Accuracy_of_Respiratory_Rate_Estimation_by_Restoring_High_Resolution_CVPRW_2021_paper.html'
-  ref: KwasniewskaCVPR2021
-  venue: CVPR
-  year: '2021'
-  pub_type: conference
-  project:
-    display: project
-    url:  
-  code:
     display: code
     url: 
