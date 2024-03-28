@@ -1,4 +1,38 @@
 - address: Vienna
+  title: "Searching the Space of High-Value Molecules Using Reinforcement Learning and Language Models"
+  author: Raj Ghugare, Santiago Miret, Adriana Hugessen, Mariano Phielipp, Glen Berseth
+  link:
+    display: ICLR
+    url: 
+  ref: Ghugare2024
+  venue: ICLR 2024
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+    
+- address: Vienna
+  title: "Towards Foundation Models for Knowledge Graph Reasoning"
+  author: Mikhail Galkin, Xinyu Yuan, Hesham Mostafa, Jian Tang, Zhaocheng Zhu
+  link:
+    display: ICLR
+    url: 
+  ref: Galkin2024
+  venue: ICLR 2024
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+
+- address: Vienna
   title: "Fusing Models with Complementary Expertise"
   author: Hongyi Wang, Felipe Maia Polo, Yuekai Sun, Souvik Kundu, Eric Xing, Mikhail Yurochkin
   link:
@@ -56,6 +90,23 @@
     display: Under review
     url: 
   ref: Chaves2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+
+- address: XXX
+  title: "CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs"
+  author: A. Ramachandran, Souvik Kundu, Tushar Krishna
+  link:
+    display: Under review
+    url: 
+  ref: Ramachandran2024
   venue: under review
   year: '2024'
   pub_type: conference
