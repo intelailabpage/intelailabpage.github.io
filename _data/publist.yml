@@ -1,3 +1,20 @@
+- address: Vienna
+  title: "Fusing Models with Complementary Expertise"
+  author: Hongyi Wang, Felipe Maia Polo, Yuekai Sun, Souvik Kundu, Eric Xing, Mikhail Yurochkin
+  link:
+    display: ICLR
+    url: 
+  ref: Wang2024foe
+  venue: ICLR 2024
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+
 - address: Seattle
   title: "Block Selective Reprogramming for On-device Training of Vision Transformers"
   author: Sreetama Sarkar, Souvik Kundu, Kai Zheng, Peter A. Beerel
