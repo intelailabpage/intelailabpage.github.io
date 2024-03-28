@@ -1,3 +1,37 @@
+- address: xxx
+  title: "GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLMs"
+  author: Hao Kang, Qingru Zhang, Souvik Kundu, Zaoxing Liu, Geonhwa Jeong, Tushar Krishna, Tuo Zhao 
+  link:
+    display: Under review
+    url: 
+  ref: kang2024gear
+  venue: arxiv
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+
+- address: xxx
+  title: "Pruning Small Pre-Trained Weights Irreversibly and Monotonically Impairs ``Difficult" Downstream Tasks in LLMs"
+  author: Lu Yin, AJAY KUMAR JAISWAL, Shiwei Liu, Souvik Kundu, Zhangyang Wang 
+  link:
+    display: Under review
+    url: 
+  ref: Lu2024pruning
+  venue: arxiv
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+
 - address: Vienna
   title: "Searching the Space of High-Value Molecules Using Reinforcement Learning and Language Models"
   author: Raj Ghugare, Santiago Miret, Adriana Hugessen, Mariano Phielipp, Glen Berseth
