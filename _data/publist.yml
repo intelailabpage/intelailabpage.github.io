@@ -1,4 +1,38 @@
 - address: XXX
+  title: "VideoSAGE: Video Summarization with Graph Representation Learning"
+  author: Jose Rojas Chaves, Subarna Tripathi
+  link:
+    display: Under review
+    url: 
+  ref: Chaves2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+
+- address: XXX
+  title: "Ego-VPA: Egocentric Video Understanding with Parameter-efficient Adaptation"
+  author: Tz-Ying Wu, Kyle Min, Subarna Tripathi, Nuno Vasconcelos
+  link:
+    display: Under review
+    url: 
+  ref: Wu2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+
+- address: XXX
   title: "PASTE: Prompt-Aligned Scene TExture synthesis"
   author: Ting Hsuan Liao, Sainan Liu, Ilke Demir, Jia-Bin Huang
   link:
