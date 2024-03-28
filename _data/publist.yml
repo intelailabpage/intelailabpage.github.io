@@ -1,7 +1,7 @@
 - address: xxx
   title: "GEAR: An Efficient KV Cache Compression Recipe for Near-Lossless Generative Inference of LLMs"
   author: Hao Kang, Qingru Zhang, Souvik Kundu, Zaoxing Liu, Geonhwa Jeong, Tushar Krishna, Tuo Zhao 
-  link:
+  link: https://arxiv.org/pdf/2403.05527.pdf
     display: Under review
     url: 
   ref: kang2024gear
@@ -20,7 +20,7 @@
   author: Lu Yin, Ahay K. Jaiswal, Shiwei Liu, Souvik Kundu, Zhangyang Wang 
   link:
     display: Under review
-    url: 
+    url: https://arxiv.org/pdf/2310.02277.pdf
   ref: Lu2024pruning
   venue: under review
   year: '2024'
@@ -71,7 +71,7 @@
   author: Hongyi Wang, Felipe Maia Polo, Yuekai Sun, Souvik Kundu, Eric Xing, Mikhail Yurochkin
   link:
     display: ICLR
-    url: 
+    url: https://openreview.net/pdf?id=PhMrGCMIRL
   ref: Wang2024foe
   venue: ICLR
   year: '2024'
@@ -204,7 +204,7 @@
 
 - address: XXX
   title: "AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models"
-  author: Zeyu Liu, Souvik Kundu, Anni Li, Junrui Wan, Lianghao Jiang, Peter Anthony Beerel
+  author: Zeyu Liu*, Souvik Kundu*, Anni Li, Junrui Wan, Lianghao Jiang, Peter Anthony Beerel
   link:
     display: arXiv
     url: https://arxiv.org/abs/2403.13269
