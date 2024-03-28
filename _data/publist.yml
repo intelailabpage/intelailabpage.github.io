@@ -5,7 +5,7 @@
     display: Under review
     url: 
   ref: kang2024gear
-  venue: arxiv
+  venue: under review
   year: '2024'
   pub_type: conference
   project: 
@@ -17,12 +17,12 @@
 
 - address: xxx
   title: "Pruning Small Pre-Trained Weights Irreversibly and Monotonically Impairs ``Difficult" Downstream Tasks in LLMs"
-  author: Lu Yin, AJAY KUMAR JAISWAL, Shiwei Liu, Souvik Kundu, Zhangyang Wang 
+  author: Lu Yin, Ahay K. Jaiswal, Shiwei Liu, Souvik Kundu, Zhangyang Wang 
   link:
     display: Under review
     url: 
   ref: Lu2024pruning
-  venue: arxiv
+  venue: under review
   year: '2024'
   pub_type: conference
   project: 
