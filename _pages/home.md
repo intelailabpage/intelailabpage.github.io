@@ -41,6 +41,7 @@ We do joint-research with academia.
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
         <li data-target="#carousel" data-slide-to="8"></li>
+        <li data-target="#carousel" data-slide-to="9"></li>
     </ol>
 
     <!-- Items -->
@@ -68,6 +69,9 @@ We do joint-research with academia.
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/8.jpg" alt="Slide 8" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/9.jpg" alt="Slide 9" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
