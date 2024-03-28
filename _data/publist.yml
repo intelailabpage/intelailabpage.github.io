@@ -1,4 +1,38 @@
-- address: XXX
+- address: Seattle
+  title: "Block Selective Reprogramming for On-device Training of Vision Transformers"
+  author: Sreetama Sarkar, Souvik Kundu, Kai Zheng, Peter A. Beerel
+  link:
+    display: Under review
+    url: 
+  ref: Sarkar2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+
+- address: Seattle
+  title: "Understanding the Impact of KV Cache Compression for Large VLMs"
+  author: Souvik Kundu, Anahita Bhiwandiwalla, Hao Kang, Vasudev Lal
+  link:
+    display: Under review
+    url: 
+  ref: Kundu2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+
+- address: Seattle
   title: "VideoSAGE: Video Summarization with Graph Representation Learning"
   author: Jose Rojas Chaves, Subarna Tripathi
   link:
