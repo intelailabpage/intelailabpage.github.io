@@ -8,11 +8,15 @@ permalink: /research/
 
 # Research #
 
-We are a group of machine learning researchers working on “Foundational AI Research at Scale”. We build one of the fastest billion-scale graph learning platforms, and one of the first foundation models for knowledge graph reasoning. We are working on “long-form” video representation research using sparse transformers and graphs and producing state-of-the-art results on several benchmarks. We do forefront research on efficient multimodal generative AI including text-to-image diffusion models, image editing with precise 3D control. We do advanced research on AI for chip design and foundation model optimization. Finally, we are accelerating and democratizing AI for science - focusing on new benchmarks and tools for Material Science and Protein Synthesis.
+We are a group of machine learning researchers working on “Foundational AI Research at Scale”. We have built the first error recovery based generative inference framework, namely `GEAR`, that works in a "plug-and-play manner. In the efficient fine-tuning space, we developed an adaptive LoRA freezing method, the SoTA PEFT method for language models. We build one of the fastest billion-scale graph learning platforms, and one of the first foundation models for knowledge graph reasoning. We are working on “long-form” video representation research using sparse transformers and graphs and producing state-of-the-art results on several benchmarks. We do forefront research on efficient multimodal generative AI including text-to-image diffusion models, image editing with precise 3D control. We do advanced research on AI for chip design and foundation model optimization. Finally, we are accelerating and democratizing AI for science - focusing on new benchmarks and tools for Material Science and Protein Synthesis.
 
 
 
 Here are some themes and techniques that we currently work on:
+
+### Foundation Model Optimization (FoMo). ###
+The foundation model optimization research of AIL focuses on model architecture develpment, efficient fine-tuning, latency and/or throughput efficient inference methodologies. The borader goal is to support million scale tokens at limited compute and memory budget. In the model architecture development space, our research primarily focuses on sub-quadratic attention mechanisms. Towards that goal, our work SAL-ViT (ICCV 2023) presents an hybrid architecture having quadratic attention and sub-quadratic attentions at different layers based on their operational performance sensitivity. Refer to <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_SAL-ViT_Towards_Latency_Efficient_Private_Inference_on_ViT_using_Selective_ICCV_2023_paper.pdf"> for more details.
+
 
 ### Long-Form Video Representation Learning. ### 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/long-form-video.png){: style="width: 250px; float: left; margin: 0px 10px"} 
@@ -45,5 +49,3 @@ We have been leading a variety of research efforts on AI for Science at Intel La
 ### AI for Chip Design. ###
 
 Learning mechanisms for Electronic Design Automation (EDA) are increasingly becoming a focal point in research. These mechanisms hold the promise of delivering performance gains and quality improvements by orders of magnitude. Currently, our work is centered on the floor planning problem. We have developed solutions that outperform classical search solutions in both speed and quality.
-
-### Foundation Model Optimization. ###
