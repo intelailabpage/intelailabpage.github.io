@@ -21,6 +21,7 @@ Secondly, we have dedicated research efforts ongoing to advance the foundation m
 
 Lastly, to advance the LLM inference efficiency, we have recently collaborated on a multi-institution project, namely project GEAR (generative inference via approximation and error recovery). To know more about the project please refer to the <a href="https://github.com/opengear-project/GEAR"> project page.
 
+Other research in this thread includes data-free quantization for privacy preserving fine-tuning, foundation model applications in RTL design, robsutness vulnerability of efficient model deplyment. 
 
 ### Long-Form Video Representation Learning. ### 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/long-form-video.png){: style="width: 250px; float: left; margin: 0px 10px"} 
