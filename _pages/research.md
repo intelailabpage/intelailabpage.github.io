@@ -17,7 +17,9 @@ Here are some themes and techniques that we currently work on:
 ### Foundation Model Optimization (FoMo). ###
 The foundation model optimization research of AIL focuses on model architecture develpment, efficient fine-tuning, latency and/or throughput efficient inference methodologies. The borader goal is to support million scale tokens at limited compute and memory budget. In the model architecture development space, our research primarily focuses on sub-quadratic attention mechanisms. Towards that goal, our work SAL-ViT (ICCV 2023) presents an hybrid architecture having quadratic attention and sub-quadratic attentions at different layers based on their operational performance sensitivity. Refer to <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_SAL-ViT_Towards_Latency_Efficient_Private_Inference_on_ViT_using_Selective_ICCV_2023_paper.pdf"> the paper.
 
-To advance the LLM inference efficiency, we have recently collaborated on a multi-institution project, namely project GEAR (generative inference via approximation and error recovery). To know more about the project please refer to the <a href="https://github.com/opengear-project/GEAR"> project page.
+Secondly, we have dedicated research efforts ongoing to advance the foundation model fine-tuning research for their efficient trainability on downstream task with limited data and resources. A recent work from our lab that maintains the current SoTA in PEFT is <a href="https://arxiv.org/pdf/2403.13269.pdf"> here.
+
+Lastly, to advance the LLM inference efficiency, we have recently collaborated on a multi-institution project, namely project GEAR (generative inference via approximation and error recovery). To know more about the project please refer to the <a href="https://github.com/opengear-project/GEAR"> project page.
 
 
 ### Long-Form Video Representation Learning. ### 
