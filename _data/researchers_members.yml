@@ -78,14 +78,14 @@
 
 - name:  Mikhail Galkin
   photo: mikhail.jpg
-  info: Graph learning
+  info: Graph learning, geometric learning, diffusion models
   email: mikhail.galkin@intel.com
   website: https://migalkin.github.io/
   linkedin: 
 
 - name: Sainan Liu
   photo: sainan.jpg
-  info: 3D vision, neural rendering
+  info: 3D vision, neural rendering, scene reconstruction
   email: sainan.liu@intel.com
   website: 
   linkedin: 
