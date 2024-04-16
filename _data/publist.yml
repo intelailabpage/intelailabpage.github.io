@@ -1,11 +1,11 @@
-- address: xxx
-  title: "AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models"
-  author: Souvik Kundu*, Zeyu Liu*, Anni Li, Junrui Wan, Lianghao "Jiang, Peter A. Beerel
-  link: 
-    display: Under review 
+- address: Seattle
+  title: "AFLoRA: Adaptive Freezing of Low-Rank Adepters for Parameter Efficient Fine-Tuning of Language Models"
+  author: Souvik Kundu*, Zeyu Liu*, Peter A. Beerel
+  link:
+    display: Under review
     url: https://arxiv.org/pdf/2403.13269.pdf
-  ref: liu_aflora_2024
-  venue: 
+  ref: aflora_2024
+  venue: Under review
   year: '2024'
   pub_type: conference
   project: 
