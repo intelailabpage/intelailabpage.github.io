@@ -1,3 +1,38 @@
+- address: Seattle
+  title: "Block Selective Reprogramming for On-device Training of Vision Transformers"
+  author: Sreetama Sarkar, Souvik Kundu, Peter A. Beerel
+  link:
+    display: CVPR (Efficient Computer Vision Workshop)
+    url: 
+  ref: sarkar_bsr_2024
+  venue: CVPR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: https://github.com/sreetamasarkar/BSR
+
+- address: Seattle
+  title: "RLNet: Robust Linearized Networks for Efficient Private Inference"
+  author: Souvik Kundu*, Sreetama Sarkar*, Peter A. Beerel
+  link:
+    display: CVPR (TCV Workshop)
+    url: 
+  ref: sarkar_rlnet_2024
+  venue: CVPR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: https://github.com/sreetamasarkar/rlnet/tree/main
+
+
 - address: Vienna
   title: "Searching the Space of High-Value Molecules Using Reinforcement Learning and Language Models"
   author: Raj Ghugare, Santiago Miret, Adriana Hugessen, Mariano Phielipp, Glen Berseth
