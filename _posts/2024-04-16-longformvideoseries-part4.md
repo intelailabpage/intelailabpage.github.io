@@ -16,5 +16,5 @@ So, how do we enable accurate and efficient long-term visual understanding? An i
 runs on long videos. To that end, we explore novel video represnetation learning methods that are equipped with long-form reasoning capability. 
 
 This is part 4 focusing on how we are pushing the boundary of "long-form" reasoning leveraging "short-form" foundation models in a memory and computation-efficient ways. 
-See <a href=""> Part I </a> on video as spatio-temporal graphs and <a href=""> Part II </a> on video as temporal graphs for modeling several video understanding tasks. 
-See <a href=""> Part III </a> to learn about sparse video-text transformers and a sneak peek to our current explorations. 
+See <a href="https://intelailabpage.github.io/2024/04/16/longformvideoseries-part1.html"> Part I </a> on video as spatio-temporal graphs and <a href="https://intelailabpage.github.io/2024/04/16/longformvideoseries-part2.html"> Part II </a> on video as temporal graphs for modeling several video understanding tasks. 
+See <a href="https://intelailabpage.github.io/2024/04/16/longformvideoseries-part3.html"> Part III </a> to learn about sparse video-text transformers and a sneak peek to our current explorations. 
