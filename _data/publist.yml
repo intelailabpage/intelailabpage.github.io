@@ -1,3 +1,20 @@
+- address: xxx
+  title: "AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models"
+  author: Souvik Kundu∗, Zeyu Liu∗, Anni Li, Junrui Wan, Lianghao Jiang, Peter A. Beerel
+  link: 
+    display: Under review 
+    url: https://arxiv.org/pdf/2403.13269.pdf
+  ref: liu_aflora_2024
+  venue: 
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: 
+
 - address: Seattle
   title: "RLNet: Robust Linearized Networks for Efficient Private Inference"
   author: Souvik Kundu*, Sreetama Sarkar*, Peter A. Beerel
