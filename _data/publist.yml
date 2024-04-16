@@ -1,6 +1,6 @@
 - address: Seattle
   title: "AFLoRA: Adaptive Freezing of Low-Rank Adepters for Parameter Efficient Fine-Tuning of Language Models"
-  author: Souvik Kundu*, Zeyu Liu*, Anni Li, Junrui Wan, Lianghao Jiang, Peter A. Beerel
+  author: **Souvik Kundu**, Zeyu Liu, Anni Li, Junrui Wan, Lianghao Jiang, Peter A. Beerel
   link:
     display: Under review
     url: https://arxiv.org/pdf/2403.13269.pdf
@@ -16,10 +16,28 @@
     url: 
 
 - address: Seattle
-  title: "RLNet: Robust Linearized Networks for Efficient Private Inference"
-  author: Souvik Kundu*, Sreetama Sarkar*, Peter A. Beerel
+  title: "Block Selective Reprogramming for On-device Training of Vision Transformers"
+  author: Sreetama Sarkar, **Souvik Kundu**, Kai Zheng, Peter A. Beerel
   link:
-    display: CVPR (TCV Workshop)
+    display: CVPRW
+    url: 
+  ref: Sarkar2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: https://github.com/sreetamasarkar/BSR
+
+
+- address: Seattle
+  title: "RLNet: Robust Linearized Networks for Efficient Private Inference"
+  author: **Souvik Kundu**, Sreetama Sarkar, Peter A. Beerel
+  link:
+    display: CVPRW
     url: 
   ref: sarkar_rlnet_2024
   venue: CVPR
@@ -69,46 +87,12 @@
 
 - address: Vienna
   title: "Fusing Models with Complementary Expertise"
-  author: Hongyi Wang, Felipe Maia Polo, Yuekai Sun, Souvik Kundu, Eric Xing, Mikhail Yurochkin
+  author: Hongyi Wang, Felipe Maia Polo, Yuekai Sun, **Souvik Kundu**, Eric Xing, Mikhail Yurochkin
   link:
     display: ICLR
     url: https://openreview.net/pdf?id=PhMrGCMIRL
   ref: Wang2024foe
   venue: ICLR
-  year: '2024'
-  pub_type: conference
-  project: 
-    display: project
-    url: 
-  code: 
-    display: code
-    url:
-
-- address: Seattle
-  title: "Block Selective Reprogramming for On-device Training of Vision Transformers"
-  author: Sreetama Sarkar, Souvik Kundu, Kai Zheng, Peter A. Beerel
-  link:
-    display: CVPR (Efficient Computer Vision Workshop)
-    url: 
-  ref: Sarkar2024
-  venue: under review
-  year: '2024'
-  pub_type: conference
-  project: 
-    display: project
-    url: 
-  code: 
-    display: code
-    url: https://github.com/sreetamasarkar/BSR
-
-- address: Seattle
-  title: "Understanding the Impact of KV Cache Compression for Large VLMs"
-  author: Souvik Kundu, Anahita Bhiwandiwalla, Hao Kang, Vasudev Lal
-  link:
-    display: Under review
-    url: 
-  ref: Kundu2024
-  venue: under review
   year: '2024'
   pub_type: conference
   project: 
@@ -137,7 +121,7 @@
 
 - address: XXX
   title: "CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs"
-  author: A. Ramachandran, Souvik Kundu, Tushar Krishna
+  author: A. Ramachandran, **Souvik Kundu**, Tushar Krishna
   link:
     display: Under review
     url: 
@@ -271,11 +255,11 @@
     display: code
     url:    
 
-- address: arXiv
+- address: Sheoul
   title: "Sensi-BERT: Towards Sensitivity Driven Fine-Tuning for Parameter Efficient BERT"
   author: Souvik Kundu, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan
   link:
-    display: arXiv
+    display: ICASSP
     url: 'https://arxiv.org/abs/2307.11764'
   ref: KunduICASSP2024
   venue: ICASSP
@@ -341,7 +325,7 @@
     
 - address: Paris
   title: "Vision HGNN: An Image is More than a Graph of Nodes"
-  author: Yan Han, Peihao Wang, Souvik Kundu, Ding Ying, Zhangyang (Atlas) Wang
+  author: Yan Han, Peihao Wang, **Souvik Kundu**, Ding Ying, Zhangyang (Atlas) Wang
   link:
     display: CVF
     url: https://openaccess.thecvf.com/content/ICCV2023/papers/Han_Vision_HGNN_An_Image_is_More_than_a_Graph_of_ICCV_2023_paper.pdf
