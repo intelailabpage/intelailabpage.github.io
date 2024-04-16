@@ -33,5 +33,5 @@ Now, comes this question. If we need to know whether a video is of type swimming
 
 # Our approach of video as spatio-temporal graph #
 we propose a novel video representation method based on Spatio-Temporal Graphs Learning (SPELL) to equip it with long-term reasoning capability. 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/long-form-video.png){: style="width: 250px; float: left; margin: 0px 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/spell.png){: style="width: 350px; float: left; margin: 0px 10px"} 
 
