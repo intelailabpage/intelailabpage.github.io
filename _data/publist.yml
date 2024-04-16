@@ -202,24 +202,6 @@
   code: 
     display: code
     url:
-
-- address: XXX
-  title: "AFLoRA: Adaptive Freezing of Low Rank Adaptation in Parameter Efficient Fine-Tuning of Large Models"
-  author: Zeyu Liu*, Souvik Kundu*, Anni Li, Junrui Wan, Lianghao Jiang, Peter Anthony Beerel
-  link:
-    display: arXiv
-    url: https://arxiv.org/abs/2403.13269
-  ref: Liu2024
-  venue: preprint
-  year: '2024'
-  pub_type: conference
-  project: 
-    display: project
-    url: 
-  code: 
-    display: code
-    url: 
-
     
 - address: Seattle
   title: "Image Sculpting: Precise Object Editing with 3D Geometry Control"
