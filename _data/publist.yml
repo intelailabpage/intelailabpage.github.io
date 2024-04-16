@@ -109,7 +109,7 @@
     display: Under review
     url: 
   ref: Chaves2024
-  venue: under review
+  venue: CVPRW
   year: '2024'
   pub_type: conference
   project: 
@@ -416,8 +416,8 @@
     display: ArXiv
     url: https://arxiv.org/abs/2306.04166
   ref: liu2023
-  venue: 'ArXiv Preprint'
-  year: '2023'
+  venue: CVPRW
+  year: '2024'
   pub_type: conference
   project: 
     display: project
