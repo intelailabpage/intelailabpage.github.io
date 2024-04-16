@@ -33,6 +33,11 @@ Now, comes this question. If we need to know whether a video is of type swimming
 
 # Our approach of video as spatio-temporal graph #
 
-![]({{ site.url }}{{ site.baseurl }}/images/pubpic/spell.png){: style="width: 1050px; float: left; margin: 0px 10px"} 
-we propose a novel video representation method based on Spatio-Temporal Graphs Learning (SPELL) to equip it with long-term reasoning capability. 
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/spell.png){: style="width: 950px; float: left; margin: 0px 10px"} 
+{:.image-caption}
+*The caption for my image*
+
+
+We propose a novel video representation method based on Spatio-Temporal Graphs Learning (SPELL) to equip it with long-term reasoning capability. 
+Figure 1 illustrates an overview of our framework when used on an Active Speaker Detection (ASD) task. Taking the audio-visual data, we construct a multimodal graph and cast the ASD as a graph node classification task. First, we create a graph where the nodes correspond to each person within each frame, and the edges represent spatial or temporal relationships among them. Figure 2 shows a visualization of such a graph. The initial node features are constructed using simple and lightweight 2D convolutional neural networks (CNNs) instead of a complex 3D CNN or a transformer. Next, we perform binary node classification – active or inactive speaker – on this graph by learning a three-layer graph neural network (GNN) model each with a small number of parameters. In our framework, graphs are constructed specifically for encoding the spatial and temporal dependencies among the different facial identities. Therefore, the GNN can leverage this graph structure and model the temporal continuity in speech as well as the long-term spatial-temporal context, while requiring low memory and computation.  
 
