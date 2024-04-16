@@ -1,16 +1,9 @@
-# - name: Somdeb Majumdar
-#   photo: som.jpg
-#   info: Lab Director
-#   email: somdeb.majumdar@intel.com
-#   website: 
-
 - name: Anthony Sarah
   photo: anthony.jpg
   email: anthony.sarah@intel.com
   info: Algo-HW co-design
   website:
   linkedin: 
-
 
 - name: Carmelo Gonzales
   photo: carmelo.jpg
@@ -26,14 +19,12 @@
   website:
   linkedin: 
  
-
 - name: Hector Valdez
   photo: hector.jpg
   info: 
   email: hector.valdez@intel.com
   website: 
   linkedin: 
-
 
 - name: Hesham Mostafa
   photo: hesham.jpg
@@ -42,7 +33,6 @@
   website: 
   linkedin: 
 
-
 - name: John Martin
   photo: john.jpg
   info: Reinforcement learning
@@ -50,7 +40,6 @@
   website: https://jdmartin86.github.io/
   linkedin: 
  
-
 - name: Kyle Min
   photo: kyle.jpg
   info: Computer vision, multimodal learning
@@ -58,14 +47,12 @@
   website: https://sites.google.com/view/kylemin 
   linkedin: 
 
-
 - name: Lauren Wong
   photo: lauren.jpg
   info: 
   email: lauren.wong@intel.com
   website: 
   linkedin: 
-
 
 - name:  Maciej Szankin
   photo: maciej.jpg
@@ -89,14 +76,12 @@
   website: https://www.intel.com/content/www/us/en/research/featured-researchers/mariano-phielipp.html
   linkedin: https://www.linkedin.com/in/mariano-phielipp-941624/
 
-
 - name:  Mikhail Galkin
   photo: mikhail.jpg
   info: Graph learning
   email: mikhail.galkin@intel.com
   website: https://migalkin.github.io/
   linkedin: 
-
 
 - name: Sainan Liu
   photo: sainan.jpg
@@ -105,6 +90,12 @@
   website: 
   linkedin: 
 
+# - name: Sairam Sundaresan
+#   photo: sairam.jpg
+#   info: Algo-HW co-design
+#   email: sairam.sundaresan@intel.com
+#   website: https://newsletter.artofsaience.com/
+#   linkedin: https://www.linkedin.com/in/sairam-sundaresan/
 
 - name: Santiago Miret
   photo: santiago.jpg
@@ -147,12 +138,6 @@
   email: uday.malappa@intel.com
   website: 
   linkedin: 
-
-# - name: Xinyu Yuan
-#   photo: xinyu.jpg
-#   info: Graph Learning Intern
-#   email: ailabpage@gmail.com
-#   website: 
 
  
 # - name: "This could be you !"
