@@ -1,6 +1,6 @@
 - address: Seattle
   title: "AFLoRA: Adaptive Freezing of Low-Rank Adepters for Parameter Efficient Fine-Tuning of Language Models"
-  author: Souvik Kundu*, Zeyu Liu*, Peter A. Beerel
+  author: Souvik Kundu*, Zeyu Liu*, Anni Li, Junrui Wan, Lianghao Jiang, Peter A. Beerel
   link:
     display: Under review
     url: https://arxiv.org/pdf/2403.13269.pdf
