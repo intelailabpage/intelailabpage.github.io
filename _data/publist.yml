@@ -106,10 +106,10 @@
   title: "VideoSAGE: Video Summarization with Graph Representation Learning"
   author: Jose Rojas Chaves, Subarna Tripathi
   link:
-    display: Under review
-    url: 
+    display: CVPRW
+    url: https://arxiv.org/pdf/2404.10539.pdf
   ref: Chaves2024
-  venue: CVPRW
+  venue: CVPR
   year: '2024'
   pub_type: conference
   project: 
