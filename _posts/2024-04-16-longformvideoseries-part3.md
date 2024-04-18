@@ -68,8 +68,11 @@ On all video-text benchmarks, SViTT reports comparable or better performance tha
 <br>
 <br>
 
-To summarize the key contributions of SViTT are: 1) a video-text architecture that unifies edge and node sparsity; 2) a sparse expansion curriculum for training on long video clips; and 3) empirical results that demonstrate its temporal modeling efficacy on video-language tasks.
+To summarize, the key contributions of SViTT are: 1) a video-text architecture that unifies edge and node sparsity; 2) a sparse expansion curriculum for training on long video clips; and 3) empirical results that demonstrate its temporal modeling efficacy on video-language tasks.
+This work was originally published in CVPR 2023.
 
+
+Presently, we are developing foundation models utilizing such sparse transformers for egocentric videos. Our SViTT-Ego model outperforms existing SOTA models such as EgoVLP on several downstream applications such as video multiple question answering (EgoMCQ). More details coming soon. 
 </p>
 
 
