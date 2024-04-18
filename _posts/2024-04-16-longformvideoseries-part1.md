@@ -66,7 +66,7 @@ We have open-sourced our software library, GraVi-T. At present, GraVi-T supports
 # Highlights #
 Compared to transformers, our "object-centric" spatio-temporal graph approach can aggregate context over 10x longer video (as shown in Figure 3), consumes ~10x lower memory and 5x lower FLOPs.
 
-Our approach of modeling video as a sparse graph outperformed complex SOTA methods on several applications. It secured top places in multiple leaderboards using this active speaker detection framework. The list includes ActivityNet 2022, Ego4D audio-video diarization challenge at ECCV 2022, CVPR 2023. 
+Our approach of modeling video as a sparse graph outperformed complex SOTA methods on several applications. It secured top places in multiple leaderboards using this active speaker detection framework. The list includes ActivityNet 2022, Ego4D audio-video diarization challenge at ECCV 2022, CVPR 2023. Source code for the challenge winning models are also included. 
 
 
 
