@@ -43,3 +43,15 @@ datasets(SumMe and TVSum) show that VideoSAGE has comparable performance as exis
 *Figure 2: (left) Comparison with SOTA methods on the SumMe and TVSum datasets and (right) profiling inference using A2Summ, PGL-SUM and VideoSAGE.* 
 
 This has recently been accepted in a workshop at CVPR 2024. The paper details and more results are available <a href="https://arxiv.org/pdf/2404.10539"> here. </a>
+
+
+### Action Segmentation ###
+Similarly, we also pose the action segmentation problem as a node classification in such a sparse graph constructed from the input video. The GNN structure is similar to the above, except the last GNN layer is Graph Attention Network (GAT) instead of SageConv as used in the video summarization. We perform experiments of 50-Salads dataset.  
+
+![action-segmentation-results]({{ site.url }}{{ site.baseurl }}/images/pubpic/action-segmentation-results.png){: style="width: 550px; float: left; margin: 0px 10px"} 
+*Figure 2: Action Segmentation results on 50-Salads dataset as measured by F1@.1 and Accuracy.* 
+
+
+
+### Opensourced software ###
+Our opensourced software library <a href="https://github.com/IntelLabs/GraVi-T"> GraVi-T </a> includes these applications, model training, inference and evaluation code. 
