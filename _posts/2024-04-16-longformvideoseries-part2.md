@@ -48,7 +48,7 @@ This has recently been accepted in a workshop at CVPR 2024. The paper details an
 ### Action Segmentation ###
 Similarly, we also pose the action segmentation problem as a node classification in such a sparse graph constructed from the input video. The GNN structure is similar to the above, except the last GNN layer is Graph Attention Network (GAT) instead of SageConv as used in the video summarization. We perform experiments of 50-Salads dataset.  
 
-![action-segmentation-results]({{ site.url }}{{ site.baseurl }}/images/pubpic/action-segmentation-results.png){: style="width: 550px; float: left; margin: 0px 10px"} 
+![action-segmentation-results]({{ site.url }}{{ site.baseurl }}/images/pubpic/action-segmentation-results.png)
 *Figure 2: Action Segmentation results on 50-Salads dataset as measured by F1@.1 and Accuracy.* 
 
 
