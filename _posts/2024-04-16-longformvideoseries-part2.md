@@ -53,6 +53,8 @@ Similarly, we also pose the action segmentation problem as a node classification
 
 We leverage MSTCN or ASFormer as the stage 1 initial feature extractors. Next, we utilize our sparse, Bi-Directional GNN model that utilizes concurrent temporal “forward” and “backward” local message-passing operations. The GNN model further refine the final, fine-grain per-frame action prediction of our system. 
 
-
 ### Opensourced software ###
 Our opensourced software library <a href="https://github.com/IntelLabs/GraVi-T"> GraVi-T </a> includes these applications, model training, inference and evaluation code. 
+
+<br>
+We are excited about this generic, lightweight and efficient framework and are working towards other new applications. More exciting news coming soon !!!
