@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Long-form video representation learning (Part 1: video as spatio-temporal graphs)"
+title: "Long-form video representation learning (Part 1: video as object-centric spatio-temporal graphs)"
 date: 2024-04-16
 permalink: /2024/04/16/longformvideoseries-part1.html
 author: <a href="https://subarnatripathi.github.io/"> Subarna Tripathi </a>
@@ -41,7 +41,13 @@ Now comes this question. If we need to know whether a video is of type 'swimming
 
 We propose a novel video representation method based on Spatio-Temporal Graphs Learning (SPELL) to equip it with long-term reasoning capability. 
 Figure 1 illustrates an overview of our framework designed for Active Speaker Detection (ASD) task. With the audio-visual data as input, we construct a multimodal graph and cast the ASD as a graph node classification task. Figure 2 demonstrates the graph construction process. 
-First, we create a graph where the nodes correspond to each person within each frame, and the edges represent spatial or temporal relationships among them. The initial node features are constructed using simple and lightweight 2D convolutional neural networks (CNNs) instead of a complex 3D CNN or a transformer. Next, we perform binary node classification i.e. active or inactive speaker – on each node of this graph by learning a light-weight three-layer graph neural network (GNN). In our framework, graphs are constructed specifically for encoding the spatial and temporal dependencies among the different facial identities. Therefore, the GNN can leverage this graph structure and model the temporal continuity in speech as well as the long-term spatial-temporal context, while requiring low memory and computation. 
+First, we create a graph where the nodes correspond to each person within each frame, and the edges represent spatial or temporal relationships among them. The initial node features are constructed using simple and lightweight 2D convolutional neural networks (CNNs) instead of a complex 3D CNN or a transformer. Next, we perform binary node classification i.e. active or inactive speaker – on each node of this graph by learning a light-weight three-layer graph neural network (GNN). Graphs are constructed specifically for encoding the spatial and temporal dependencies among the different facial identities. Therefore, the GNN can leverage this graph structure and model the temporal continuity in speech as well as the long-term spatial-temporal context, while requiring low memory and computation. 
+
+<p>
+You can ask why the graph contruction is this way? Here comes the influence of the domain knowledge. The reason the nodes within a time distance that share the same face-id are connected with each other is to model the real-world scenario that if a person is taking at t=1 and the same person is talking at t=5, the chances are that person is talking at t=2,3,4. 
+Why we connect different face-ids if they share the same time-stamp? That's because, in general, if a person is talking others are most likely listening. If we had connected all nodes with each other and made the graph dense, the model not only would have required huge memory and compute, they would also have become noisy.
+</p>
+
 We perform extensive experiments on the AVA-ActiveSpeaker dataset. Our results show that SPELL outperforms all previous state-of-the-art (SOTA) approaches. Thanks to ~95% sparsity of the constructed graphs, SPELL requires significantly less hardware resources for the visual feature encoding (11.2M #Params) compared to ASDNet (48.6M #Params), one of the leading state-of-the-art methods of that time.
 
 ![spell-asd]({{ site.url }}{{ site.baseurl }}/images/pubpic/spell-asd.png){: style="width: 950px; float: left; margin: 0px 10px"} 
