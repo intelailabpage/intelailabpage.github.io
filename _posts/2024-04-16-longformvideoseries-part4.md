@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Long-form video representation learning (Part 4: Long-form video reasoning)"
+title: "Long-form video representation learning (Part 4: latest and greatest in long-form video reasoning)"
 date: 2024-04-16
 permalink: /2024/04/16/longformvideoseries-part4.html
 author: <a href="https://subarnatripathi.github.io/"> Subarna Tripathi </a>
