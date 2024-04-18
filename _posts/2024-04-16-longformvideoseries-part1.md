@@ -33,8 +33,7 @@ Now comes this question. If we need to know whether a video is of type 'swimming
 
 # Video as "object-centric" spatio-temporal graph #
 
-![]({{ site.url }}{{ site.baseurl }}/images/pubpic/spell-asd-overall.png){: style="width: 950px; float: left; margin: 0px 10px"} 
-{: image-caption ="*Figure 1: We convert a video into a canonical graph from the audio-visual input data, where each node corresponds to a person in a frame, and an edge represents a spatial or temporal interaction between the nodes. The constructed graph is dense enough for modeling long-term dependencies through message passing across the temporally-distant but relevant nodes, yet sparse enough to be processed within low memory and computation budget. The ASD task is posed as a binary node classification in this long-range spatial-temporal graph..*"}
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/spell-asd-overall.png){: style="width: 950px; float: left; margin: 0px 10px"} {: image-caption ="*Figure 1: We convert a video into a canonical graph from the audio-visual input data, where each node corresponds to a person in a frame, and an edge represents a spatial or temporal interaction between the nodes. The constructed graph is dense enough for modeling long-term dependencies through message passing across the temporally-distant but relevant nodes, yet sparse enough to be processed within low memory and computation budget. The ASD task is posed as a binary node classification in this long-range spatial-temporal graph..*"}
 
 
 ### Tasks formulated as node classification : Active Speaker Detection ###
