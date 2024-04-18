@@ -53,6 +53,10 @@ The hyperparameter τ (= 0.9 second in our experiments) in SPELL imposes additio
 The work on spatio-temporal graphs for active speaker detection has been published at ECCV 2022. The manuscript can be found <a href="https://link.springer.com/chapter/10.1007/978-3-031-19833-5_22"> here </a>. 
 In an earlier <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Spatio-Temporal-Graphs-for-Long-Term-Video-Understanding/post/1425258#.Y1oG7jhUOBs.linkedin"> blog </a> we provided more details. 
 
+
+![spell-time-support]({{ site.url }}{{ site.baseurl }}/images/pubpic/spell-time-support.png){: style="width: 950px; float: left; margin: 0px 10px"} 
+*Figure 3: Left and right figure demonstrate the compartive time-support of our method compared to others for Active Speaker Detection and Action Detection applications, respectively.*
+
 ### Other applications ###
 The ASD problem setup in Ava active speaker dataset has access to the labeled faces and labeled face tracks as input to the problem setup. That largely simplifies the construction of the graph in terms of identifying the nodes and edges. For other problems, such as Action Detection, where the ground truth object (person) locations and tracks are not provided, we use pre-processing to detect objects and object tracks, then utilize SPELL for the node classification problem. On average, we achieve ~90% sparse graphs; a key difference compared to visual transformer-based methods which rely on dense General Matrix Multiply (GEMM) operations. Our sparse GNNs allow us to (1) achieve slightly better performance than transformer-based models; (2) aggregate temporal context over 10x longer windows compared to transformer-based models (100s vs 10s); and (3) Achieve 2-5X compute savings compared to transformers-based methods.
 
@@ -60,7 +64,13 @@ The ASD problem setup in Ava active speaker dataset has access to the labeled fa
 We have open-sourced our software library, GraVi-T. At present, GraVi-T supports multiple video understanding applications, including Active Speaker Detection, Action Detection, Temporal Segmentation, Video Summarization. See our post on <a href="https://intelailabpage.github.io/2023/03/29/gravi-t.html"> GraVi-T </a> to more on the applications. 
 
 # Highlights #
+Compared to transformers, our "object-centric" spatio-temporal graph approach can aggregate context over 10x longer video (as shown in Figure 3), consumes ~10x lower memory and 5x lower FLOPs.
+
 Our approach of modeling video as a sparse graph outperformed complex SOTA methods on several applications. It secured top places in multiple leaderboards using this active speaker detection framework. The list includes ActivityNet 2022, Ego4D audio-video diarization challenge at ECCV 2022, CVPR 2023. 
+
+
+
+
 
 
 
