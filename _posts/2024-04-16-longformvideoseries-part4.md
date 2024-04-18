@@ -27,5 +27,8 @@ We showed how explicit graph based methods can aggregate 10X temporal context, b
 
 Our method is not tied to a fixed number of input frames anymore. Our method is extremely memory and compute efficient. Two example evaluations zero-shot and fine-tuned activity recognition on Charades-ego show the efficacy of our method. Please note, we are using Ego4D as our pretraining dataset. 
 
+<br>
+Stay tuned to know more about this exciting and promising line of work !!
+
   
 </p>
