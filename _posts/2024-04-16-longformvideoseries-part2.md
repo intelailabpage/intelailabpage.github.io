@@ -51,6 +51,7 @@ Similarly, we also pose the action segmentation problem as a node classification
 ![action-segmentation-results]({{ site.url }}{{ site.baseurl }}/images/pubpic/action-segmentation-results.png){: style="width: 750px; float: left; margin: 0px 10px"} 
 *Figure 2: Action Segmentation results on 50-Salads dataset as measured by F1@.1 and Accuracy.* 
 
+We leverage MSTCN or ASFormer as the stage 1 initial feature extractors. Next, we utilize our sparse, Bi-Directional GNN model that utilizes concurrent temporal “forward” and “backward” local message-passing operations. The GNN model further refine the final, fine-grain per-frame action prediction of our system. 
 
 
 ### Opensourced software ###
