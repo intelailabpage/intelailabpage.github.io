@@ -78,12 +78,15 @@ Pre-training with SViTT improves accuracy SoTA on 5 benchmarks : retrieval, Vide
 
 
 <br>
+</p>
 
+
+<p>
 Presently, we are developing foundation models utilizing such sparse transformers for egocentric videos. Our SViTT-Ego model outperforms existing SOTA models such as EgoVLP on several downstream applications such as video multiple question answering (EgoMCQ). One such visual example is shown below. 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/egomcq-visuals.png){: style="width: 900px; float: left; margin: 0px 10px"} 
 
 We are preparing to participate in the EgoVis workshop at CVPR with our SViTT-ego. More details coming soon. 
-</p>
 
+</p>
 
