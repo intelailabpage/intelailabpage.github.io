@@ -27,4 +27,19 @@ Let G = (V, E) be a graph with the node set V and edge set E. For domains such a
 
 When a video is modeled as a temporal graph, many video understanding problems can be formulated as either node classification or graph classification problems. We utilize a SPELL framework for other tasks in video understanding such as Action Boundary Detection, Temporal Action Segmentation, Video summarization / highlight reels detection. Very recently, we are working on utilizing the same framework for leveraging correlation across multiple view for other video understanding tasks. Watch out for our updates on new applications using GraVi-T. 
 
+### Video Summarization ###
+Here we present such a framework, namely VideoSAGE which stands for Video Summarization with Graph Representation Learning. 
+We leverage the video as a temporal graph approach for video highlights reel creation using this framework. First, we convert an input video to a graph where nodes correspond to each of the video frames. Then, we impose sparsity on the graph by connecting only those pairs of nodes that are within a specified temporal distance. 
+We then formulate the video summarization task as a binary node classification problem, precisely classifying video frames whether they should belong to the output summary video. A graph constructed this way (as shown in Figure 1) aims to capture long-range interactions among video frames, and the sparsity ensures the model trains without hitting the memory and compute bottleneck. 
+Experiments on two datasets(SumMe and TVSum) demonstrate the effectiveness of the proposed nimble model compared to existing state-of-the-art summarization approaches while being one order of magnitude more efficient in compute time and memory.  
 
+![videosage]({{ site.url }}{{ site.baseurl }}/images/pubpic/videoSage.png){: style="width: 950px; float: left; margin: 0px 10px"} 
+*Figure 1: VideoSAGE constructs a graph from the input video with each node encoding a frame. We formulate the video summarization problem as a binary node classification problem.*
+
+We show that this structured sparsity leads to comparable or improved results on video summarization
+datasets(SumMe and TVSum) show that VideoSAGE has comparable performance as existing state-of-the-art summarization approaches while consuming significantly lower memory and compute budgets. The tables below show the comparative results of our method, namely VideoSAGE, on performances and objective scores. 
+
+![videosage-results]({{ site.url }}{{ site.baseurl }}/images/pubpic/videosage-results.png){: style="width: 950px; float: left; margin: 0px 10px"} 
+*Figure 2: (left) Comparison with SOTA methods on the SumMe and TVSum datasets and (right) profiling inference using A2Summ, PGL-SUM and VideoSAGE.* 
+
+This has recently been accepted in a workshop at CVPR 2024. The paper details and more results are available <a href="https://arxiv.org/pdf/2404.10539"> here. </a>
