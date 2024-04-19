@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Long-form video representation learning (Part 5: Modeling visual relationships and actions)"
-date: 2024-04-16
-permalink: /2024/04/16/longformvideoseries-part5.html
+date: 2024-04-18
+permalink: /2024/04/18/longformvideoseries-part5.html
 author: <a href="https://subarnatripathi.github.io/"> Subarna Tripathi </a>
 excerpt: "Current video understanding systems accurately recognize patterns in short video clips, but fails to process a video content over a few seconds due to computation and memory bottleneck. We propose a video representation method based on a spatio-temporal graph learning (SPELL) to equip it with long-term reasoning ability... "  
 ---
