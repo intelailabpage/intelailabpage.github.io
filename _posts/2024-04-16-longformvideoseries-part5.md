@@ -13,7 +13,8 @@ Current video understanding systems accurately recognize patterns in short video
 However, they fail to capture how the present connects to the past or future in a world of never-ending visual stimuli. 
 Existing video architectures tend to hit computation or memory bottlenecks after processing only a few seconds of video content. 
 So, how do we enable accurate and efficient long-term visual understanding? An important first step is to have a model that practically 
-runs on long videos. To that end, we explore novel video represnetation learning methods that are equipped with long-form reasoning capability. 
+runs on long videos. To that end, we explore novel video representation learning methods that are equipped with long-form reasoning capability. 
+
 
 In this blog, we will take you to the journey of how to model visual relations. 
 See <a href="https://intelailabpage.github.io/2024/04/16/longformvideoseries-part1.html"> Part I </a> on video as "object-centric" spatio-temporal graphs and <a href="https://intelailabpage.github.io/2024/04/16/longformvideoseries-part2.html"> Part II </a> on video as temporal graphs for modeling several video understanding tasks. 
@@ -25,6 +26,9 @@ We showed how explicit graph based methods can aggregate 10X temporal context, b
 We start by modeling visual relationships in images, where the core problem is to convert an image to a semantic graph where nodes represent object instances and directed edges represent relationship between a pair of objects. Often, the 
 relationship might mean action or some other kind of spatial relation.
 
+</p>
+
+<p>
 ICCV 2021 : long-tailed distribution;
 ICCV 2021 : application of scene graphs for image captioning
 NeurIPS 2022: Single stage SGG detection
