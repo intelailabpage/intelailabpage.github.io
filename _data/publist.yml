@@ -1,3 +1,20 @@
+- address: Vienna
+  title: "Pruning Small Magnitude Weights Monotonically and Irreversibly Impairs Difficult Downstream Tasks in LLMs"
+  author: Lu Yin, Shiwei Liu, Ajay Jaiswal, Souvik Kundu, Zhangyang (Atlas) Wang	
+  link:
+    display: arXiv
+    url:
+  ref: Yin2024
+  venue: ICML
+  year: '2024'
+  pub_type: conference
+  project:
+    display:
+    url:
+  code:
+    display:
+    url:
+
 - address: Seattle
   title: "AFLoRA: Adaptive Freezing of Low-Rank Adepters for Parameter Efficient Fine-Tuning of Language Models"
   author: Souvik Kundu, Zeyu Liu, Anni Li, Junrui Wan, Lianghao Jiang, Peter A. Beerel
