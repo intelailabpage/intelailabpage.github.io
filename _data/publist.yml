@@ -9,10 +9,10 @@
   year: '2024'
   pub_type: conference
   project:
-    display:
+    display: project
     url:
   code:
-    display:
+    display: code
     url:
 
 - address: Seattle
