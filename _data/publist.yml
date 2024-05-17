@@ -19,10 +19,10 @@
   title: "AFLoRA: Adaptive Freezing of Low-Rank Adepters for Parameter Efficient Fine-Tuning of Language Models"
   author: Souvik Kundu, Zeyu Liu, Anni Li, Junrui Wan, Lianghao Jiang, Peter A. Beerel
   link:
-    display: Under review
+    display: ACL 2024
     url: https://arxiv.org/pdf/2403.13269.pdf
   ref: aflora_2024
-  venue: Under review
+  venue: ACL 2024 (best paper nomination from Meta-reviewer)
   year: '2024'
   pub_type: conference
   project: 
@@ -39,7 +39,7 @@
     display: CVPRW
     url: 
   ref: Sarkar2024
-  venue: under review
+  venue: CVPR (ECV) ORAL presentation
   year: '2024'
   pub_type: conference
   project: 
