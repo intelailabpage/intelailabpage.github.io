@@ -1,6 +1,6 @@
 - address: Vienna
   title: "Pruning Small Magnitude Weights Monotonically and Irreversibly Impairs Difficult Downstream Tasks in LLMs"
-  author: Lu Yin, Shiwei Liu, Ajay Jaiswal, Souvik Kundu, Zhangyang (Atlas) Wang	
+  author: Lu Yin, Shiwei Liu, Ajay Jaiswal, **Souvik Kundu**, Zhangyang (Atlas) Wang	
   link:
     display: arXiv
     url:
@@ -15,9 +15,9 @@
     display: code
     url:
 
-- address: Seattle
+- address: Thailand
   title: "AFLoRA: Adaptive Freezing of Low-Rank Adepters for Parameter Efficient Fine-Tuning of Language Models"
-  author: Souvik Kundu, Zeyu Liu, Anni Li, Junrui Wan, Lianghao Jiang, Peter A. Beerel
+  author: **Souvik Kundu**, Zeyu Liu, Anni Li, Junrui Wan, Lianghao Jiang, Peter A. Beerel
   link:
     display: ACL 2024
     url: https://arxiv.org/pdf/2403.13269.pdf
@@ -34,7 +34,7 @@
 
 - address: Seattle
   title: "Block Selective Reprogramming for On-device Training of Vision Transformers"
-  author: Sreetama Sarkar, Souvik Kundu, Kai Zheng, Peter A. Beerel
+  author: Sreetama Sarkar, **Souvik Kundu**, Kai Zheng, Peter A. Beerel
   link:
     display: CVPRW
     url: 
@@ -52,7 +52,7 @@
 
 - address: Seattle
   title: "RLNet: Robust Linearized Networks for Efficient Private Inference"
-  author: Souvik Kundu, Sreetama Sarkar, Peter A. Beerel
+  author: **Souvik Kundu**, Sreetama Sarkar, Peter A. Beerel
   link:
     display: CVPRW
     url: 
@@ -307,6 +307,23 @@
     url: 
 
 - address: NeurIPS
+  title: "Don’t Just Prune by Magnitude! Your Mask Topology is Another Secret Weapon"
+  author: N.M Duc Hoang, **Souvik Kundu**, Shiwei Liu, Zhangyang Wang
+  link:
+    display: NeurIPS
+    url: 
+  ref: hoang_neurips2023
+  venue: NeurIPS
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: 
+
+- address: NeurIPS
   title: "Improving Systematic Generalization using Simplicial Embeddings and Iterated Learning"
   author: Yi Ren, Samuel Lavoie, Mikhail Galkin, Danica J. Sutherland, Aaron Courville
   link:
@@ -359,7 +376,7 @@
 
 - address: Paris
   title: "SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation"
-  author: Souvik Kundu*, Yuke Zhang*, Dake Chen*, Chenghao Li, Peter A. Beerel
+  author: **Souvik Kundu**, Yuke Zhang*, Dake Chen*, Chenghao Li, Peter A. Beerel
   link:
     display: CVF
     url: https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_SAL-ViT_Towards_Latency_Efficient_Private_Inference_on_ViT_using_Selective_ICCV_2023_paper.pdf
@@ -393,7 +410,7 @@
 
 - address: Hawaii
   title: "NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations"
-  author: Yonggan Fu, Ye Yuan, Souvik Kundu, Shang Wu, Shunyao Zhang, Celine Lin
+  author: Yonggan Fu, Ye Yuan, **Souvik Kundu**, Shang Wu, Shunyao Zhang, Celine Lin
   link:
     display: PMLR
     url: https://proceedings.mlr.press/v202/fu23g/fu23g.pdf
