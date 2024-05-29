@@ -268,7 +268,7 @@
     url: http://svcl.ucsd.edu/projects/svitt/ 
   code: 
     display: code
-    url: 
+    url:  
 
 - address: Vancouver
   title: "Unbiased video scene graph generation"
@@ -286,20 +286,4 @@
   code: 
     display: code
     url: https://github.com/sayaknag/unbiasedSGG.git
-  
-- address: Hawaii
-  title: "Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs"
-  author: Shengyu Feng, Hesham Mostafa, Marcel Nassar, Somdeb Majumdar, Subarna Tripathi  
-  link:
-    display: CVF
-    url: https://openaccess.thecvf.com/content/WACV2023/papers/Feng_Exploiting_Long-Term_Dependencies_for_Generating_Dynamic_Scene_Graphs_WACV_2023_paper.pdf
-  ref: Nag2023
-  venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
-  year: '2023'
-  pub_type: conference
-  project:
-    display: project
-    url:  
-  code:
-    display: code
-    url: https://github.com/Shengyu-Feng/DSG-DETR
+    
