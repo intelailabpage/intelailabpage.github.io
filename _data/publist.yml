@@ -253,5 +253,40 @@
     display: code
     url: 
 
+- address: Vancouver
+  title: "STHG: Spatial-Temporal Heterogeneous Graph Learning for Advanced Audio-Visual Diarization"
+  author: Kyle Min
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2306.10608
+  ref: min2023_2
+  venue: 'Ego4D challenge at CVPR'
+  year: '2023'
+  pub_type: conference
+  project:
+    display: project
+    url:
+  code:
+    display: code
+    url:
+
+- address: arxiv
+  title: "BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives"
+  author: Sainan Liu, Shan Lin, Jingpei Lu, Shreya Saha, Alexey Supikov, Michael Yip
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2306.04166
+  ref: liu2023
+  venue: CVPRW
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url: https://github.com/IntelLabs/baa-ngp
+
+
 
 
