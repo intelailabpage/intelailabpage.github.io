@@ -1,3 +1,37 @@
+- address: Seattle
+  title: "VideoSAGE: Video Summarization with Graph Representation Learning"
+  author: Jose Rojas Chaves, Subarna Tripathi
+  link:
+    display: CVPRW
+    url: https://arxiv.org/pdf/2404.10539.pdf
+  ref: Chaves2024
+  venue: CVPR
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: Seattle
+  title: "LAVITI: Contrastive Language Video Time Pre-training"
+  author: Hengyue Liu, Kyle Min, Hector A Valdez, Subarna Tripathi
+  link:
+    display: CVPRW
+    url:  
+  ref: Liu2024
+  venue: CVPR
+  year: '2024'
+  pub_type: conference
+  project:  
+    display: project
+    url:  
+  code:
+    display: code
+    url:
+    
 - address: Vienna
   title: "Pruning Small Magnitude Weights Monotonically and Irreversibly Impairs Difficult Downstream Tasks in LLMs"
   author: Lu Yin, Shiwei Liu, Ajay Jaiswal, Souvik Kundu, Zhangyang (Atlas) Wang
