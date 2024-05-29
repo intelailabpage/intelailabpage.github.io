@@ -1,376 +1,376 @@
-# - address: Seattle
-#   title: "LAVITI: Contrastive Language Video Time Pre-training"
-#   author: Hengyue Liu, Kyle Min, Hector A Valdez, Subarna Tripathi
-#   link:
-#     display: CVPRW
-#     url: 
-#   ref: Liu2024
-#   venue: CVPR
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url:
+- address: Seattle
+  title: "LAVITI: Contrastive Language Video Time Pre-training"
+  author: Hengyue Liu, Kyle Min, Hector A Valdez, Subarna Tripathi
+  link:
+    display: CVPRW
+    url: 
+  ref: Liu2024
+  venue: CVPR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
 
-# - address: Vienna
-#   title: "Pruning Small Magnitude Weights Monotonically and Irreversibly Impairs Difficult Downstream Tasks in LLMs"
-#   author: Lu Yin, Shiwei Liu, Ajay Jaiswal, Souvik Kundu, Zhangyang (Atlas) Wang	
-#   link:
-#     display: arXiv
-#     url:
-#   ref: Yin2024
-#   venue: ICML
-#   year: '2024'
-#   pub_type: conference
-#   project:
-#     display: project
-#     url:
-#   code:
-#     display: code
-#     url:
+- address: Vienna
+  title: "Pruning Small Magnitude Weights Monotonically and Irreversibly Impairs Difficult Downstream Tasks in LLMs"
+  author: Lu Yin, Shiwei Liu, Ajay Jaiswal, Souvik Kundu, Zhangyang (Atlas) Wang	
+  link:
+    display: arXiv
+    url:
+  ref: Yin2024
+  venue: ICML
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:
+  code:
+    display: code
+    url:
 
-# - address: Thailand
-#   title: "AFLoRA: Adaptive Freezing of Low-Rank Adepters for Parameter Efficient Fine-Tuning of Language Models"
-#   author: Souvik Kundu, Zeyu Liu, Anni Li, Junrui Wan, Lianghao Jiang, Peter A. Beerel
-#   link:
-#     display: ACL
-#     url: https://arxiv.org/pdf/2403.13269.pdf
-#   ref: aflora2024
-#   venue: ACL (best paper nomination from Meta-reviewer)
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url: 
+- address: Thailand
+  title: "AFLoRA: Adaptive Freezing of Low-Rank Adepters for Parameter Efficient Fine-Tuning of Language Models"
+  author: Souvik Kundu, Zeyu Liu, Anni Li, Junrui Wan, Lianghao Jiang, Peter A. Beerel
+  link:
+    display: ACL
+    url: https://arxiv.org/pdf/2403.13269.pdf
+  ref: aflora2024
+  venue: ACL (best paper nomination from Meta-reviewer)
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: 
 
-# - address: Seattle
-#   title: "Block Selective Reprogramming for On-device Training of Vision Transformers"
-#   author: Sreetama Sarkar, Souvik Kundu, Kai Zheng, Peter A. Beerel
-#   link:
-#     display: CVPRW
-#     url: 
-#   ref: Sarkar2024
-#   venue: CVPR (ECV) ORAL presentation
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url: https://github.com/sreetamasarkar/BSR
+- address: Seattle
+  title: "Block Selective Reprogramming for On-device Training of Vision Transformers"
+  author: Sreetama Sarkar, Souvik Kundu, Kai Zheng, Peter A. Beerel
+  link:
+    display: CVPRW
+    url: 
+  ref: Sarkar2024
+  venue: CVPR (ECV) ORAL presentation
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: https://github.com/sreetamasarkar/BSR
 
-# - address: Seattle
-#   title: "RLNet: Robust Linearized Networks for Efficient Private Inference"
-#   author: Souvik Kundu, Sreetama Sarkar, Peter A. Beerel
-#   link:
-#     display: CVPRW
-#     url: 
-#   ref: sarkarrlnet2024
-#   venue: CVPR (Trusted Computer Vision)
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url: https://github.com/sreetamasarkar/rlnet/tree/main
+- address: Seattle
+  title: "RLNet: Robust Linearized Networks for Efficient Private Inference"
+  author: Souvik Kundu, Sreetama Sarkar, Peter A. Beerel
+  link:
+    display: CVPRW
+    url: 
+  ref: sarkarrlnet2024
+  venue: CVPR (Trusted Computer Vision)
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: https://github.com/sreetamasarkar/rlnet/tree/main
     
-# - address: Vienna
-#   title: "Searching the Space of High-Value Molecules Using Reinforcement Learning and Language Models"
-#   author: Raj Ghugare, Santiago Miret, Adriana Hugessen, Mariano Phielipp, Glen Berseth
-#   link:
-#     display: ICLR
-#     url: 
-#   ref: Ghugare2024
-#   venue: ICLR
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url:
+- address: Vienna
+  title: "Searching the Space of High-Value Molecules Using Reinforcement Learning and Language Models"
+  author: Raj Ghugare, Santiago Miret, Adriana Hugessen, Mariano Phielipp, Glen Berseth
+  link:
+    display: ICLR
+    url: 
+  ref: Ghugare2024
+  venue: ICLR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
     
-# - address: Vienna
-#   title: "Towards Foundation Models for Knowledge Graph Reasoning"
-#   author: Mikhail Galkin, Xinyu Yuan, Hesham Mostafa, Jian Tang, Zhaocheng Zhu
-#   link:
-#     display: ICLR
-#     url: 
-#   ref: Galkin2024
-#   venue: ICLR
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url:
+- address: Vienna
+  title: "Towards Foundation Models for Knowledge Graph Reasoning"
+  author: Mikhail Galkin, Xinyu Yuan, Hesham Mostafa, Jian Tang, Zhaocheng Zhu
+  link:
+    display: ICLR
+    url: 
+  ref: Galkin2024
+  venue: ICLR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
 
-# - address: Vienna
-#   title: "Fusing Models with Complementary Expertise"
-#   author: Hongyi Wang, Felipe Maia Polo, Yuekai Sun, Souvik Kundu, Eric Xing, Mikhail Yurochkin
-#   link:
-#     display: ICLR
-#     url: https://openreview.net/pdf?id=PhMrGCMIRL
-#   ref: Wang2024foe
-#   venue: ICLR
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url:
+- address: Vienna
+  title: "Fusing Models with Complementary Expertise"
+  author: Hongyi Wang, Felipe Maia Polo, Yuekai Sun, Souvik Kundu, Eric Xing, Mikhail Yurochkin
+  link:
+    display: ICLR
+    url: https://openreview.net/pdf?id=PhMrGCMIRL
+  ref: Wang2024foe
+  venue: ICLR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
 
-# - address: Seattle
-#   title: "VideoSAGE: Video Summarization with Graph Representation Learning"
-#   author: Jose Rojas Chaves, Subarna Tripathi
-#   link:
-#     display: CVPRW
-#     url: https://arxiv.org/pdf/2404.10539.pdf
-#   ref: Chaves2024
-#   venue: CVPR
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url:
+- address: Seattle
+  title: "VideoSAGE: Video Summarization with Graph Representation Learning"
+  author: Jose Rojas Chaves, Subarna Tripathi
+  link:
+    display: CVPRW
+    url: https://arxiv.org/pdf/2404.10539.pdf
+  ref: Chaves2024
+  venue: CVPR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
 
-# - address: XXX
-#   title: "CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs"
-#   author: A. Ramachandran, Souvik Kundu, Tushar Krishna
-#   link:
-#     display: Under review
-#     url: 
-#   ref: Ramachandran2024
-#   venue: under review
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url:
+- address: XXX
+  title: "CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs"
+  author: A. Ramachandran, Souvik Kundu, Tushar Krishna
+  link:
+    display: Under review
+    url: 
+  ref: Ramachandran2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
 
-# - address: XXX
-#   title: "GenQ: Quantization in Low Data Regimes with Generative Synthetic Data"
-#   author: Yuhang Li, Youngeun Kim, Donghyun Lee, **Souvik Kundu**, Priyadarshini Panda
-#   link:
-#     display: Under review
-#     url: https://arxiv.org/pdf/2312.05272
-#   ref: Ligenq2024
-#   venue: under review
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url:
+- address: XXX
+  title: "GenQ: Quantization in Low Data Regimes with Generative Synthetic Data"
+  author: Yuhang Li, Youngeun Kim, Donghyun Lee, **Souvik Kundu**, Priyadarshini Panda
+  link:
+    display: Under review
+    url: https://arxiv.org/pdf/2312.05272
+  ref: Ligenq2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
 
-# - address: ECCV
-#   title: "Ego-VPA: Egocentric Video Understanding with Parameter-efficient Adaptation"
-#   author: Tz-Ying Wu, Kyle Min, Subarna Tripathi, Nuno Vasconcelos
-#   link:
-#     display: Under review
-#     url: 
-#   ref: Wu2024
-#   venue: under review
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url:
+- address: ECCV
+  title: "Ego-VPA: Egocentric Video Understanding with Parameter-efficient Adaptation"
+  author: Tz-Ying Wu, Kyle Min, Subarna Tripathi, Nuno Vasconcelos
+  link:
+    display: Under review
+    url: 
+  ref: Wu2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
     
-# - address: ECCV
-#   title: "PASTE: Prompt-Aligned Scene TExture synthesis"
-#   author: Ting Hsuan Liao, Sainan Liu, Ilke Demir, Jia-Bin Huang
-#   link:
-#     display: Under review
-#     url: 
-#   ref: Liao2024
-#   venue: under review
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url:
+- address: ECCV
+  title: "PASTE: Prompt-Aligned Scene TExture synthesis"
+  author: Ting Hsuan Liao, Sainan Liu, Ilke Demir, Jia-Bin Huang
+  link:
+    display: Under review
+    url: 
+  ref: Liao2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
 
-# - address: XXX
-#   title: "R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model"
-#   author: Changhoon Kim*, Kyle Min*, Yezhou Yang
-#   link:
-#     display: Under review
-#     url: 
-#   ref: Kim2024
-#   venue: under review
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url:
+- address: XXX
+  title: "R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model"
+  author: Changhoon Kim*, Kyle Min*, Yezhou Yang
+  link:
+    display: Under review
+    url: 
+  ref: Kim2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
     
-# - address: Seattle
-#   title: "Image Sculpting: Precise Object Editing with 3D Geometry Control"
-#   author: Jiraphon Yenphraphai, Xichen Pan, Sainan Liu, Daniele Panozzo, Saining Xie
-#   link:
-#     display: CVPR
-#     url: https://arxiv.org/abs/2401.01702
-#   ref: Yenphraphai2023
-#   venue: CVPR
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: https://image-sculpting.github.io/
-#   code: 
-#     display: code
-#     url: https://github.com/vision-x-nyu/image-sculpting
+- address: Seattle
+  title: "Image Sculpting: Precise Object Editing with 3D Geometry Control"
+  author: Jiraphon Yenphraphai, Xichen Pan, Sainan Liu, Daniele Panozzo, Saining Xie
+  link:
+    display: CVPR
+    url: https://arxiv.org/abs/2401.01702
+  ref: Yenphraphai2023
+  venue: CVPR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: https://image-sculpting.github.io/
+  code: 
+    display: code
+    url: https://github.com/vision-x-nyu/image-sculpting
 
-# - address: Seattle
-#   title: "WOUAF: Weight Modulation for User Attribution and Fingerprinting in Text-to-Image Diffusion Models"
-#   author: Changhoon Kim, Kyle Min, Maitreya Patel, Sheng Cheng, Yezhou Yang
-#   link:
-#     display: CVPR
-#     url: https://arxiv.org/abs/2306.04744
-#   ref: kim2023
-#   venue: 'CVPR'
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: https://wouaf.vercel.app/ 
-#   code: 
-#     display: code
-#     url: https://huggingface.co/spaces/wouaf/WOUAF-Text-to-Image
+- address: Seattle
+  title: "WOUAF: Weight Modulation for User Attribution and Fingerprinting in Text-to-Image Diffusion Models"
+  author: Changhoon Kim, Kyle Min, Maitreya Patel, Sheng Cheng, Yezhou Yang
+  link:
+    display: CVPR
+    url: https://arxiv.org/abs/2306.04744
+  ref: kim2023
+  venue: 'CVPR'
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: https://wouaf.vercel.app/ 
+  code: 
+    display: code
+    url: https://huggingface.co/spaces/wouaf/WOUAF-Text-to-Image
 
-# - address: Seattle
-#   title: "Action Scene Graphs for Long-Form Understanding of Egocentric Videos"
-#   author: Ivan Rodin, Antonino Furnari, Kyle Min, Subarna Tripathi, Giovanni Maria Farinella
-#   link:
-#     display: CVPR
-#     url: https://arxiv.org/abs/2312.03391
-#   ref: Rodin2023
-#   venue: CVPR
-#   year: '2024'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url: https://github.com/fpv-iplab/EASG
+- address: Seattle
+  title: "Action Scene Graphs for Long-Form Understanding of Egocentric Videos"
+  author: Ivan Rodin, Antonino Furnari, Kyle Min, Subarna Tripathi, Giovanni Maria Farinella
+  link:
+    display: CVPR
+    url: https://arxiv.org/abs/2312.03391
+  ref: Rodin2023
+  venue: CVPR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: https://github.com/fpv-iplab/EASG
 
-# - address: arXiv
-#   title: "SimQ-NAS: Simultaneous Quantization Policy and Neural Architecture Search"
-#   author: Sharath Nittur Sridhar, Maciej Szankin, Fang Chen, Sairam Sundaresan, Anthony Sarah
-#   link:
-#     display: arXiv
-#     url: 'https://arxiv.org/abs/2312.13301'
-#   ref: SridharAAAI2024
-#   venue: Association for the Advancement of Artificial Intelligence (AAAI)
-#   year: '2024'
-#   pub_type: conference
-#   project:
-#     display: project
-#     url:  
-#   code:
-#     display: code
-#     url:    
+- address: arXiv
+  title: "SimQ-NAS: Simultaneous Quantization Policy and Neural Architecture Search"
+  author: Sharath Nittur Sridhar, Maciej Szankin, Fang Chen, Sairam Sundaresan, Anthony Sarah
+  link:
+    display: arXiv
+    url: 'https://arxiv.org/abs/2312.13301'
+  ref: SridharAAAI2024
+  venue: Association for the Advancement of Artificial Intelligence (AAAI)
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url:    
 
-# - address: Sheoul
-#   title: "Sensi-BERT: Towards Sensitivity Driven Fine-Tuning for Parameter Efficient BERT"
-#   author: Souvik Kundu, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan
-#   link:
-#     display: ICASSP
-#     url: 'https://arxiv.org/abs/2307.11764'
-#   ref: KunduICASSP2024
-#   venue: ICASSP
-#   year: '2024'
-#   pub_type: conference
-#   project:
-#     display: project
-#     url:  
-#   code:
-#     display: code
-#     url:
+- address: Sheoul
+  title: "Sensi-BERT: Towards Sensitivity Driven Fine-Tuning for Parameter Efficient BERT"
+  author: Souvik Kundu, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan
+  link:
+    display: ICASSP
+    url: 'https://arxiv.org/abs/2307.11764'
+  ref: KunduICASSP2024
+  venue: ICASSP
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url:
 
-# - address: arXiv
-#   title: "BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields"
-#   author: Shreya Saha, Sainan Liu, Shan Lin, Jingpei Lu, Michael Yip
-#   link:
-#     display: ArXiv
-#     url: https://arxiv.org/abs/2309.15329
-#   ref: saha2023
-#   venue: arXiv
-#   year: '2023'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: https://sites.google.com/ucsd.edu/based-arclab-2023/
-#   code: 
-#     display: code
-#     url: 
+- address: arXiv
+  title: "BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields"
+  author: Shreya Saha, Sainan Liu, Shan Lin, Jingpei Lu, Michael Yip
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2309.15329
+  ref: saha2023
+  venue: arXiv
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: https://sites.google.com/ucsd.edu/based-arclab-2023/
+  code: 
+    display: code
+    url: 
 
-# - address: NeurIPS
-#   title: "Improving Systematic Generalization using Simplicial Embeddings and Iterated Learning"
-#   author: Yi Ren, Samuel Lavoie, Mikhail Galkin, Danica J. Sutherland, Aaron Courville
-#   link:
-#     display: ArXiv
-#     url: 
-#   ref: Ren2023
-#   venue: NeurIPS
-#   year: '2023'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url: 
+- address: NeurIPS
+  title: "Improving Systematic Generalization using Simplicial Embeddings and Iterated Learning"
+  author: Yi Ren, Samuel Lavoie, Mikhail Galkin, Danica J. Sutherland, Aaron Courville
+  link:
+    display: ArXiv
+    url: 
+  ref: Ren2023
+  venue: NeurIPS
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: 
 
-# - address: NeurIPS
-#   title: "A* Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs"
-#   author: Zhaocheng Zhu, Xinyu Yuan, Mikhail Galkin, Sophie Xhonneux, Ming Zhang, Maxime Gazeau, Jian Tang
-#   link:
-#     display: ArXiv
-#     url: https://arxiv.org/abs/2206.04798v4
-#   ref: zhu2023
-#   venue: NeurIPS
-#   year: '2023'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url: 
-#   code: 
-#     display: code
-#     url: 
+- address: NeurIPS
+  title: "A* Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs"
+  author: Zhaocheng Zhu, Xinyu Yuan, Mikhail Galkin, Sophie Xhonneux, Ming Zhang, Maxime Gazeau, Jian Tang
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2206.04798v4
+  ref: zhu2023
+  venue: NeurIPS
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: 
     
 - address: Paris
   title: "Vision HGNN: An Image is More than a Graph of Nodes"
