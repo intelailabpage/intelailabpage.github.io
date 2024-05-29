@@ -1,3 +1,155 @@
+- address: Vienna
+  title: "Pruning Small Magnitude Weights Monotonically and Irreversibly Impairs Difficult Downstream Tasks in LLMs"
+  author: Lu Yin, Shiwei Liu, Ajay Jaiswal, Souvik Kundu, Zhangyang (Atlas) Wang	
+  link:
+    display: arXiv
+    url:
+  ref: Yin2024
+  venue: ICML
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:
+  code:
+    display: code
+    url:
+
+- address: Thailand
+  title: "AFLoRA: Adaptive Freezing of Low-Rank Adepters for Parameter Efficient Fine-Tuning of Language Models"
+  author: Souvik Kundu, Zeyu Liu, Anni Li, Junrui Wan, Lianghao Jiang, Peter A. Beerel
+  link:
+    display: ACL
+    url: https://arxiv.org/pdf/2403.13269.pdf
+  ref: aflora2024
+  venue: ACL (best paper nomination from Meta-reviewer)
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: 
+
+- address: Seattle
+  title: "Block Selective Reprogramming for On-device Training of Vision Transformers"
+  author: Sreetama Sarkar, Souvik Kundu, Kai Zheng, Peter A. Beerel
+  link:
+    display: CVPRW
+    url: 
+  ref: Sarkar2024
+  venue: CVPR (ECV) ORAL presentation
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: https://github.com/sreetamasarkar/BSR
+
+- address: Seattle
+  title: "RLNet: Robust Linearized Networks for Efficient Private Inference"
+  author: Souvik Kundu, Sreetama Sarkar, Peter A. Beerel
+  link:
+    display: CVPRW
+    url: 
+  ref: sarkarrlnet2024
+  venue: CVPR (Trusted Computer Vision)
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: https://github.com/sreetamasarkar/rlnet/tree/main
+    
+- address: Vienna
+  title: "Searching the Space of High-Value Molecules Using Reinforcement Learning and Language Models"
+  author: Raj Ghugare, Santiago Miret, Adriana Hugessen, Mariano Phielipp, Glen Berseth
+  link:
+    display: ICLR
+    url: 
+  ref: Ghugare2024
+  venue: ICLR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+    
+- address: Vienna
+  title: "Towards Foundation Models for Knowledge Graph Reasoning"
+  author: Mikhail Galkin, Xinyu Yuan, Hesham Mostafa, Jian Tang, Zhaocheng Zhu
+  link:
+    display: ICLR
+    url: 
+  ref: Galkin2024
+  venue: ICLR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+
+- address: Vienna
+  title: "Fusing Models with Complementary Expertise"
+  author: Hongyi Wang, Felipe Maia Polo, Yuekai Sun, Souvik Kundu, Eric Xing, Mikhail Yurochkin
+  link:
+    display: ICLR
+    url: https://openreview.net/pdf?id=PhMrGCMIRL
+  ref: Wang2024foe
+  venue: ICLR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+
+- address: XXX
+  title: "CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs"
+  author: A. Ramachandran, Souvik Kundu, Tushar Krishna
+  link:
+    display: Under review
+    url: 
+  ref: Ramachandran2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+
+- address: XXX
+  title: "GenQ: Quantization in Low Data Regimes with Generative Synthetic Data"
+  author: Yuhang Li, Youngeun Kim, Donghyun Lee, **Souvik Kundu**, Priyadarshini Panda
+  link:
+    display: Under review
+    url: https://arxiv.org/pdf/2312.05272
+  ref: Ligenq2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
 - address: Seattle
   title: "LAVITI: Contrastive Language Video Time Pre-training"
   author: Hengyue Liu, Kyle Min, Hector A Valdez, Subarna Tripathi
