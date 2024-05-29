@@ -150,6 +150,24 @@
   code: 
     display: code
     url:
+
+- address: Sheoul
+  title: "Sensi-BERT: Towards Sensitivity Driven Fine-Tuning for Parameter Efficient BERT"
+  author: Souvik Kundu, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan
+  link:
+    display: ICASSP
+    url: 'https://arxiv.org/abs/2307.11764'
+  ref: KunduICASSP2024
+  venue: ICASSP
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url:
+    
 - address: Seattle
   title: "LAVITI: Contrastive Language Video Time Pre-training"
   author: Hengyue Liu, Kyle Min, Hector A Valdez, Subarna Tripathi
@@ -303,23 +321,6 @@
     display: code
     url:    
 
-- address: Sheoul
-  title: "Sensi-BERT: Towards Sensitivity Driven Fine-Tuning for Parameter Efficient BERT"
-  author: Souvik Kundu, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan
-  link:
-    display: ICASSP
-    url: 'https://arxiv.org/abs/2307.11764'
-  ref: KunduICASSP2024
-  venue: ICASSP
-  year: '2024'
-  pub_type: conference
-  project:
-    display: project
-    url:  
-  code:
-    display: code
-    url:
-
 - address: arXiv
   title: "BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields"
   author: Shreya Saha, Sainan Liu, Shan Lin, Jingpei Lu, Michael Yip
@@ -424,7 +425,7 @@
 
 - address: Hawaii
   title: "NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations"
-  author: Yonggan Fu, Ye Yuan, **Souvik Kundu**, Shang Wu, Shunyao Zhang, Celine Lin
+  author: Yonggan Fu, Ye Yuan, Souvik Kundu, Shang Wu, Shunyao Zhang, Celine Lin
   link:
     display: PMLR
     url: https://proceedings.mlr.press/v202/fu23g/fu23g.pdf
