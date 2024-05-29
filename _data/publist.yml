@@ -2,14 +2,14 @@
   title: "LAVITI: Contrastive Language Video Time Pre-training"
   author: Hengyue Liu, Kyle Min, Hector A Valdez, Subarna Tripathi
     link:
-    display: CVPRW
+    display: CVPRW
     url: 
   ref: Liu2024
   venue: CVPR
   year: '2024'
   pub_type: conference
   project: 
-    display: project
+    display: project
     url: 
   code: 
     display: code
