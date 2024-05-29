@@ -1,19 +1,19 @@
 - address: Seattle
   title: "LAVITI: Contrastive Language Video Time Pre-training"
   author: Hengyue Liu, Kyle Min, Hector A Valdez, Subarna Tripathi
-    link:
+  link: 
     display: CVPRW
-    url: 
+    url:  
   ref: Liu2024
   venue: CVPR
   year: '2024'
   pub_type: conference
-  project: 
+  project:  
     display: project
-    url: 
+    url:  
   code: 
     display: code
-    url:
+    url: 
     
 - address: Seattle
   title: "VideoSAGE: Video Summarization with Graph Representation Learning"
