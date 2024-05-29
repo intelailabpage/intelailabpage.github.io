@@ -1,3 +1,20 @@
+- address: Thailand
+  title: "AFLoRA: Adaptive Freezing of Low-Rank Adepters for Parameter Efficient Fine-Tuning of Language Models"
+  author: Souvik Kundu, Zeyu Liu, Anni Li, Junrui Wan, Lianghao Jiang, Peter A. Beerel
+  link:
+    display: ACL
+    url: https://arxiv.org/pdf/2403.13269.pdf
+  ref: aflora2024
+  venue: ACL (best paper nomination from Meta-reviewer)
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+
 - address: Vienna
   title: "Pruning Small Magnitude Weights Monotonically and Irreversibly Impairs Difficult Downstream Tasks in LLMs"
   author: Lu Yin, Shiwei Liu, Ajay Jaiswal, Souvik Kundu, Zhangyang (Atlas) Wang
