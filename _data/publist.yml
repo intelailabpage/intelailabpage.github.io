@@ -133,24 +133,7 @@
   code: 
     display: code
     url: https://github.com/fpv-iplab/EASG
-
-- address: arXiv
-  title: "SimQ-NAS: Simultaneous Quantization Policy and Neural Architecture Search"
-  author: Sharath Nittur Sridhar, Maciej Szankin, Fang Chen, Sairam Sundaresan, Anthony Sarah
-  link:
-    display: arXiv
-    url: 'https://arxiv.org/abs/2312.13301'
-  ref: SridharAAAI2024
-  venue: Association for the Advancement of Artificial Intelligence (AAAI)
-  year: '2024'
-  pub_type: conference
-  project:
-    display: project
-    url:  
-  code:
-    display: code
-    url:    
-
+    
 - address: arXiv
   title: "BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields"
   author: Shreya Saha, Sainan Liu, Shan Lin, Jingpei Lu, Michael Yip
