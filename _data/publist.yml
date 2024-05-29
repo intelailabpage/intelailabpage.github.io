@@ -5,7 +5,7 @@
     display: CVPRW
     url: 
   ref: Liu2024
-  venue: CVPR (EgoViS) presentation
+  venue: CVPR
   year: '2024'
   pub_type: conference
   project: 
@@ -13,7 +13,7 @@
     url: 
   code: 
     display: code
-    url: 
+    url:    
 
 - address: Vienna
   title: "Pruning Small Magnitude Weights Monotonically and Irreversibly Impairs Difficult Downstream Tasks in LLMs"
