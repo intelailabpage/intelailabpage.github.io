@@ -1,3 +1,4 @@
+
 - address: arXiv
   title: "Towards Joint Optimization for DNN Architecture and Configuration for Compute-In-Memory Hardware"
   author: Souvik Kundu, Anthony Sarah, Vinay Joshi, Om J Omer, Sreenivas Subramoney
@@ -14,3 +15,174 @@
   code: 
     display: code
     url: 
+
+
+- address: arXiv
+  title: "Sparse Mixture Once-for-all Adversarial Training for Efficient in-situ Trade-off between  Accuracy and Robustness of DNNs"
+  author: Souvik Kundu, Sairam Sundaresan, Sharath Nittur Sridhar, S Lu, H Tang, P. A. Beerel
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2302.03523
+  ref: KunduICASSP2022
+  venue: International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+  year: '2022'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url:
+
+- address: arXiv
+  title: "AttentionLite: Towards Efficient Self-attention models for Vision"
+  author: Souvik Kundu, Sairam Sundaresan
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2101.05216
+  ref: KunduICASSP2021
+  venue: 'International Conference on Acoustics, Speech, and Signal Processing (ICASSP), '
+  year: '2021'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: CVF
+  title: "Improving Accuracy of Respiratory Rate Estimation by Restoring High Resolution Features With Transformers and Recursive Convolutional Models"
+  author: Alicja Kwasniewska, Maciej Szankin, Jacek Ruminski, Anthony Sarah, David Gamba
+  link:
+    display: CVF
+    url: https://openaccess.thecvf.com/content/CVPR2021W/CVPM/html/Kwasniewska_Improving_Accuracy_of_Respiratory_Rate_Estimation_by_Restoring_High_Resolution_CVPRW_2021_paper.html
+  ref: KwasniewskaCVPR2021
+  venue: Computer Vision and Pattern Recognition (CVPR)
+  year: '2021'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: NeurIPS
+  title: "Undivided Attention: Are Intermediate Layers Necessary for BERT?"
+  author: Sharath Nittur Sridhar, Anthony Sarah
+  link:
+    display: NeurIPS
+    url: https://neurips2021-nlp.github.io/papers/33/CameraReady/Undivided_Attention_Neurips_Workshop_2021_CameraReady.pdf
+  ref: SridharNeurIPS2021
+  venue: Neural Information Processing Systems (NeurIPS)
+  year: '2021'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: NeurIPS
+  title: "Deep-SWIM: A few-shot learning approach to classify Solar WInd Magnetic field structures"
+  author: Hala Lamdouar, Sairam Sundaresan, Anna Jungbluth, Sudeshna Boro Saikia, Amanda Joy Camarata, Nathan Miles, Marcella Scoczynski, Mavis Stone, Anthony Sarah, Andres Munoz-Jaramillo, Ayris Narock, Adam Szabo
+  link:
+    display: NeurIPS
+    url: https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_138.pdf
+  ref: LamdouarNeurIPS2021
+  venue: Neural Information Processing Systems (NeurIPS)
+  year: '2021'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: arXiv
+  title: "Accelerating Neural Architecture Exploration Across Modalities Using Genetic Algorithms"
+  author: Daniel Cummings, Sharath Nittur Sridhar, Anthony Sarah, Maciej Szankin
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2202.12934
+  ref: CummingsGECCO2022
+  venue: Genetic and Evolutionary Computation Conference (GECCO)
+  year: '2022'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: arXiv
+  title: "A Hardware-Aware Framework for Accelerating Neural Architecture Search Across Modalities"
+  author: Daniel Cummings, Anthony Sarah, Sharath Nittur Sridhar, Maciej Szankin, Pablo Munoz, Sairam Sundaresan
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2205.10358
+  ref: CummingsAutoML2022
+  venue: Automated Machine Learning (AutoML)
+  year: '2022'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+    
+- address: OpenReview
+  title: "Automated Super-Network Generation for Scalable Neural Architecture Search"
+  author: J. Pablo Munoz, Nikolay Lyalyushkin, Chaunté W. Lacewell, Anastasia Senina, Daniel Cummings, Anthony Sarah, Alexander Kozlov, Nilesh Jain
+  link:
+    display: OpenReview
+    url: https://openreview.net/forum?id=HK-zmbTB8gq
+  ref: MunozAutoML2022
+  venue: Automated Machine Learning (AutoML)
+  year: '2022'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: arXiv
+  title: "TrimBERT: Tailoring BERT for Trade-offs"
+  author: Sharath Nittur Sridhar, Anthony Sarah, Sairam Sundaresan
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2202.12411
+  ref: SridharICML2022
+  venue: International Conference on Machine Learning (ICML)
+  year: '2022'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: OpenReview
+  title: "FLOAT: Fast Learnable Once-for-All Adversarial Training for Tunable Trade-off between Accuracy and Robustness"
+  author: Souvik Kundu, Sairam Sundaresan, M. Pedram, P. A. Beerel
+  link:
+    display: OpenReview
+    url: https://openreview.net/forum?id=MXrIVw-F_a4
+  ref: KunduWACV2022
+  venue: Winter Conference on Applications of Computer Vision (WACV)
+  year: '2022'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url:
