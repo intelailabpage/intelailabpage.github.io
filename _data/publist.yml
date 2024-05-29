@@ -253,37 +253,5 @@
     display: code
     url: 
 
-- address: Vancouver
-  title: "SViTT: Temporal Learning of Sparse Video-Text Transformer"
-  author: Yi Li, Kyle Min, Subarna Tripathi, Nuno Vasconcelos  
-  link:
-    display: arXiv
-    url: https://arxiv.org/abs/2304.08809
-  ref: Yi2023
-  venue: 'Computer Vision and Pattern Recognition (CVPR), '
-  year: '2023'
-  pub_type: conference
-  project: 
-    display: project
-    url: http://svcl.ucsd.edu/projects/svitt/ 
-  code: 
-    display: code
-    url:  
 
-- address: Vancouver
-  title: "Unbiased video scene graph generation"
-  author: Sayak Nag, Kyle Min, Subarna Tripathi, Amit Roy Choudhury  
-  link:
-    display: arXiv
-    url: https://arxiv.org/abs/2304.00733
-  ref: Nag2023
-  venue: 'Computer Vision and Pattern Recognition (CVPR), '
-  year: '2023'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: https://github.com/sayaknag/unbiasedSGG.git 
 
