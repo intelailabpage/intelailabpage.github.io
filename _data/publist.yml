@@ -168,4 +168,53 @@
     display: code
     url: https://github.com/fpv-iplab/EASG
 
+- address: arXiv
+  title: "BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields"
+  author: Shreya Saha, Sainan Liu, Shan Lin, Jingpei Lu, Michael Yip
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2309.15329
+  ref: saha2023
+  venue: arXiv
+  year: '2023'
+  pub_type: conference
+  project:
+    display: project
+    url: https://sites.google.com/ucsd.edu/based-arclab-2023/
+  code:
+    display: code
+    url:
 
+- address: NeurIPS
+  title: "Improving Systematic Generalization using Simplicial Embeddings and Iterated Learning"
+  author: Yi Ren, Samuel Lavoie, Mikhail Galkin, Danica J. Sutherland, Aaron Courville
+  link:
+    display: ArXiv
+    url:
+  ref: Ren2023
+  venue: NeurIPS
+  year: '2023'
+  pub_type: conference
+  project:
+    display: project
+    url:
+  code:
+    display: code
+    url:
+
+- address: NeurIPS
+  title: "A* Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs"
+  author: Zhaocheng Zhu, Xinyu Yuan, Mikhail Galkin, Sophie Xhonneux, Ming Zhang, Maxime Gazeau, Jian Tang
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2206.04798v4
+  ref: zhu2023
+  venue: NeurIPS
+  year: '2023'
+  pub_type: conference
+  project:
+    display: project
+    url:
+  code:
+    display: code
+    url:
