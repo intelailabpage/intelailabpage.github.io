@@ -1,4 +1,547 @@
+- address: XXX
+  title: "PASTE: Prompt-Aligned Scene TExture synthesis"
+  author: Ting Hsuan Liao, Sainan Liu, Ilke Demir, Jia-Bin Huang
+  link:
+    display: Under review
+    url: 
+  ref: Liao2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
 
+- address: XXX
+  title: "R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model"
+  author: Changhoon Kim*, Kyle Min*, Yezhou Yang
+  link:
+    display: Under review
+    url: 
+  ref: Kim2024
+  venue: under review
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url:
+    
+- address: Seattle
+  title: "Image Sculpting: Precise Object Editing with 3D Geometry Control"
+  author: Jiraphon Yenphraphai, Xichen Pan, Sainan Liu, Daniele Panozzo, Saining Xie
+  link:
+    display: CVPR
+    url: https://arxiv.org/abs/2401.01702
+  ref: Yenphraphai2023
+  venue: CVPR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: https://image-sculpting.github.io/
+  code: 
+    display: code
+    url: https://github.com/vision-x-nyu/image-sculpting
+
+- address: Seattle
+  title: "WOUAF: Weight Modulation for User Attribution and Fingerprinting in Text-to-Image Diffusion Models"
+  author: Changhoon Kim, Kyle Min, Maitreya Patel, Sheng Cheng, Yezhou Yang
+  link:
+    display: CVPR
+    url: https://arxiv.org/abs/2306.04744
+  ref: kim2023
+  venue: 'CVPR'
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: https://wouaf.vercel.app/ 
+  code: 
+    display: code
+    url: https://huggingface.co/spaces/wouaf/WOUAF-Text-to-Image
+
+- address: Seattle
+  title: "Action Scene Graphs for Long-Form Understanding of Egocentric Videos"
+  author: Ivan Rodin, Antonino Furnari, Kyle Min, Subarna Tripathi, Giovanni Maria Farinella
+  link:
+    display: CVPR
+    url: https://arxiv.org/abs/2312.03391
+  ref: Rodin2023
+  venue: CVPR
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: https://github.com/fpv-iplab/EASG
+
+- address: arXiv
+  title: "SimQ-NAS: Simultaneous Quantization Policy and Neural Architecture Search"
+  author: Sharath Nittur Sridhar, Maciej Szankin, Fang Chen, Sairam Sundaresan, Anthony Sarah
+  link:
+    display: arXiv
+    url: 'https://arxiv.org/abs/2312.13301'
+  ref: SridharAAAI2024
+  venue: Association for the Advancement of Artificial Intelligence (AAAI)
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url:    
+
+- address: Sheoul
+  title: "Sensi-BERT: Towards Sensitivity Driven Fine-Tuning for Parameter Efficient BERT"
+  author: Souvik Kundu, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan
+  link:
+    display: ICASSP
+    url: 'https://arxiv.org/abs/2307.11764'
+  ref: KunduICASSP2024
+  venue: ICASSP
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url:
+
+- address: arXiv
+  title: "BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields"
+  author: Shreya Saha, Sainan Liu, Shan Lin, Jingpei Lu, Michael Yip
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2309.15329
+  ref: saha2023
+  venue: arXiv
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: https://sites.google.com/ucsd.edu/based-arclab-2023/
+  code: 
+    display: code
+    url: 
+
+- address: NeurIPS
+  title: "Improving Systematic Generalization using Simplicial Embeddings and Iterated Learning"
+  author: Yi Ren, Samuel Lavoie, Mikhail Galkin, Danica J. Sutherland, Aaron Courville
+  link:
+    display: ArXiv
+    url: 
+  ref: Ren2023
+  venue: NeurIPS
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: 
+
+- address: NeurIPS
+  title: "A* Net: A Scalable Path-based Reasoning Approach for Knowledge Graphs"
+  author: Zhaocheng Zhu, Xinyu Yuan, Mikhail Galkin, Sophie Xhonneux, Ming Zhang, Maxime Gazeau, Jian Tang
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2206.04798v4
+  ref: zhu2023
+  venue: NeurIPS
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: 
+    
+- address: Paris
+  title: "Vision HGNN: An Image is More than a Graph of Nodes"
+  author: Yan Han, Peihao Wang, **Souvik Kundu**, Ding Ying, Zhangyang (Atlas) Wang
+  link:
+    display: CVF
+    url: https://openaccess.thecvf.com/content/ICCV2023/papers/Han_Vision_HGNN_An_Image_is_More_than_a_Graph_of_ICCV_2023_paper.pdf
+  ref: hanvihgnn2023
+  venue: 'International Conference on Computer Vision (ICCV) ORAL, '
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: https://github.com/VITA-Group/ViHGNN
+
+- address: Paris
+  title: "SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation"
+  author: **Souvik Kundu**, Yuke Zhang*, Dake Chen*, Chenghao Li, Peter A. Beerel
+  link:
+    display: CVF
+    url: "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_SAL-ViT_Towards_Latency_Efficient_Private_Inference_on_ViT_using_Selective_ICCV_2023_paper.pdf"
+  ref: zhangsalvit2023
+  venue: 'International Conference on Computer Vision (ICCV), '
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: Paris
+  title: "InstaTune: Instantaneous Neural Architecture Search During Fine-Tuning"
+  author: Sharath Nittur Sridhar, Souvik Kundu, Sairam Sundaresan, Maciej Szankin, Anthony Sarah
+  link:
+    display: CVF
+    url: "https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Sridhar_InstaTune_Instantaneous_Neural_Architecture_Search_During_Fine-Tuning_ICCVW_2023_paper.pdf"
+  ref: sridhar2023instatune
+  venue: International Conference on Computer Vision (ICCV) Workshops
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: Hawaii
+  title: "NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations"
+  author: Yonggan Fu, Ye Yuan, **Souvik Kundu**, Shang Wu, Shunyao Zhang, Celine Lin
+  link:
+    display: PMLR
+    url: https://proceedings.mlr.press/v202/fu23g/fu23g.pdf
+  ref: funerfool2023
+  venue: 'International Conference on Machine Learning (ICML), '
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: https://github.com/GATECH-EIC/NeRFool
+
+- address: Vancouver
+  title: "STHG: Spatial-Temporal Heterogeneous Graph Learning for Advanced Audio-Visual Diarization"
+  author: Kyle Min
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2306.10608
+  ref: min2023_2
+  venue: 'Ego4D challenge at CVPR'
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: 
+  code: 
+    display: code
+    url: 
+
+- address: arxiv
+  title: "BAA-NGP: Bundle-Adjusting Accelerated Neural Graphics Primitives"
+  author: Sainan Liu, Shan Lin, Jingpei Lu, Shreya Saha, Alexey Supikov, Michael Yip
+  link:
+    display: ArXiv
+    url: https://arxiv.org/abs/2306.04166
+  ref: liu2023
+  venue: CVPRW
+  year: '2024'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: https://github.com/IntelLabs/baa-ngp
+
+- address: Kigali
+  title: "Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference"
+  author: Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Liu, Peter A. Beerel
+  link:
+    display: OpenReview
+    url: https://openreview.net/forum?id=BGF9IeDfmlH
+  ref: linKun2023
+  venue: 'International Conference on Learning Representation (ICLR), '
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+  
+- address: Vancouver
+  title: "SViTT: Temporal Learning of Sparse Video-Text Transformer"
+  author: Yi Li, Kyle Min, Subarna Tripathi, Nuno Vasconcelos  
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2304.08809
+  ref: Yi2023
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url: http://svcl.ucsd.edu/projects/svitt/ 
+  code: 
+    display: code
+    url: 
+
+- address: Vancouver
+  title: "Unbiased video scene graph generation"
+  author: Sayak Nag, Kyle Min, Subarna Tripathi, Amit Roy Choudhury  
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2304.00733
+  ref: Nag2023
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: https://github.com/sayaknag/unbiasedSGG.git
+  
+- address: San Fransisco
+  title: "C2PI: An Efficient Crypto-Clear Two-Party Neural Network Private Inference"
+  author: Yuke Zhang, Dake Chen, Souvik Kundu, Haomei Liu, Ruiheng Peng, Peter A. Beerel
+  link:
+    display: arxiv
+    url: 
+  ref: zhangc2pi2023
+  venue: 'Design Automation Conference (DAC), '
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: Hawaii
+  title: "Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs"
+  author: Shengyu Feng, Hesham Mostafa, Marcel Nassar, Somdeb Majumdar, Subarna Tripathi  
+  link:
+    display: CVF
+    url: https://openaccess.thecvf.com/content/WACV2023/papers/Feng_Exploiting_Long-Term_Dependencies_for_Generating_Dynamic_Scene_Graphs_WACV_2023_paper.pdf
+  ref: Nag2023
+  venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
+  year: '2023'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: https://github.com/Shengyu-Feng/DSG-DETR 
+  
+- address: Hawaii
+  title: "Self-Attentive Pooling for Efficient Deep Learning"
+  author: Fang Chen, Gourav Datta, Souvik Kundu, Peter A. Beerel  
+  link:
+    display: CVF
+    url: https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Self-Attentive_Pooling_for_Efficient_Deep_Learning_WACV_2023_paper.pdf
+  ref: selffang2023
+  venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
+  year: '2023'
+  pub_type: conference  
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: New Orleans
+  title: "Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos"
+  author: Shaowei Liu, Subarna Tripathi, Somdeb Majumdar, Xiaolong Wang  
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2204.01696
+  ref: Liu2022
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: '2022'
+  pub_type: conference
+  project: 
+    display: project
+    url: https://stevenlsw.github.io/hoi-forecast/  
+  code: 
+    display: code
+    url: https://github.com/stevenlsw/hoi-forecast
+
+- address: New Orleans
+  title: "Text Spotting Transformers"
+  author: Xiang Zhang, Yongwen Su, Subarna Tripathi, Zhuowen Tu  
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2204.01918
+  ref: Zhang2022
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: '2022'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: https://github.com/mlpc-ucsd/TESTR
+
+- address: Telaviv
+  title: "Learning long-term spatial-temporal graphs for active speaker detection"
+  author: Kyle Min*, Sourya Roy*, Subarna Tripathi, Tanaya Guha, Somdeb Majumdar  
+  link:
+    display: arXiv
+    url: https://arxiv.org/pdf/2207.07783.pdf
+  ref: Min2022
+  venue: 'European Conference on Computer Vision (ECCV), '
+  year: '2022'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: https://github.com/SRA2/SPELL 
+
+- address: Telaviv
+  title: "Single-Stage Visual Relationship Learning using Conditional Queries"
+  author: Alakh Desai, Tz-Ying Wu, Subarna Tripathi, Nuno Vasconcelos  
+  link:
+    display: openReview
+    url: https://openreview.net/forum?id=hPVXHzzK0z
+  ref: Desai2022
+  venue: 'Neural Information Processing Systems (NeurIPS), '
+  year: '2022'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: arXiv
+  title: "AttentionLite: Towards Efficient Self-attention models for Vision"
+  author: Souvik Kundu, Sairam Sundaresan
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2101.05216
+  ref: KunduICASSP2021
+  venue: 'International Conference on Acoustics, Speech, and Signal Processing (ICASSP), '
+  year: '2021'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: CVF
+  title: "Improving Accuracy of Respiratory Rate Estimation by Restoring High Resolution Features With Transformers and Recursive Convolutional Models"
+  author: Alicja Kwasniewska, Maciej Szankin, Jacek Ruminski, Anthony Sarah, David Gamba
+  link:
+    display: CVF
+    url: https://openaccess.thecvf.com/content/CVPR2021W/CVPM/html/Kwasniewska_Improving_Accuracy_of_Respiratory_Rate_Estimation_by_Restoring_High_Resolution_CVPRW_2021_paper.html
+  ref: KwasniewskaCVPR2021
+  venue: Computer Vision and Pattern Recognition (CVPR)
+  year: '2021'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: NeurIPS
+  title: "Undivided Attention: Are Intermediate Layers Necessary for BERT?"
+  author: Sharath Nittur Sridhar, Anthony Sarah
+  link:
+    display: NeurIPS
+    url: https://neurips2021-nlp.github.io/papers/33/CameraReady/Undivided_Attention_Neurips_Workshop_2021_CameraReady.pdf
+  ref: SridharNeurIPS2021
+  venue: Neural Information Processing Systems (NeurIPS)
+  year: '2021'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: NeurIPS
+  title: "Deep-SWIM: A few-shot learning approach to classify Solar WInd Magnetic field structures"
+  author: Hala Lamdouar, Sairam Sundaresan, Anna Jungbluth, Sudeshna Boro Saikia, Amanda Joy Camarata, Nathan Miles, Marcella Scoczynski, Mavis Stone, Anthony Sarah, Andres Munoz-Jaramillo, Ayris Narock, Adam Szabo
+  link:
+    display: NeurIPS
+    url: https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_138.pdf
+  ref: LamdouarNeurIPS2021
+  venue: Neural Information Processing Systems (NeurIPS)
+  year: '2021'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: arXiv
+  title: "Accelerating Neural Architecture Exploration Across Modalities Using Genetic Algorithms"
+  author: Daniel Cummings, Sharath Nittur Sridhar, Anthony Sarah, Maciej Szankin
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2202.12934
+  ref: CummingsGECCO2022
+  venue: Genetic and Evolutionary Computation Conference (GECCO)
+  year: '2022'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+
+- address: arXiv
+  title: "A Hardware-Aware Framework for Accelerating Neural Architecture Search Across Modalities"
+  author: Daniel Cummings, Anthony Sarah, Sharath Nittur Sridhar, Maciej Szankin, Pablo Munoz, Sairam Sundaresan
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2205.10358
+  ref: CummingsAutoML2022
+  venue: Automated Machine Learning (AutoML)
+  year: '2022'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
+    
 - address: OpenReview
   title: "Automated Super-Network Generation for Scalable Neural Architecture Search"
   author: J. Pablo Munoz, Nikolay Lyalyushkin, Chaunté W. Lacewell, Anastasia Senina, Daniel Cummings, Anthony Sarah, Alexander Kozlov, Nilesh Jain
