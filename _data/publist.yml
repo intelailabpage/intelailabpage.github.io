@@ -610,5 +610,71 @@
   code:
     display:  
     url: 
-    
 
+- address: arXiv
+  title: "AttentionLite: Towards Efficient Self-attention models for Vision"
+  author: Souvik Kundu, Sairam Sundaresan 
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2101.05216
+  ref: KunduICASSP2021
+  venue: 'International Conference on Acoustics, Speech, and Signal Processing (ICASSP)'
+  year: '2021'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:  
+    url:     
+
+- address: CVF
+  title: "Improving Accuracy of Respiratory Rate Estimation by Restoring High Resolution Features With Transformers and Recursive Convolutional Models"
+  author: Alicja Kwasniewska, Maciej Szankin, Jacek Ruminski, Anthony Sarah, David Gamba 
+  link:
+    display: CVF
+    url: https://openaccess.thecvf.com/content/CVPR2021W/CVPM/html/Kwasniewska_Improving_Accuracy_of_Respiratory_Rate_Estimation_by_Restoring_High_Resolution_CVPRW_2021_paper.html
+  ref: KwasniewskaCVPR2021
+  venue: 'CVPRW'
+  year: '2021'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:  
+    url:     
+    
+- address: NeurIPS
+  title: "Undivided Attention: Are Intermediate Layers Necessary for BERT?"
+  author: Sharath Nittur Sridhar, Anthony Sarah 
+  link:
+    display: NeurIPS
+    url: https://neurips2021-nlp.github.io/papers/33/CameraReady/Undivided_Attention_Neurips_Workshop_2021_CameraReady.pdf
+  ref: SridharNeurIPS2021
+  venue: 'NeurIPS'
+  year: '2021'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:  
+    url:     
+
+- address: NeurIPS
+  title: "Deep-SWIM: A few-shot learning approach to classify Solar WInd Magnetic field structures"
+  author: Hala Lamdouar, Sairam Sundaresan, Anna Jungbluth, Sudeshna Boro Saikia, Amanda Joy Camarata, Nathan Miles, Marcella Scoczynski, Mavis Stone, Anthony Sarah, Andres Munoz-Jaramillo, Ayris Narock, Adam Szabo
+  link:
+    display: NeurIPS
+    url: https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_138.pdf
+  ref: LamdouarNeurIPS2021
+  venue: 'NeurIPS'
+  year: '2021'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:  
+    url:     
