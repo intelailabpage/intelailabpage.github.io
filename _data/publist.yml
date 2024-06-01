@@ -321,24 +321,6 @@
     display: code
     url: https://github.com/sayaknag/unbiasedSGG.git
 
-
-- address: arXiv
-  title: "TrimBERT: Tailoring BERT for Trade-offs"
-  author: Sharath Nittur Sridhar, Anthony Sarah, Sairam Sundaresan
-  link:
-    display: arXiv
-    url: https://arxiv.org/abs/2202.12411
-  ref: SridharICML2022
-  venue: 'International Conference on Machine Learning (ICML)'
-  year: '2022'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
-
 - address: Hawaii
   title: "Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs"
   author: Shengyu Feng, Hesham Mostafa, Marcel Nassar, Somdeb Majumdar, Subarna Tripathi  
@@ -355,5 +337,22 @@
   code:
     display: code
     url: https://github.com/Shengyu-Feng/DSG-DETR
+
+- address: arXiv
+  title: "TrimBERT: Tailoring BERT for Trade-offs"
+  author: Sharath Nittur Sridhar, Anthony Sarah, Sairam Sundaresan
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2202.12411
+  ref: SridharICML2022
+  venue: 'International Conference on Machine Learning (ICML)'
+  year: '2022'
+  pub_type: conference
+  project: 
+    display: project
+    url:  
+  code: 
+    display: code
+    url: 
 
   
