@@ -747,53 +747,53 @@
     display:  
     url:     
 
-# - address: Hawaii
-#   title: "NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations"
-#   author: Yonggan Fu, Ye Yuan, Souvik Kundu, Shang Wu, Shunyao Zhang, Celine Lin
-#   link:
-#     display: PMLR
-#     url: https://proceedings.mlr.press/v202/fu23g/fu23g.pdf
-#   ref: funerfool2023
-#   venue: 'International Conference on Machine Learning (ICML), '
-#   year: '2023'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url:  
-#   code: 
-#     display: code
-#     url: https://github.com/GATECH-EIC/NeRFool
+- address: Hawaii
+  title: "NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations"
+  author: Yonggan Fu, Ye Yuan, Souvik Kundu, Shang Wu, Shunyao Zhang, Celine Lin
+  link:
+    display: PMLR
+    url: https://proceedings.mlr.press/v202/fu23g/fu23g.pdf
+  ref: funerfool2023
+  venue: 'International Conference on Machine Learning (ICML), '
+  year: '2023'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:  
+    url: https://github.com/GATECH-EIC/NeRFool    
+    
+- address: Kigali
+  title: "Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference"
+  author: Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Liu, Peter A. Beerel
+  link:
+    display: OpenReview
+    url: https://openreview.net/forum?id=BGF9IeDfmlH
+  ref: funerfool2023
+  venue: 'International Conference on Learning Representation (ICLR), '
+  year: '2023'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:  
+    url:    
 
-# - address: Kigali
-#   title: "Learning to Linearize Deep Neural Networks for Secure and Efficient Private Inference"
-#   author: Souvik Kundu, Shunlin Lu, Yuke Zhang, Jacqueline Liu, Peter A. Beerel
-#   link:
-#     display: OpenReview
-#     url: https://openreview.net/forum?id=BGF9IeDfmlH
-#   ref: linKun2023
-#   venue: 'International Conference on Learning Representation (ICLR), '
-#   year: '2023'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url:  
-#   code: 
-#     display: code
-#     url: 
-
-# - address: San Fransisco
-#   title: "C2PI: An Efficient Crypto-Clear Two-Party Neural Network Private Inference"
-#   author: Yuke Zhang, Dake Chen, Souvik Kundu, Haomei Liu, Ruiheng Peng, Peter A. Beerel
-#   link:
-#     display: arxiv
-#     url: 
-#   ref: zhangc2pi2023
-#   venue: 'Design Automation Conference (DAC), '
-#   year: '2023'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url:  
-#   code: 
-#     display: code
-#     url:
+- address: San Fransisco
+  title: "C2PI: An Efficient Crypto-Clear Two-Party Neural Network Private Inference"
+  author: Yuke Zhang, Dake Chen, Souvik Kundu, Haomei Liu, Ruiheng Peng, Peter A. Beerel
+  link:
+    display: arxiv
+    url: https://openreview.net/pdf?id=3ieUGDWGrt4
+  ref: zhangc2pi2023
+  venue: 'Design Automation Conference (DAC), '
+  year: '2023'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:  
+    url:    
