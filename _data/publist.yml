@@ -509,24 +509,22 @@
     display: code
     url: https://github.com/Shengyu-Feng/DSG-DETR
 
-- address: Hawaii
-  title: "Self-Attentive Pooling for Efficient Deep Learning"
-  author: Fang Chen, Gourav Datta, Souvik Kundu, Peter A. Beerel  
-  link:
-    display: CVF
-    url: https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Self-Attentive_Pooling_for_Efficient_Deep_Learning_WACV_2023_paper.pdf
-  ref: selffang2023
-  venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
-  year: '2023'
-  pub_type: conference
-  project:
-    display: project
-    url:  
-  code:
-    display: code
-    url: 
-
-
+# - address: Hawaii
+#   title: "Self-Attentive Pooling for Efficient Deep Learning"
+#   author: Fang Chen, Gourav Datta, Souvik Kundu, Peter A. Beerel  
+#   link:
+#     display: CVF
+#     url: https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Self-Attentive_Pooling_for_Efficient_Deep_Learning_WACV_2023_paper.pdf
+#   ref: selffang2023
+#   venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
+#   year: '2023'
+#   pub_type: conference
+#   project:
+#     display: project
+#     url:  
+#   code:
+#     display: code
+#     url: 
 
 # - address: Paris
 #   title: "Vision HGNN: An Image is More than a Graph of Nodes"
