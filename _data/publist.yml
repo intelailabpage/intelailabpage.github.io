@@ -593,5 +593,22 @@
   code:
     display:  
     url: 
+
+- address: arXiv
+  title: "Sparse Mixture Once-for-all Adversarial Training for Efficient in-situ Trade-off between  Accuracy and Robustness of DNNs"
+  author: Souvik Kundu, Sairam Sundaresan, Sharath Nittur Sridhar, S Lu, H Tang, P. A. Beerel 
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2302.03523
+  ref: KunduICASSP2022
+  venue: 'International Conference on Acoustics, Speech, and Signal Processing (ICASSP)'
+  year: '2022'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:  
+    url: 
     
-  
+
