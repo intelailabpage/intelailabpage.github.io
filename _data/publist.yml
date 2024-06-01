@@ -338,23 +338,6 @@
     display: code
     url: https://github.com/Shengyu-Feng/DSG-DETR
 
-- address: OpenReview
-  title: "Automated Super-Network Generation for Scalable Neural Architecture Search"
-  author: J. Pablo Munoz, Nikolay Lyalyushkin, Chaunté W. Lacewell, Anastasia Senina, Daniel Cummings, Anthony Sarah, Alexander Kozlov, Nilesh Jain
-  link:
-    display: OpenReview
-    url: https://openreview.net/forum?id=HK-zmbTB8gq
-  ref: MunozAutoML2022
-  venue: Automated Machine Learning (AutoML)
-  year: '2022'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
-
 - address: arXiv
   title: "TrimBERT: Tailoring BERT for Trade-offs"
   author: Sharath Nittur Sridhar, Anthony Sarah, Sairam Sundaresan
@@ -362,7 +345,7 @@
     display: arXiv
     url: https://arxiv.org/abs/2202.12411
   ref: SridharICML2022
-  venue: International Conference on Machine Learning (ICML)
+  venue: 'International Conference on Machine Learning (ICML)'
   year: '2022'
   pub_type: conference
   project: 
@@ -371,21 +354,4 @@
   code: 
     display: code
     url: 
-
-- address: OpenReview
-  title: "FLOAT: Fast Learnable Once-for-All Adversarial Training for Tunable Trade-off between Accuracy and Robustness"
-  author: Souvik Kundu, Sairam Sundaresan, M. Pedram, P. A. Beerel
-  link:
-    display: OpenReview
-    url: https://openreview.net/forum?id=MXrIVw-F_a4
-  ref: KunduWACV2022
-  venue: Winter Conference on Applications of Computer Vision (WACV)
-  year: '2022'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
-
+  
