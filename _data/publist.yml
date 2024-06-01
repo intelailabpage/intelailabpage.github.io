@@ -508,7 +508,7 @@
   code:
     display: code
     url: https://github.com/Shengyu-Feng/DSG-DETR
-  
+        
 - address: arXiv
   title: "TrimBERT: Tailoring BERT for Trade-offs"
   author: Sharath Nittur Sridhar, Anthony Sarah, Sairam Sundaresan 
