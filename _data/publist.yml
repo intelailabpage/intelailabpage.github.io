@@ -1,3 +1,78 @@
+# - address: XXX
+#   title: "CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs"
+#   author: A. Ramachandran, Souvik Kundu, Tushar Krishna
+#   link:
+#     display: Under review
+#     url:
+#   ref: Ramachandran2024
+#   venue: under review
+#   year: '2024'
+#   pub_type: conference
+#   project:
+#     display: project
+#     url:
+#   code:
+#     display: code
+#     url:
+
+# - address: XXX
+#   title: "GenQ: Quantization in Low Data Regimes with Generative Synthetic Data"
+#   author: Yuhang Li, Youngeun Kim, Donghyun Lee, **Souvik Kundu**, Priyadarshini Panda
+#   link:
+#     display: Under review
+#     url: https://arxiv.org/pdf/2312.05272
+#   ref: Ligenq2024
+#   venue: under review
+#   year: '2024'
+#   pub_type: conference
+#   project: 
+#     display: project
+#     url: 
+#   code: 
+#     display: code
+#     url:
+
+# - address: Sheoul
+#   title: "Sensi-BERT: Towards Sensitivity Driven Fine-Tuning for Parameter Efficient BERT"
+#   author: Souvik Kundu, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan
+#   link:
+#     display: ICASSP
+#     url: 'https://arxiv.org/abs/2307.11764'
+#   ref: KunduICASSP2024
+#   venue: ICASSP
+#   year: '2024'
+#   pub_type: conference
+#   project:
+#     display: project
+#     url:  
+#   code:
+#     display: code
+#     url:
+
+# - address: arXiv
+#   title: "SimQ-NAS: Simultaneous Quantization Policy and Neural Architecture Search"
+#   author: Sharath Nittur Sridhar, Maciej Szankin, Fang Chen, Sairam Sundaresan, Anthony Sarah
+#   link:
+#     display: arXiv
+#     url: https://arxiv.org/abs/2312.13301
+#   ref: SridharAAAI2024
+#   venue: Association for the Advancement of Artificial Intelligence (AAAI)
+#   year: '2024'
+#   pub_type: conference
+#   project:
+#     display: project
+#     url:  
+#   code:
+#     display: code
+#     url:  
+
+
+
+
+    
+
+
+
 - address: Vienna
   title: "Searching the Space of High-Value Molecules Using Reinforcement Learning and Language Models"
   author: Raj Ghugare, Santiago Miret, Adriana Hugessen, Mariano Phielipp, Glen Berseth
