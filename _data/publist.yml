@@ -1,53 +1,53 @@
 - address: Vienna
-  title: "Searching the Space of High-Value Molecules Using Reinforcement Learning and Language Models"
-  author: Raj Ghugare, Santiago Miret, Adriana Hugessen, Mariano Phielipp, Glen Berseth
-  link:
-    display: ICLR
-    url:  
-  ref: Ghugare2024
-  venue: ICLR
-  year: '2024'
-  pub_type: conference
-  project: 
-    display: project
-    url: 
-  code: 
-    display: code
-    url:
-    
-- address: Vienna
-  title: "Towards Foundation Models for Knowledge Graph Reasoning"
-  author: Mikhail Galkin, Xinyu Yuan, Hesham Mostafa, Jian Tang, Zhaocheng Zhu
-  link:
-    display: ICLR
-    url:  
-  ref: Galkin2024
-  venue: ICLR
-  year: '2024'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
+  title: "Searching the Space of High-Value Molecules Using Reinforcement Learning and Language Models"
+  author: Raj Ghugare, Santiago Miret, Adriana Hugessen, Mariano Phielipp, Glen Berseth
+  link:
+    display: ICLR
+    url: 
+  ref: Ghugare2024
+  venue: ICLR
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url: 
 
 - address: Vienna
-  title: "Fusing Models with Complementary Expertise"
-  author: Hongyi Wang, Felipe Maia Polo, Yuekai Sun, Souvik Kundu, Eric Xing, Mikhail Yurochkin
-  link:
-    display: ICLR
-    url: https://openreview.net/pdf?id=PhMrGCMIRL
-  ref: Wang2024foe
-  venue: ICLR
-  year: '2024'
-  pub_type: conference
-  project: 
-    display: project
-    url:  
-  code: 
-    display: code
-    url: 
+  title: "Towards Foundation Models for Knowledge Graph Reasoning"
+  author: Mikhail Galkin, Xinyu Yuan, Hesham Mostafa, Jian Tang, Zhaocheng Zhu
+  link:
+    display: ICLR
+    url: 
+  ref: Galkin2024
+  venue: ICLR
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url: 
+
+- address: Vienna
+  title: "Fusing Models with Complementary Expertise"
+  author: Hongyi Wang, Felipe Maia Polo, Yuekai Sun, Souvik Kundu, Eric Xing, Mikhail Yurochkin
+  link:
+    display: ICLR
+    url: https://openreview.net/pdf?id=PhMrGCMIRL 
+  ref: Wang2024foe
+  venue: ICLR
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url: 
 
 - address: Thailand
   title: "AFLoRA: Adaptive Freezing of Low-Rank Adapters for Parameter Efficient Fine-Tuning of Language Models"
