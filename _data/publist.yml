@@ -15,6 +15,23 @@
     display: code
     url: 
 
+- address: Seattle
+  title: "Block Selective Reprogramming for On-device Training of Vision Transformers"
+  author: Sreetama Sarkar, Souvik Kundu, Kai Zheng, Peter A. Beerel
+  link:
+    display: CVPRW
+    url: 
+  ref: sarkar2024
+  venue: CVPR (ECV) ORAL presentation
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url: https://github.com/sreetamasarkar/BSR
+
 
 - address: Seattle
   title: "VideoSAGE: Video Summarization with Graph Representation Learning"
