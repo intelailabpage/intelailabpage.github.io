@@ -509,21 +509,89 @@
     display: code
     url: https://github.com/Shengyu-Feng/DSG-DETR
 
-# - address: arXiv
-#   title: "TrimBERT: Tailoring BERT for Trade-offs"
-#   author: Sharath Nittur Sridhar, Anthony Sarah, Sairam Sundaresan
-#   link:
-#     display: arXiv
-#     url: https://arxiv.org/abs/2202.12411
-#   ref: SridharICML2022
-#   venue: 'International Conference on Machine Learning (ICML)'
-#   year: '2022'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url:  
-#   code: 
-#     display: code
-#     url: 
+- address: arXiv
+  title: "TrimBERT: Tailoring BERT for Trade-offs"
+  author: Sharath Nittur Sridhar, Anthony Sarah, Sairam Sundaresan 
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2202.12411
+  ref: SridharICML2022
+  venue: 'International Conference on Machine Learning (ICML)'
+  year: '2022'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url: 
 
+- address: arXiv
+  title: "Accelerating Neural Architecture Exploration Across Modalities Using Genetic Algorithms"
+  author: Daniel Cummings, Sharath Nittur Sridhar, Anthony Sarah, Maciej Szankin 
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2202.12934
+  ref: CummingsGECCO2022
+  venue: 'Genetic and Evolutionary Computation Conference (GECCO)'
+  year: '2022'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: 
+    url: 
+
+- address: arXiv
+  title: "A Hardware-Aware Framework for Accelerating Neural Architecture Search Across Modalities"
+  author: Daniel Cummings, Anthony Sarah, Sharath Nittur Sridhar, Maciej Szankin, Pablo Munoz, Sairam Sundaresan 
+  link:
+    display: arXiv
+    url: https://arxiv.org/abs/2205.10358
+  ref: CummingsAutoML2022
+  venue: 'Automated Machine Learning (AutoML)'
+  year: '2022'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:   
+    url: 
+
+- address: OpenReview
+  title: "Automated Super-Network Generation for Scalable Neural Architecture Search"
+  author: J. Pablo Munoz, Nikolay Lyalyushkin, Chaunté W. Lacewell, Anastasia Senina, Daniel Cummings, Anthony Sarah, Alexander Kozlov, Nilesh Jain 
+  link:
+    display: OpenReview
+    url: https://openreview.net/forum?id=HK-zmbTB8gq
+  ref: MunozAutoML2022
+  venue: 'Automated Machine Learning (AutoML)'
+  year: '2022'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: 
+    url: 
+
+- address: OpenReview
+  title: "FLOAT: Fast Learnable Once-for-All Adversarial Training for Tunable Trade-off between Accuracy and Robustness"
+  author: Souvik Kundu, Sairam Sundaresan, M. Pedram, P. A. Beerel 
+  link:
+    display: OpenReview
+    url: https://openreview.net/forum?id=MXrIVw-F_a4
+  ref: KunduWACV2022
+  venue: 'ICLR'
+  year: '2022'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:  
+    url: 
+    
   
