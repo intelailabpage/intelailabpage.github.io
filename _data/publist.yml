@@ -16,6 +16,23 @@
     url: 
 
 - address: Seattle
+  title: "RLNet: Robust Linearized Networks for Efficient Private Inference"
+  author: Souvik Kundu, Sreetama Sarkar, Peter A. Beerel
+  link:
+    display: CVPRW
+    url: 
+  ref: sarkarrlnet2024
+  venue: CVPR (Trusted Computer Vision)
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url: https://github.com/sreetamasarkar/rlnet/tree/main
+    
+- address: Seattle
   title: "Block Selective Reprogramming for On-device Training of Vision Transformers"
   author: Sreetama Sarkar, Souvik Kundu, Kai Zheng, Peter A. Beerel
   link:
