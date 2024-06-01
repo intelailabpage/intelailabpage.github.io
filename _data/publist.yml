@@ -677,75 +677,75 @@
     url:  
   code:
     display:  
+    url:   
+
+- address: Hawaii
+  title: "Self-Attentive Pooling for Efficient Deep Learning"
+  author: Fang Chen, Gourav Datta, Souvik Kundu, Peter A. Beerel
+  link:
+    display: WACV
+    url: https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Self-Attentive_Pooling_for_Efficient_Deep_Learning_WACV_2023_paper.pdf
+  ref: selffang2023
+  venue: 'WACV'
+  year: '2023'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:  
+    url:         
+
+- address: Paris
+  title: "Vision HGNN: An Image is More than a Graph of Nodes"
+  author: Yan Han, Peihao Wang, **Souvik Kundu**, Ding Ying, Zhangyang (Atlas) Wang
+  link:
+    display: ICCV
+    url: https://openaccess.thecvf.com/content/ICCV2023/papers/Han_Vision_HGNN_An_Image_is_More_than_a_Graph_of_ICCV_2023_paper.pdf
+  ref: hanvihgnn2023
+  venue: 'International Conference on Computer Vision (ICCV) ORAL, '
+  year: '2023'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:  
+    url: https://github.com/VITA-Group/ViHGNN   
+
+- address: Paris
+  title: "SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation"
+  author: Souvik Kundu, Yuke Zhang, Dake Chen*, Chenghao Li, Peter A. Beerel
+  link:
+    display: ICCV
+    url: https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_SAL-ViT_Towards_Latency_Efficient_Private_Inference_on_ViT_using_Selective_ICCV_2023_paper.pdf
+  ref: zhangsalvit2023
+  venue: 'International Conference on Computer Vision (ICCV), '
+  year: '2023'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:  
+    url:        
+
+- address: Paris
+  title: "InstaTune: Instantaneous Neural Architecture Search During Fine-Tuning"
+  author: Sharath Nittur Sridhar, Souvik Kundu, Sairam Sundaresan, Maciej Szankin, Anthony Sarah
+  link:
+    display: CVF
+    url: https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Sridhar_InstaTune_Instantaneous_Neural_Architecture_Search_During_Fine-Tuning_ICCVW_2023_paper.pdf
+  ref: sridhar2023instatune
+  venue: 'International Conference on Computer Vision (ICCV) Workshop '
+  year: '2023'
+  pub_type: conference
+  project:
+    display: project
+    url:  
+  code:
+    display:  
     url:     
-
-# - address: Hawaii
-#   title: "Self-Attentive Pooling for Efficient Deep Learning"
-#   author: Fang Chen, Gourav Datta, Souvik Kundu, Peter A. Beerel  
-#   link:
-#     display: CVF
-#     url: https://openaccess.thecvf.com/content/WACV2023/papers/Chen_Self-Attentive_Pooling_for_Efficient_Deep_Learning_WACV_2023_paper.pdf
-#   ref: selffang2023
-#   venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), '
-#   year: '2023'
-#   pub_type: conference
-#   project:
-#     display: project
-#     url:  
-#   code:
-#     display: code
-#     url: 
-
-# - address: Paris
-#   title: "Vision HGNN: An Image is More than a Graph of Nodes"
-#   author: Yan Han, Peihao Wang, **Souvik Kundu**, Ding Ying, Zhangyang (Atlas) Wang
-#   link:
-#     display: CVF
-#     url: https://openaccess.thecvf.com/content/ICCV2023/papers/Han_Vision_HGNN_An_Image_is_More_than_a_Graph_of_ICCV_2023_paper.pdf
-#   ref: hanvihgnn2023
-#   venue: 'International Conference on Computer Vision (ICCV) ORAL, '
-#   year: '2023'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url:  
-#   code: 
-#     display: code
-#     url: https://github.com/VITA-Group/ViHGNN
-
-# - address: Paris
-#   title: "SAL-ViT: Towards Latency Efficient Private Inference on ViT using Selective Attention Search with a Learnable Softmax Approximation"
-#   author: **Souvik Kundu**, Yuke Zhang*, Dake Chen*, Chenghao Li, Peter A. Beerel
-#   link:
-#     display: CVF
-#     url: "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_SAL-ViT_Towards_Latency_Efficient_Private_Inference_on_ViT_using_Selective_ICCV_2023_paper.pdf"
-#   ref: zhangsalvit2023
-#   venue: 'International Conference on Computer Vision (ICCV), '
-#   year: '2023'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url:  
-#   code: 
-#     display: code
-#     url: 
-
-# - address: Paris
-#   title: "InstaTune: Instantaneous Neural Architecture Search During Fine-Tuning"
-#   author: Sharath Nittur Sridhar, Souvik Kundu, Sairam Sundaresan, Maciej Szankin, Anthony Sarah
-#   link:
-#     display: CVF
-#     url: "https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Sridhar_InstaTune_Instantaneous_Neural_Architecture_Search_During_Fine-Tuning_ICCVW_2023_paper.pdf"
-#   ref: sridhar2023instatune
-#   venue: International Conference on Computer Vision (ICCV) Workshops
-#   year: '2023'
-#   pub_type: conference
-#   project: 
-#     display: project
-#     url:  
-#   code: 
-#     display: code
-#     url: 
 
 # - address: Hawaii
 #   title: "NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations"
