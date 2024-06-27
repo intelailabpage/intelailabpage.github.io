@@ -1,4 +1,21 @@
 - address: XXX
+  title: "Bit-by-Bit: Investigating the Vulnerabilities of Binary Neural Networks to Adversarial Bit Flipping"
+  author: Shamik Kundu, Sanjay Das, Sayar Karmakar, Arnab Raha, Souvik Kundu, Yiorgos Makris, Kanad Basu
+  link:
+    display: Under review
+    url: 
+  ref: kundu2024
+  venue: TMLR
+  year: '2024'
+  pub_type: journal
+  project:
+    display: project
+    url:  
+  code:
+    display: code
+    url: 
+
+- address: XXX
   title: "CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs"
   author: A. Ramachandran, Souvik Kundu, Tushar Krishna
   link:
