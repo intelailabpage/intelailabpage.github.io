@@ -16,13 +16,30 @@
     url: 
 
 - address: XXX
+  title: "R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model"
+  author: Changhoon Kim*, Kyle Min*, Yezhou Yang
+  link:
+    display: ECCV
+    url:
+  ref: Kim2024
+  venue: ECCV
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:
+  code:
+    display: code
+    url:    
+
+- address: XXX
   title: "CLAMP-ViT: Contrastive Data-Free Learning for Adaptive Post-Training Quantization of ViTs"
   author: A. Ramachandran, Souvik Kundu, Tushar Krishna
   link:
-    display: Under review
+    display: ECCV
     url: 
   ref: Ramachandran2024
-  venue: Under review
+  venue: ECCV
   year: '2024'
   pub_type: conference
   project:
@@ -36,10 +53,10 @@
   title: "GenQ: Quantization in Low Data Regimes with Generative Synthetic Data"
   author: A. Ramachandran, Souvik Kundu, Tushar Krishna
   link:
-    display: Under review
+    display: ECCV
     url: https://arxiv.org/pdf/2312.05272
   ref: Ligenq2024
-  venue: Under review
+  venue: ECCV
   year: '2024'
   pub_type: conference
   project:
@@ -288,22 +305,6 @@
     display: code
     url:
 
-- address: XXX
-  title: "R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model"
-  author: Changhoon Kim*, Kyle Min*, Yezhou Yang
-  link:
-    display: Under review
-    url:
-  ref: Kim2024
-  venue: under review
-  year: '2024'
-  pub_type: conference
-  project:
-    display: project
-    url:
-  code:
-    display: code
-    url:
    
 - address: Seattle
   title: "Image Sculpting: Precise Object Editing with 3D Geometry Control"
