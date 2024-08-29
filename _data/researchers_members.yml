@@ -1,10 +1,3 @@
-- name: Anthony Sarah
-  photo: anthony.jpg
-  email: anthony.sarah@intel.com
-  info: Algo-HW co-design
-  website:
-  linkedin: 
-
 - name: Carmelo Gonzales
   photo: carmelo.jpg
   info: 
@@ -90,12 +83,6 @@
   website: 
   linkedin: 
 
-# - name: Sairam Sundaresan
-#   photo: sairam.jpg
-#   info: Algo-HW co-design
-#   email: sairam.sundaresan@intel.com
-#   website: https://newsletter.artofsaience.com/
-#   linkedin: https://www.linkedin.com/in/sairam-sundaresan/
 
 - name: Santiago Miret
   photo: santiago.jpg
@@ -138,6 +125,14 @@
   email: uday.malappa@intel.com
   website: 
   linkedin: 
+
+
+- name: Tz-Ying (Gina) Wu
+  photo: gina.jpg
+  website: https://gina9726.github.io/
+  info: structured and long-tailed learning
+  email: tzw001@ucsd.edu
+  linkedin: https://www.linkedin.com/in/tz-ying-wu-7197a0119/
 
  
 # - name: "This could be you !"
