@@ -5,6 +5,13 @@
   website:
   linkedin: 
 
+- name: Mariano Phielipp
+  photo: mariano.jpg
+  info: AI for Structure Chip design and Manufacturing. Deep RL.
+  email: mariano.phielipp@intel.com
+  website: https://www.intel.com/content/www/us/en/research/featured-researchers/mariano-phielipp.html
+  linkedin: https://www.linkedin.com/in/mariano-phielipp-941624/
+
 - name: Sairam Sundaresan
   photo: sairam.jpg
   info: Algo-HW co-design
