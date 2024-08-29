@@ -1,3 +1,10 @@
+- name: Anthony Sarah
+  photo: anthony.jpg
+  email: anthony.sarah@intel.com
+  info: Algo-HW co-design
+  website:
+  linkedin: 
+
 - name: Sairam Sundaresan
   photo: sairam.jpg
   info: Algo-HW co-design
