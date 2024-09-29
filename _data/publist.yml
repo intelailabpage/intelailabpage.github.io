@@ -1,6 +1,6 @@
 - address: XXX
   title: "LLaMA-NAS: Efficient Neural Architecture Search for Large Language Models"
-  author: *Anthony Sarah, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan*
+  author: Anthony Sarah, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan
   link:
     display: ECCV
     url: https://arxiv.org/abs/2405.18377
