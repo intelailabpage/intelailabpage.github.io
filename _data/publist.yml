@@ -1,4 +1,21 @@
 - address: XXX
+  title: "LLaMA-NAS: Efficient Neural Architecture Search for Large Language Models"
+  author: *Anthony Sarah, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan*
+  link:
+    display: ECCV
+    url: https://arxiv.org/abs/2405.18377
+  ref: SarahECCV2024
+  venue: ECCV
+  year: '2024'
+  pub_type: conference
+  project:
+    display: project
+    url:
+  code:
+    display: code
+    url:   
+
+- address: XXX
   title: "Bit-by-Bit: Investigating the Vulnerabilities of Binary Neural Networks to Adversarial Bit Flipping"
   author: Shamik Kundu, Sanjay Das, Sayar Karmakar, Arnab Raha, Souvik Kundu, Yiorgos Makris, Kanad Basu
   link:
