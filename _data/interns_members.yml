@@ -1,9 +1,9 @@
-- name: Hengyue (Henry) Liu
-  photo: hengyue.jpg
-  website: https://intra.ece.ucr.edu/~hliu/#contact
-  info: long-form video representation learning
-  email: ailabpage@gmail.com
-  linkedin: https://www.linkedin.com/in/liuhengyue/
+# - name: Hengyue (Henry) Liu
+#   photo: hengyue.jpg
+#   website: https://intra.ece.ucr.edu/~hliu/#contact
+#   info: long-form video representation learning
+#   email: ailabpage@gmail.com
+#   linkedin: https://www.linkedin.com/in/liuhengyue/
 
  
 # - name: Xinyu Yuan
@@ -11,6 +11,13 @@
 #   website: https://github.com/KatarinaYuan
 #   info: Graph learning
 #   email: ailabpage@gmail.com
+
+- name: Xiaoxiao Wang
+  photo: xiaoxiao.jpg
+  website: 
+  info: AI for Science
+  email: ailabpage@gmail.com
+  linkedin: 
 
 
 - name: "This could be you"
