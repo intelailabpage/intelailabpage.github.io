@@ -35,18 +35,11 @@
 
 - name: Lauren Wong
   photo: lauren.jpg
-  info: 
+  info: Time series, RFML
   email: lauren.wong@intel.com
   website: 
   linkedin: 
  
-- name:  Mikhail Galkin
-  photo: mikhail.jpg
-  info: Graph learning, geometric learning, diffusion models
-  email: mikhail.galkin@intel.com
-  website: https://migalkin.github.io/
-  linkedin: 
-
 - name: Sainan Liu
   photo: sainan.jpg
   info: 3D vision, neural rendering, scene reconstruction
@@ -63,14 +56,14 @@
 
 - name: Sean McPherson
   photo: sean.jpg
-  info: 
+  info: Efficient AI, Foundation Models 
   email: sean.mcpherson@intel.com
   website: 
   linkedin: 
 
 - name: Sharath Nittur Sridhar
   photo: sharath.jpg
-  info: Algo-HW co-design
+  info: Efficient AI, Video-llm
   email: sharath.sridhar@intel.com
   website: 
   linkedin: 
@@ -99,7 +92,7 @@
 - name: Tz-Ying (Gina) Wu
   photo: gina.jpg
   website: https://gina9726.github.io/
-  info: structured and long-tailed learning
+  info: video-llm long-tailed learning
   email: tzw001@ucsd.edu
   linkedin: https://www.linkedin.com/in/tz-ying-wu-7197a0119/
 
