@@ -1,3 +1,20 @@
+- address: Singapore
+  title: "GraphAny: A Foundation Model for Node Classification on Any Graph"
+  author: Jianan Zhao, Hesham Mostafa, Mikhail Galkin, Michael M. Bronstein, Zhaocheng Zhu, Jian Tang
+  link:
+    display: ICLR
+    url: 
+  ref: ZhaoICLR2025
+  venue: ICLR
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: https://github.com/DeepGraphLearning/GraphAny
+  code:
+    display: code
+    url: https://github.com/DeepGraphLearning/GraphAny
+
 - address: XXX
   title: "LLaMA-NAS: Efficient Neural Architecture Search for Large Language Models"
   author: Anthony Sarah, Sharath Nittur Sridhar, Maciej Szankin, Sairam Sundaresan
