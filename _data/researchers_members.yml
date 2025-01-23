@@ -5,13 +5,6 @@
   website: 
   linkedin: 
 
-- name: Hassam Sheikh
-  photo: hassam.jpg
-  info: Reinforcement learning
-  email: hassam.sheikh@intel.com
-  website:
-  linkedin: 
- 
 - name: Hector Valdez
   photo: hector.jpg
   info: 
@@ -24,13 +17,6 @@
   info: Graph learning
   email: hesham.mostafa@intel.com
   website: 
-  linkedin: 
-
-- name: John Martin
-  photo: john.jpg
-  info: Reinforcement learning
-  email: john.martin@intel.com
-  website: https://jdmartin86.github.io/
   linkedin: 
  
 - name: Kyle Min
@@ -47,13 +33,6 @@
   website: 
   linkedin: 
  
-# - name: Marcel Nassar
-#   photo: marcel.jpg
-#   info: Graph learning
-#   email: marcel.nassar@intel.com
-#   website: 
-
-
 - name:  Mikhail Galkin
   photo: mikhail.jpg
   info: Graph learning, geometric learning, diffusion models
@@ -67,7 +46,6 @@
   email: sainan.liu@intel.com
   website: 
   linkedin: 
-
 
 - name: Santiago Miret
   photo: santiago.jpg
@@ -110,7 +88,6 @@
   email: uday.malappa@intel.com
   website: 
   linkedin: 
-
 
 - name: Tz-Ying (Gina) Wu
   photo: gina.jpg
