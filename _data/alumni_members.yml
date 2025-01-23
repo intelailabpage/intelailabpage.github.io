@@ -40,4 +40,10 @@
   website:
   linkedin: 
 
+- name: John Martin
+  photo: john.jpg
+  info: Reinforcement learning
+  email: john.martin@intel.com
+  website: https://jdmartin86.github.io/
+  linkedin: 
 
