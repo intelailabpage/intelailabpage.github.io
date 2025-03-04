@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group within [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html). We do "Foundational AI Research at Scale". We build one of the fastest billion-scale graph learning platforms, and one of the first foundation models for knowledge graph reasoning. We are working on "long-form" video understanding research using sparse transformers and graphs and producing state-of-the-art on many academic benchmarks. We do forefront research on efficient multimodal generative AI including fastest NeRF in the wild. We do advanced research on AI for chip design and deep learning workload optimization. Finally, we are accelerating and democratizing AI for science - focusing on new benchmarks and tools for Material Science and Protein Synthesis.  
+We are a dynamic research group within [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html). We build multi-modal, complex reasoning systems at scale. 
+We perform core research in Foundation Models, Graph Learning, Combinatorial Optimization and explore emerging application areas including Knowledge Graph Reasoning, Video Understanding-Generation, Chip Design and AI for Science with the notion of Scalable and Novel AI Primitives. 
+We built one of the fastest billion-scale graph learning platforms, and one of the first foundation models for knowledge graph reasoning. We did "long-form" video understanding research using sparse transformers and graphs and producing state-of-the-art on many academic benchmarks. We do forefront research on efficient multimodal generative AI including video-llm focused on fined-grained temporal understanding. We do advanced research on AI for chip design and deep learning workload optimization. Finally, we are accelerating and democratizing AI for science - focusing on new benchmarks and tools for Material Science and Protein Synthesis.  
 
 
 To this end, we develop ...... (see [Research](research)).
