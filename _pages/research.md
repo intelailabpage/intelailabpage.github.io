@@ -8,8 +8,10 @@ permalink: /research/
 
 # Research #
 
-We are a group of machine learning researchers working on “Foundational AI Research at Scale”. We build one of the `first foundation models` for `graphs and geometric deep learning`: graph node classification, knowledge graph reasoning; we devise the fastest billion-scale graph learning platforms. For `foundation model optimization`, we continued to expand `GEARBox`, our suite of techniques for optimizing the compute and memory requirements of large-scale foundation models. We also developed AFLORA, a novel parameter-efficient fine-tuning method for `LLMs`. We are working on `long-form` video representation research using sparse transformers and graphs and producing state-of-the-art results on several benchmarks. 
+We are a group of machine learning researchers working on “Multi-modal, Complex reasoning systems at Scale”. 
+For `foundation model optimization`, we continued to expand `GEARBox`, our suite of techniques for optimizing the compute and memory requirements of large-scale foundation models. We also developed AFLORA, a novel parameter-efficient fine-tuning method for `LLMs`. We do research on inference-efficiency of large models, be it Transformer-based models or recurrent models such as MAMBA. We worked on `long-form` video representation research using sparse transformers and graphs and produced state-of-the-art results on several benchmarks. We innovate in video-llm space for improved temporal understanding.  
 We do advanced research on AI for chip design. Finally, we are accelerating and democratizing AI for science - focusing on new benchmarks and tools for Material Science and Protein Synthesis.
+We built one of the `first foundation models` for `graphs and geometric deep learning`: graph node classification, knowledge graph reasoning; we devise the fastest billion-scale graph learning platforms. 
 
 Here are some themes and techniques that we currently work on:
 
