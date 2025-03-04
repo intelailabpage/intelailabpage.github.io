@@ -1,3 +1,71 @@
+- address: AZ
+  title: "MaskVD: Region Masking for Efficient Video Object Detection"
+  author: S. Sarkar, G. Datta, Souvik Kundu, K. Zheng, C. Bhattacharyya, P. A. Beerel
+  link:
+    display: WACV
+    url: 
+  ref: SarkarWACV2025
+  venue: WACV
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: AZ
+  title: "Ego-VPA: Egocentric Video Understanding with Parameter-efficient Adaptation"
+  author: Tz-Ying Wu, Kyle Min, Subarna Tripathi, Nuno Vasconcelos
+  link:
+    display: WACV
+    url: 
+  ref: WuWACV2025
+  venue: WACV
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: AZ
+  title: "Deep Geometric Moments Promote Shape Consistency in Text-to-3D Generation"
+  author: Utkarsh Nath, Rajeev Goel, Kyle Min, Yezhou Yang, Eun Som Jeon
+  link:
+    display: WACV
+    url: 
+  ref: NathWACV2025
+  venue: WACV
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: AZ
+  title: "BASED: Bundle-Adjusting Surgical Endoscopic Dynamic Video Reconstruction using Neural Radiance Fields"
+  author: Shreya Saha, Lucas Liang, Shan Lin, Jingpei Lu, Michael Yip, Sainan Liu
+  link:
+    display: WACV
+    url: 
+  ref: SahaWACV2025
+  venue: WACV
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
 - address: Singapore
   title: "GraphAny: A Foundation Model for Node Classification on Any Graph"
   author: Jianan Zhao, Hesham Mostafa, Mikhail Galkin, Michael M. Bronstein, Zhaocheng Zhu, Jian Tang
