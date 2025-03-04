@@ -1,3 +1,139 @@
+- address: NM
+  title: "LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression"
+  author: Souvik Kundu, Anahita B., S Yu, P Howard, Tiep Le, Sharath Nittur Sridhar, H Kang, V Lal
+  link:
+    display: NAACL
+    url: 
+  ref: ChengNAACL2025
+  venue: NAACL
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: Singapore
+  title: "Stiefel Flow Matching for Moment-Constrained Structure Elucidation"
+  author: Austin Henry Cheng, Alston Lo, Kin Long Kelvin Lee, Santiago Miret, Alan Aspuru-Guzik
+  link:
+    display: ICLR
+    url: 
+  ref: ChengICLR2025
+  venue: ICLR
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: Singapore
+  title: "SymmCD: Symmetry-Preserving Crystal Generation with Diffusion Models"
+  author: Daniel Levy, Siba Smarak Panigrahi, Sékou-Oumar Kaba, Qiang Zhu, Kin Long Kelvin Lee, Mikhail Galkin, Santiago Miret, Siamak Ravanbakhsh
+  link:
+    display: ICLR
+    url: 
+  ref: LevyICLR2025
+  venue: ICLR
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+    
+- address: Singapore
+  title: "MatExpert: Decomposing Materials Discovery By Mimicking Human Experts"
+  author: Qianggang Ding, Santiago Miret, Bang Liu
+  link:
+    display: ICLR
+    url: 
+  ref: DingICLR2025
+  venue: ICLR
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: Singapore
+  title: "Scaling Long Context Training Data by Long-Distance Referrals"
+  author: Yonghao Zhuang, L. Hu, Yun Longfei, Souvik Kundu, Liu Zhengzhong, Eric P. Xing, Hao Zhang
+  link:
+    display: ICLR
+    url: 
+  ref: ZhuangICLR2025
+  venue: ICLR
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: Singapore
+  title: "LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding"
+  author: D. Jang, S. Park, June Y. Yang, Y. Jung, J. Yun, Souvik Kundu, Sung-Yub Kim, Eunho Yang
+  link:
+    display: ICLR
+    url: 
+  ref: JangICLR2025
+  venue: ICLR
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: Singapore
+  title: "GraphAny: A Foundation Model for Node Classification on Any Graph"
+  author: Jianan Zhao, Hesham Mostafa, Mikhail Galkin, Michael M. Bronstein, Zhaocheng Zhu, Jian Tang
+  link:
+    display: ICLR
+    url: 
+  ref: ZhaoICLR2025
+  venue: ICLR
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: https://github.com/DeepGraphLearning/GraphAny
+  code:
+    display: code
+    url: https://github.com/DeepGraphLearning/GraphAny
+
+- address: Singapore
+  title: "MambaExtend: A Training-Free Approach to Improve Long Context Extension of Mamba"
+  author: Souvik Kundu, Seyedarmin Azizi, M. Sadeghi, Massoud Pedram
+  link:
+    display: ICLR
+    url: 
+  ref: KunduICLR2025
+  venue: ICLR
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
 - address: AZ
   title: "MaskVD: Region Masking for Efficient Video Object Detection"
   author: S. Sarkar, G. Datta, Souvik Kundu, K. Zheng, C. Bhattacharyya, P. A. Beerel
@@ -65,23 +201,6 @@
   code:
     display: code
     url: 
-
-- address: Singapore
-  title: "GraphAny: A Foundation Model for Node Classification on Any Graph"
-  author: Jianan Zhao, Hesham Mostafa, Mikhail Galkin, Michael M. Bronstein, Zhaocheng Zhu, Jian Tang
-  link:
-    display: ICLR
-    url: 
-  ref: ZhaoICLR2025
-  venue: ICLR
-  year: '2025'
-  pub_type: conference
-  project:
-    display: project
-    url: https://github.com/DeepGraphLearning/GraphAny
-  code:
-    display: code
-    url: https://github.com/DeepGraphLearning/GraphAny
 
 - address: XXX
   title: "LLaMA-NAS: Efficient Neural Architecture Search for Large Language Models"
