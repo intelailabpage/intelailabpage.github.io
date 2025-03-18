@@ -139,7 +139,7 @@
   title: "QMambaExtend: Improving Long-Context Extension of Memory-Efficient Mamba Models"
   author: SeyedArmin Azizi, Souvik Kundu, M. Sadeghi, Massoud Pedram
   link:
-    display: ICLR
+    display: ICLR workshop
     url: 
   ref: AziziICLR2025
   venue: ICLR workshop
@@ -156,7 +156,7 @@
   title: "LANTERN++: Enhanced Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models"
   author: Sihwan Park, Doohyuk Jang, Sung-Yub Kim, Souvik Kundu, Eunho Yang
   link:
-    display: ICLR
+    display: ICLR workshop
     url: 
   ref: ParkICLR2025
   venue: ICLR workshop
