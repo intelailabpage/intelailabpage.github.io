@@ -16,6 +16,41 @@
     url: 
 
 - address: Singapore
+  title: "QMambaExtend: Improving Long-Context Extension of Memory-Efficient Mamba Models"
+  author: SeyedArmin Azizi, Souvik Kundu, M. Sadeghi, Massoud Pedram
+  link:
+    display: ICLR workshop
+    url: 
+  ref: AziziICLR2025
+  venue: ICLR
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: Singapore
+  title: "LANTERN++: Enhanced Relaxed Speculative Decoding with Static Tree Drafting for Visual Auto-regressive Models"
+  author: Sihwan Park, Doohyuk Jang, Sung-Yub Kim, Souvik Kundu, Eunho Yang
+  link:
+    display: ICLR workshop
+    url: 
+  ref: ParkICLR2025
+  venue: ICLR
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+    
+
+- address: Singapore
   title: "Stiefel Flow Matching for Moment-Constrained Structure Elucidation"
   author: Austin Henry Cheng, Alston Lo, Kin Long Kelvin Lee, Santiago Miret, Alan Aspuru-Guzik
   link:
@@ -133,6 +168,9 @@
   code:
     display: code
     url: 
+
+
+    
 
 - address: AZ
   title: "MaskVD: Region Masking for Efficient Video Object Detection"
