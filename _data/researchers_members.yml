@@ -1,21 +1,7 @@
-- name: Carmelo Gonzales
-  photo: carmelo.jpg
-  info: 
-  email: carmelo.gonzales@intel.com
-  website: 
-  linkedin: 
-
 - name: Hector Valdez
   photo: hector.jpg
   info: 
   email: hector.valdez@intel.com
-  website: 
-  linkedin: 
-
-- name: Hesham Mostafa
-  photo: hesham.jpg
-  info: Graph learning
-  email: hesham.mostafa@intel.com
   website: 
   linkedin: 
 
@@ -31,13 +17,6 @@
   info: Computer vision, multimodal learning
   email: kyle.min@intel.com
   website: https://sites.google.com/view/kylemin 
-  linkedin: 
-
-- name: Lauren Wong
-  photo: lauren.jpg
-  info: Time series, RFML
-  email: lauren.wong@intel.com
-  website: 
   linkedin: 
  
 - name: Sainan Liu
@@ -67,6 +46,13 @@
   email: sharath.sridhar@intel.com
   website: 
   linkedin: 
+
+- name: Shubha Kharel
+  photo: xx.jpg
+  info: 
+  email: shubha.kharel@intel.com
+  website: 
+  linkedin:   
 
 - name: Souvik Kundu
   photo: souvik.jpg
