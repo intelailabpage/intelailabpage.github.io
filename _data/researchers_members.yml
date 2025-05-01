@@ -40,6 +40,13 @@
   website: 
   linkedin: 
 
+- name: Souvik Kundu
+  photo: souvik.jpg
+  info: Efficient AI, Foundation Models 
+  email: souvikk.kundu@intel.com
+  website: https://ksouvik52.github.io/
+  linkedin: https://www.linkedin.com/in/souvik-kundu-64922b50/
+  
 - name: Sharath Nittur Sridhar
   photo: sharath.jpg
   info: Efficient AI, Video-llm
@@ -53,13 +60,6 @@
   email: shubha.kharel@intel.com
   website: 
   linkedin:   
-
-- name: Souvik Kundu
-  photo: souvik.jpg
-  info: Efficient AI, Foundation Models 
-  email: souvikk.kundu@intel.com
-  website: https://ksouvik52.github.io/
-  linkedin: https://www.linkedin.com/in/souvik-kundu-64922b50/
 
 - name: Subarna Tripathi
   photo: subarna.png
