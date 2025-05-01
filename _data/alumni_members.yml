@@ -1,3 +1,24 @@
+- name: Carmelo Gonzales
+  photo: carmelo.jpg
+  info: 
+  email: carmelo.gonzales@intel.com
+  website: 
+  linkedin: 
+  
+- name: Lauren Wong
+  photo: lauren.jpg
+  info: Time series, RFML
+  email: lauren.wong@intel.com
+  website: 
+  linkedin: 
+
+- name: Hesham Mostafa
+  photo: hesham.jpg
+  info: Graph learning
+  email: hesham.mostafa@intel.com
+  website: 
+  linkedin: 
+
 - name:  Maciej Szankin
   photo: maciej.jpg
   info: AI for Science
