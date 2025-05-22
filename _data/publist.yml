@@ -1,4 +1,74 @@
 - address: NM
+  title: "PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop"
+  author: Chenyu Li, Oscar Michel, Xichen Pan, Sainan Liu, Mike Roberts, Saining Xie
+  link:
+    display: ICML
+    url: 
+  ref: LiICML2025
+  venue: ICML
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: NM
+  title: "On-the-Fly Adaptive Distillation of Transformer to Dual-State Linear Attention for Long-Context LLM Serving"
+  author: Yeonju Ro, Zhenyu Zhang, Souvik Kundu, Zhangyang Wang, Aditya Akella
+  link:
+    display: ICML
+    url: 
+  ref: RoICML2025
+  venue: ICML
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+
+
+- address: NM
+  title: "LAMB: A Training-Free Method to Enhance the Long-Context Understanding of SSMs via Attention-Guided Token Filtering"
+  author: Zhifan Ye, Zheng Wang, Kejing Xia, Jihoon Hong, Leshu Li, Lexington Whalen, Cheng Wan, Yonggan Fu, Celine Lin, Souvik Kundu
+  link:
+    display: ACL
+    url: 
+  ref: YeACL2025
+  venue: ACL
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: NM
+  title: "Accelerating LLM Inference with Flexible N: M Sparsity via A Fully Digital Compute-in-Memory Accelerator"
+  author: Akshat Ramachandran, Souvik Kundu, Arnab Raha, Shamik Kundu, Deepak K Mathaikutty, Tushar Krishna
+  link:
+    display: DAC
+    url: 
+  ref: RamachandranDAC2025
+  venue: DAC
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: NM
   title: "LVLM-Compress-Bench: Benchmarking the Broader Impact of Large Vision-Language Model Compression"
   author: Souvik Kundu, Anahita B., S Yu, P Howard, Tiep Le, Sharath Nittur Sridhar, H Kang, V Lal
   link:
