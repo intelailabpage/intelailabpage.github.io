@@ -1,3 +1,72 @@
+- address: Mn
+  title: "CITER: Collaborative Inference for Efficient Large Language Model Decoding with Token-Level Routing"
+  author: Wenhao Zheng, Yixiao Chen, Weitong Zhang, Souvik Kundu, Yun Li, Zhengzhong Liu, Eric P Xing, Hongyi Wang, Huaxiu Yao
+  link:
+    display: COLM
+    url: 
+  ref: ZhengCOLM2025
+  venue: COLM
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: Mn
+  title: "SEAL: Steerable reasoning calibration of large language models for free"
+  author: Runjin Chen, Zhenyu Zhang, Junyuan Hong, Souvik Kundu, Zhangyang Wang
+  link:
+    display: COLM
+    url: 
+  ref: ChenCOLM2025
+  venue: COLM
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: Hn
+  title: "OuroMamba: A Data-Free Quantization Framework for Vision Mamba Models"
+  author: Akshat Ramachandran, Mingyu Lee, Huan Xu, Souvik Kundu, Tushar Krishna
+  link:
+    display: ICCV
+    url: 
+  ref: RamachandranICCV2025
+  venue: ICCV
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: Vie
+  title: "LAMB: A Training-Free Method to Enhance the Long-Context Understanding of SSMs via Attention-Guided Token Filtering"
+  author: Zhifan Ye, Zheng Wang, Kejing Xia, Jihoon Hong, Leshu Li, Lexington Whalen, Cheng Wan, Yonggan Fu, Celine Lin, Souvik Kundu
+  link:
+    display: ACL
+    url: 
+  ref: YeACL2025
+  venue: ACL
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+
 - address: NM
   title: "PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop"
   author: Chenyu Li, Oscar Michel, Xichen Pan, Sainan Liu, Mike Roberts, Saining Xie
