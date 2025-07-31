@@ -20,10 +20,10 @@
   title: "ByDeWay: Boost Your multimodal LLM with DEpth prompting in a training-free Way"
   author: Rajarshi Roy, Devleena Das, Ankesh Banerjee, Arjya Bhattacharjee, Kousik Dasgupta, Subarna Tripathi
   link:
-    display: ICCV Workshop
+    display: ICCVW
     url: 
   ref: RoyICCVW2025
-  venue: ICCVW 
+  venue: ICCV Workshop 
   year: '2025'
   pub_type: conference
   project:
