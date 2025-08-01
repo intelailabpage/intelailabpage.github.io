@@ -18,13 +18,13 @@ Here are some themes and techniques that we currently work on:
 
 ## Gen AI for Video. ## 
 
-### Multimodal-LLMs.###
+### Multimodal-LLMs. ###
 We have developed a training-free flexible pipeline, VideoNarrator, for video search and summarization utilizing multimodal LLMs (MLLMs) and vision-language models (VLMs) in a modular fashion by providing functionalities of caption generation, context provider & caption refiner and caption verifier. Our solution chieved 4–9% accuracy improvements across top-performing MLLMs including Phi-4, InternVL, Qwen, Molmo, miniCPM, and VideoLLaVA. The core technology deployed in Intel’s open-source tool: <a href="https://github.com/open-edge-platform/edge-ai-libraries/tree/main/sample-applications/video-search-and-summarization"> video-search-and-summarization </a>. 
 We are advancing the capabilities of video-LLMs with parameter-efficient finetuning (PEFT). 
 We've developed GO-Tokenizer, an object-level tokenization method for encoding compact object level information on-the-fly in a plug-and-play fashion to improve temporal comprehension capability of existing video-LLMs. 
 In a recent work, we have designing reference-free evaluation metrics for video captioning with factual analysis — fully local and independent of cloud-based LLM APIs.
 
-### Video and Multimodal Generation.###
+### Video and Multimodal Generation. ###
 We are driving algorithmic advancements to enhance the capabilities of World Models (e.g., COSMOS) and diffusion-based video generation models (e.g., Wan, HunyuanVideo, LTX Video, VACE) for zero-day deployment.
 We are currently working towards novel control mechanisms for user-friendly video generation and editing framework and we are focusing on novel evaluation metrics for motion consistency for video generation models. 
 
