@@ -24,6 +24,8 @@ We are advancing the capabilities of video-LLMs with parameter-efficient finetun
 We've developed GO-Tokenizer, an object-level tokenization method for encoding compact object level information on-the-fly in a plug-and-play fashion to improve temporal comprehension capability of existing video-LLMs. 
 In a recent work, we have designing reference-free evaluation metrics for video captioning with factual analysis — fully local and independent of cloud-based LLM APIs.
 
+Refer to the <a href="https://medium.com/@subarna.tripathi/a-journey-towards-approaching-why-question-answering-for-video-3248f41ecac6"> Medium blog </a> that can take you to a 7-minutes read summarizing the 12-years journey that will take you from image-classification to video-LLMs!
+
 ### Video and Multimodal Generation. ###
 We are driving algorithmic advancements to enhance the capabilities of World Models (e.g., COSMOS) and diffusion-based video generation models (e.g., Wan, HunyuanVideo, LTX Video, VACE) for zero-day deployment.
 We are currently working towards novel control mechanisms for user-friendly video generation and editing framework and we are focusing on novel evaluation metrics for motion consistency for video generation models. 
