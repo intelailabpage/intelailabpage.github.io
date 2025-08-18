@@ -67,6 +67,41 @@
     display: code
     url: 
 
+
+- address: Hn
+  title: "ESSENTIAL: Episodic and Semantic Memory Integration for Video Class-Incremental Learning"
+  author: Jongseo Lee, Kyungho Bae, Kyle Min, Gyeong-Moon Park, Jinwoo Choi
+  link:
+    display: ICCV
+    url: 
+  ref: LeeICCV2025
+  venue: ICCV 
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+- address: Hn
+  title: "OuroMamba: A Data-Free Quantization Framework for Vision Mamba Models"
+  author: Akshat Ramachandran, Mingyu Lee, Huan Xu, Souvik Kundu, Tushar Krishna
+  link:
+    display: ICCV
+    url: 
+  ref: RamachandranICCV2025
+  venue: ICCV
+  year: '2025'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
 - address: Mn
   title: "CITER: Collaborative Inference for Efficient Large Language Model Decoding with Token-Level Routing"
   author: Wenhao Zheng, Yixiao Chen, Weitong Zhang, Souvik Kundu, Yun Li, Zhengzhong Liu, Eric P Xing, Hongyi Wang, Huaxiu Yao
@@ -101,22 +136,6 @@
     display: code
     url: 
 
-- address: Hn
-  title: "OuroMamba: A Data-Free Quantization Framework for Vision Mamba Models"
-  author: Akshat Ramachandran, Mingyu Lee, Huan Xu, Souvik Kundu, Tushar Krishna
-  link:
-    display: ICCV
-    url: 
-  ref: RamachandranICCV2025
-  venue: ICCV
-  year: '2025'
-  pub_type: conference
-  project:
-    display: project
-    url: 
-  code:
-    display: code
-    url: 
 
 - address: NM
   title: "PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop"
