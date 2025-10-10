@@ -19,5 +19,5 @@ Edit2Motion Overview:
 <p>
 </p>
 
-<iframe width="860" height="480" src="https://www.youtube.com/embed/CeCGk8VbDGQ" frameborder="0" allowfullscreen></iframe> 
+<iframe width="1260" height="880" src="https://www.youtube.com/embed/CeCGk8VbDGQ" frameborder="0" allowfullscreen></iframe> 
 
