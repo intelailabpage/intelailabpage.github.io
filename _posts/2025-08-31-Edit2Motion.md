@@ -26,6 +26,6 @@ The following screen capture shows the steps: user starts with the first frame, 
 </p>  
 
 
-<iframe width="942" height="470" src="https://www.youtube.com/embed/CeCGk8VbDGQ" frameborder="0" allowfullscreen></iframe> 
+<iframe width="1100" height="550" src="https://www.youtube.com/embed/CeCGk8VbDGQ" frameborder="0" allowfullscreen></iframe> 
 
 
