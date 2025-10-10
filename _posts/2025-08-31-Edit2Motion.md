@@ -19,8 +19,5 @@ Edit2Motion Overview:
 <p>
 </p>
 
+<iframe width="460" height="280" src="https://www.youtube.com/embed/CeCGk8VbDGQ" frameborder="0" allowfullscreen></iframe> 
 
-{% raw %} {% include youtube.html id="CeCGk8VbDGQ" %}
-{% endraw %}
-
-{% include youtube.html id="CeCGk8VbDGQ" %}
