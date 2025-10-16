@@ -24,8 +24,6 @@ We present a training-free approach for image-to-video generation that enables o
 <p>
 The following screen capture shows the steps: user starts with the first frame, then just a click on the chitah to automatically get the segmented chitah and an impainted background. Next the user automatically receives a visually grounded signal about where the Chitah can move. Once the user places the Chitah anywhere in the suggested area, the last frame of the video gets created. Next, the first-frame last-frame guided video generation happens in the final step. For the sake of easier visualization, we have captured everything running in real-time except for object insertion and video generation which takes about 2 minutes to complete. 
 </p>  
-
-
 <iframe width="1100" height="550" src="https://www.youtube.com/embed/CeCGk8VbDGQ" frameborder="0" allowfullscreen></iframe> 
 
 
@@ -36,5 +34,11 @@ Next demo shows a bird flying animation generated using the pipeline. Note how t
 </p>  
 <iframe width="1100" height="550" src="https://www.youtube.com/embed/xHps4qeldyw" frameborder="0" allowfullscreen></iframe> 
 
+
+<h3> Demo 3: </h3>  
+<p>
+The last demo shows a dynamic scene under the sea. 
+</p>  
+<iframe width="1100" height="550" src="https://www.youtube.com/embed/m5BS4BVGPA0" frameborder="0" allowfullscreen></iframe> 
 
 
