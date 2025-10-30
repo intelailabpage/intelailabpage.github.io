@@ -27,7 +27,7 @@ We present a training-free approach for image-to-video generation that enables o
         height: auto;
     }
 </style>
-<img src="/images/edit2motion/edit2motion.png" >
+<img src="/images/pubpic/edit2motion.png" >
 
 
 <p>
@@ -42,7 +42,7 @@ first-frame last-frame (FFLF) video generator to acquire the final video generat
         height: auto;
     }
 </style>
-<img src="/images/edit2motion/semantic-guided-object-placement.png" >
+<img src="/images/pubpic/semantic-guided-object-placement.png" >
 
 <p> Semantic-guided object placement pipeline consists of detecting plaussible placement regions, guiding the user and finally applying a SOTA image editing tool to refine object integration. </p>
 
