@@ -1,4 +1,22 @@
 - address: Hn
+  title: "Harnessing Object Grounding for Time-Sensitive Video Understanding"
+  author: Tz-Ying Wu, Sharath Nittur Sridhar, Subarna Tripathi
+  link:
+    display: WACV
+    url: 
+  ref: WuIWACV2026
+  venue: WACV
+  year: '2026'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+
+- address: Hn
   title: "EASG-Bench: Video Q&A Benchmark with Egocentric Action Scene Graphs"
   author: Ivan Rodin*, Tz-Ying Wu*, Kyle Min, Sharath Nittur Sridhar, Antonino Furnari, Subarna Tripathi, Giovanni Maria Farinella
   link:
