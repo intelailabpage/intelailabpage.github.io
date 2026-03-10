@@ -14,7 +14,7 @@ permalink: /team/
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
 
-<!--## Lab Director
+## Lab Director
 
 <div class="row">
 
@@ -31,7 +31,7 @@ permalink: /team/
 
 {% endfor %}
 
-</div>-->
+</div>
 
 
 ## Researchers
