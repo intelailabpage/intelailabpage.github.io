@@ -31,11 +31,11 @@ permalink: /team/
 
 {% endfor %}
 
-</div>
+</div>-->
 
 
 ## Researchers
--->
+
 
 <div class="row">
 
