@@ -5,7 +5,7 @@ date: 2026-03-13
 permalink: /2026/03/13/search2motion.html
 author: <b> Sainan Liu, Tz-Ying Wu, Hector A Valdez, Subarna Tripathi </b>  
 excerpt: "We present a training-free approach for image-to-video generation that enables object-level motion control under a stable camera ... "
-permalink: /2025/08/31/edit2motion.html
+permalink: /2026/03/13/search2motion.html
 ---
 <p>
 
