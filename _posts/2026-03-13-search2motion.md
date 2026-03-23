@@ -47,19 +47,6 @@ This short video describes the core idea and the overall pipeline.
 <iframe width="1100" height="550" src="https://www.youtube.com/embed/Pec3Anpbnz0" frameborder="0" allowfullscreen></iframe> 
 
 
-<h3> Semantic Guided Object Placement </h3>
-<style>
-    img {
-        max-width:100%;
-        height: auto;
-    }
-</style>
-<img src="/images/pubpic/semantic-guided-object-placement.png" >
-
-<p> Semantic-guided object placement pipeline consists of detecting plaussible placement regions, guiding the user and finally applying a SOTA image editing tool to refine object integration. </p>
-
-
-
 
 <h3> Demo 1: </h3>  
 <p>
