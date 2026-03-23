@@ -35,6 +35,14 @@ The Search2Motion Pipeline is constructed with three components, where the user 
 first-frame last-frame (FFLF) video generator to acquire the final video generated based on the given input image and user preference</p>
 
 
+
+<h3> Search2Video Overview: </h3>  
+<p>
+This short video describes the core idea and the overall pipeline. 
+</p>  
+<iframe width="1100" height="550" src="https://www.youtube.com/embed/Pec3Anpbnz0" frameborder="0" allowfullscreen></iframe> 
+
+
 <h3> Semantic Guided Object Placement </h3>
 <style>
     img {
