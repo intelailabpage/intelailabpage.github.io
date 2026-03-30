@@ -8,11 +8,9 @@ excerpt: "We present a training-free approach for image-to-video generation that
 permalink: /2026/03/13/search2motion.html
 ---
 <p>
-<p>
     <a href="https://arxiv.org/abs/2603.16711"> [arXiv] </a>
 </p>
 
-</p>
 
 
 <h3>
