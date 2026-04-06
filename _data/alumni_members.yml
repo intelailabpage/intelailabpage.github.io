@@ -18,13 +18,6 @@
   website: 
   linkedin: 
 
-- name: Hesham Mostafa
-  photo: hesham.jpg
-  info: Graph learning
-  email: hesham.mostafa@intel.com
-  website: 
-  linkedin: 
-
 - name: Kin Long Kelvin Lee
   photo: kelvin.jpg
   info: AI for Science
@@ -109,4 +102,11 @@
   email: santiago.miret@intel.com
   website:
   linkedin:
+
+- name: Hesham Mostafa
+  photo: hesham.jpg
+  info: Graph learning
+  email: hesham.mostafa@intel.com
+  website: 
+  linkedin: 
 
