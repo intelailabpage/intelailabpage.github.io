@@ -1,7 +1,7 @@
 ---
-title: "Intel AI Lab - Pictures"
+title: "Intel Multimodal AI Innovation Lab - Pictures"
 layout: piclay
-excerpt: "Intel AI Lab -- Pictures"
+excerpt: "Intel Multimodal AI Innovation Lab -- Pictures"
 permalink: /pictures/
 ---
 
