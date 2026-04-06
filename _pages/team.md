@@ -1,7 +1,7 @@
 ---
-title: "Intel AI Lab - Team"
+title: "Intel Multimodal AI Innovation Lab - Team"
 layout: gridlay
-excerpt: "Intel AI Lab: Team members"
+excerpt: "Intel Multimodal AI Innovation Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
