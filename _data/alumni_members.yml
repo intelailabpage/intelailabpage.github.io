@@ -11,13 +11,6 @@
   website: 
   linkedin: 
 
-- name: Carmelo Gonzales
-  photo: carmelo.jpg
-  info: 
-  email: carmelo.gonzales@intel.com
-  website: 
-  linkedin: 
-
 - name: Kin Long Kelvin Lee
   photo: kelvin.jpg
   info: AI for Science
@@ -107,6 +100,13 @@
   photo: hesham.jpg
   info: Graph learning
   email: hesham.mostafa@intel.com
+  website: 
+  linkedin: 
+
+- name: Carmelo Gonzales
+  photo: carmelo.jpg
+  info: 
+  email: carmelo.gonzales@intel.com
   website: 
   linkedin: 
 
