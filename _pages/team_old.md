@@ -3,7 +3,7 @@ title: "Intel AI Lab - Team"
 layout: gridlay
 excerpt: "Intel AI Lab: Team members"
 sitemap: false
-permalink: /team/
+permalink: /teamold/
 ---
 
 # Group Members 
