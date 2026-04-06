@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Intel AI Lab."
+excerpt: "Intel Multimodal AI Innovation Lab."
 sitemap: false
 permalink: /allnews.html
 ---
