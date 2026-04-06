@@ -1,7 +1,7 @@
 ---
-title: "Intel AI Lab - Publications"
+title: "Intel Multimodal AI Innovation Lab - Publications"
 layout: gridlay
-excerpt: "Intel AI Lab -- Publications."
+excerpt: "Intel Multimodal AI Innovation Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
