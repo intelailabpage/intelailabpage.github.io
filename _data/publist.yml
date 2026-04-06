@@ -1,3 +1,21 @@
+- address: Sd
+  title: "Advancing Reference-free Evaluation of Video Captions with Factual Analysis"
+  author: Shubhashis Roy Dipta*, Tz-Ying Wu*, Subarna Tripathi
+  link:
+    display: ACL
+    url: 
+  ref: DiptaACL2026
+  venue: ACL
+  year: '2026'
+  pub_type: conference
+  project:
+    display: project
+    url: 
+  code:
+    display: code
+    url: 
+
+
 - address: Hn
   title: "Harnessing Object Grounding for Time-Sensitive Video Understanding"
   author: Tz-Ying Wu, Sharath Nittur Sridhar, Subarna Tripathi
