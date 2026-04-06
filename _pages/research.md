@@ -1,7 +1,7 @@
 ---
-title: "Intel AI Lab - Research"
+title: "Intel Multimodal AI Innovation Lab - Research"
 layout: textlay
-excerpt: "Intel AI Lab -- Research"
+excerpt: "Intel Multimodal AI Innovation Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
