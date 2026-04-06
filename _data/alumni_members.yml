@@ -17,13 +17,6 @@
   email: carmelo.gonzales@intel.com
   website: 
   linkedin: 
-  
-- name: Lauren Wong
-  photo: lauren.jpg
-  info: Time series, RFML
-  email: lauren.wong@intel.com
-  website: 
-  linkedin: 
 
 - name: Hesham Mostafa
   photo: hesham.jpg
@@ -66,14 +59,7 @@
   email: mariano.phielipp@intel.com
   website: https://www.intel.com/content/www/us/en/research/featured-researchers/mariano-phielipp.html
   linkedin: https://www.linkedin.com/in/mariano-phielipp-941624/
-
-- name: Sairam Sundaresan
-  photo: sairam.jpg
-  info: Algo-HW co-design
-  email: 
-  website: https://newsletter.artofsaience.com/
-  linkedin: https://www.linkedin.com/in/sairam-sundaresan/
-
+    
 - name: Marcel Nassar
   photo: marcel.jpg
   website: https://www.linkedin.com/in/marcel-nassar/
@@ -101,6 +87,21 @@
   email: mikhail.galkin@intel.com
   website: https://migalkin.github.io/
   linkedin: 
+
+  - name: Lauren Wong
+  photo: lauren.jpg
+  info: Time series, RFML
+  email: lauren.wong@intel.com
+  website: 
+  linkedin: 
+
+- name: Sairam Sundaresan
+  photo: sairam.jpg
+  info: Algo-HW co-design
+  email: 
+  website: https://newsletter.artofsaience.com/
+  linkedin: https://www.linkedin.com/in/sairam-sundaresan/
+
 
 - name: Santiago Miret
   photo: santiago.jpg
