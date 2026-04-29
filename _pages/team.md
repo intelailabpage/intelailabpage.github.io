@@ -32,7 +32,7 @@ permalink: /team/
 
 </div>
 
-## Members
+## Researchers
 
 
 <div class="row">
