@@ -3,7 +3,7 @@ layout: post
 title: "visualRAG"
 date: 2026-06-10
 permalink: /2026/06/10/visualrag.html
-author: <b> Ali Abdul Basit, Subarna Tripathi </b>  
+author: <b> Abdul Basit Ali </b>, Subarna Tripathi 
 excerpt: "We present a training-free approach for visualRAG in a unified pipeline for multimodal documents  ... "
 permalink: /2026/06/10/visualrag.html
 ---
